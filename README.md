@@ -25,11 +25,11 @@ More on [soderlind.no](https://soderlind.no/)
 
 ### Tweets
 <!-- tweet starts -->
+* [.. dvs, KS2-en ser valg av annen leverandør enn Epic som en trussel](https://twitter.com/user/status/1292114854321545218) - 08.08.2020
+* [@ChristinGorman Ser ut som du har "gjettet" rett:"Dersom Epic ikke velges som hovedleverandør til Akson, kan de b… https://t.co/LD6GL9FDFo](https://twitter.com/user/status/1292114852736106497) - 08.08.2020
 * [https://t.co/PDMG2AY84O](https://twitter.com/user/status/1292106198305497088) - 08.08.2020
 * [Times are changing #WAP https://t.co/7Rwk1omilK](https://twitter.com/user/status/1292105911369191427) - 08.08.2020
 * [Used @simonw guide and did a self-updating profile README for GitHub. You'll find the guide at… https://t.co/IBtKzxyGvN](https://twitter.com/user/status/1291498173496791040) - 06.08.2020
-* [@twigpress @stephBoisvert .. must be pure luck](https://twitter.com/user/status/1290954208976527360) - 05.08.2020
-* [@twigpress @stephBoisvert How/when do you call “activate_plugin”? I use it on my multisite and it’s not breaking my media upload view](https://twitter.com/user/status/1290953872123600903) - 05.08.2020
 <!-- tweet ends -->
 Follow me [@soderlind](https://twitter.com/soderlind)
 </td></tr></table>
