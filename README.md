@@ -2,7 +2,7 @@
 
 
 
-### My latest WordPress plugins
+### My latest projects
 <!-- plugins starts -->
 [**Read Offline allows you to download or print posts and pages. You can download the post as PDF, ePub and mobi**](https://github.com/soderlind/read-offline) &nbsp;&nbsp;&nbsp;
 [*Date Range field for Ninja Forms*](https://github.com/soderlind/date-range-ninja-forms) &nbsp;&nbsp;&nbsp;
