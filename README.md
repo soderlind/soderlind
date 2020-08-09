@@ -15,11 +15,11 @@ More on [soderlind.no](https://soderlind.no/)
 
 ### Read
 <!-- read starts -->
+* [Why use F#?](https://fsharpforfunandprofit.com/why-use-fsharp) - 09.08.2020
 * [Add width and height attributes to  elements #6652](https://github.com/WordPress/gutenberg/issues/6652) - 08.08.2020
 * [6 Best Examples of Content Aggregator Websites That Rock](https://wpmayor.com/6-best-examples-content-aggregator-websites) - 08.08.2020
 * [Introducing Cloudinarys Gatsby Plugins](https://cloudinary.com/blog/introducing_cloudinary_s_gatsby_plugins) - 06.08.2020
 * [WordPress 5.5 Field Guide](https://make.wordpress.org/core/2020/07/30/wordpress-5-5-field-guide) - 06.08.2020
-* [Miscellaneous Developer Focused Changes in WordPress 5.5](https://make.wordpress.org/core/2020/07/29/miscellaneous-developer-focused-changes-in-wordpress-5-5) - 29.07.2020
 <!-- read ends -->
 </td><td valign="top" width="33%">
 
