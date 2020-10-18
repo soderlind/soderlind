@@ -2,7 +2,7 @@ Read [my blog](https://soderlind.no/) or [follow me on Twitter](https://twitter.
 
 <table><tr><td valign="top" width="49%">
 
-### Resent actib´vity
+### Resent activity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1191](https://github.com/xwp/stream/issues/1191) in [xwp/stream](https://github.com/xwp/stream)
