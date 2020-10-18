@@ -1,6 +1,6 @@
 Read [my blog](https://soderlind.no/) or [follow me on Twitter](https://twitter.com/soderlind).
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="49%">
 
 ### Resent actib´vity
 
@@ -12,7 +12,7 @@ Read [my blog](https://soderlind.no/) or [follow me on Twitter](https://twitter.
 5. 🗣 Commented on [#3](https://github.com/WPTT/webfont-loader/issues/3) in [WPTT/webfont-loader](https://github.com/WPTT/webfont-loader)
 <!--END_SECTION:activity-->
 
-</td><td valign="top" width="34%">
+</td><td valign="top" width="49%">
 ### On my blog
 <!-- BLOG:START -->
 - [How to import native ES modules in WordPress](https://soderlind.no/how-to-import-native-es-modules-in-wordpress/)
@@ -21,11 +21,6 @@ Read [my blog](https://soderlind.no/) or [follow me on Twitter](https://twitter.
 - [Local by Flywheel: Using WordMove to mirror sites](https://soderlind.no/local-by-flywheel-using-wordmove-to-mirror-sites/)
 <!-- BLOG:END -->
 More on [soderlind.no](https://soderlind.no/)
-</td><td valign="top" width="34%">
-
-### Read
-<!-- READ:START -->
-<!-- READ:END -->
 </td></tr></table>
 
 
