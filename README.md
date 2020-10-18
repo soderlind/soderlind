@@ -15,7 +15,7 @@ Read [my blog](https://soderlind.no/) or [follow me on Twitter](https://twitter.
 </td><td valign="top" width="49%">
 
 ### On my blog
-  
+
 <!-- BLOG:START -->
 - [How to import native ES modules in WordPress](https://soderlind.no/how-to-import-native-es-modules-in-wordpress/)
 - [add_theme_support( 'disable_block_style')](https://soderlind.no/add-theme-support-disable-block-style/)
@@ -26,6 +26,13 @@ Read [my blog](https://soderlind.no/) or [follow me on Twitter](https://twitter.
 More on [soderlind.no](https://soderlind.no/)
 </td></tr></table>
 
+<details>
+  <summary>GitHub Stats</summary>
+
+  <img align="left" alt="Soderlind's GitHub Stats" src="https://github-readme-stats-d1emiyjuh.vercel.app/api?username=soderlind&show_icons=true&hide_border=true&count_private=true" />
+  <img align="left" alt="Soderlind's Languages Stats" src="https://github-readme-stats-d1emiyjuh.vercel.app/api/top-langs/?username=soderlind" />
+
+</details>
 
 <a href="https://github.com/soderlind/soderlind/actions"><img src="https://github.com/soderlind/soderlind/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
 
