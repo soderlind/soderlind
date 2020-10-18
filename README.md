@@ -5,6 +5,12 @@ Read [my blog](https://soderlind.no/) or [follow me on Twitter](https://twitter.
 ### On my blog
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1191](https://github.com/xwp/stream/issues/1191) in [xwp/stream](https://github.com/xwp/stream)
+2. ❗️ Opened issue [#1191](https://github.com/xwp/stream/issues/1191) in [xwp/stream](https://github.com/xwp/stream)
+3. ❗️ Opened issue [#4](https://github.com/DekodeInteraktiv/hogan-simple-posts/issues/4) in [DekodeInteraktiv/hogan-simple-posts](https://github.com/DekodeInteraktiv/hogan-simple-posts)
+4. 🗣 Commented on [#3](https://github.com/WPTT/webfont-loader/issues/3) in [WPTT/webfont-loader](https://github.com/WPTT/webfont-loader)
+5. 🗣 Commented on [#3](https://github.com/WPTT/webfont-loader/issues/3) in [WPTT/webfont-loader](https://github.com/WPTT/webfont-loader)
+<!--END_SECTION:activity-->
 
 More on [soderlind.no](https://soderlind.no/)
 </td><td valign="top" width="34%">
