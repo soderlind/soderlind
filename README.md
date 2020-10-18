@@ -2,7 +2,7 @@ Read [my blog](https://soderlind.no/) or [follow me on Twitter](https://twitter.
 
 <table><tr><td valign="top" width="33%">
 
-### On my blog
+### Resent actib´vity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1191](https://github.com/xwp/stream/issues/1191) in [xwp/stream](https://github.com/xwp/stream)
@@ -12,7 +12,6 @@ Read [my blog](https://soderlind.no/) or [follow me on Twitter](https://twitter.
 5. 🗣 Commented on [#3](https://github.com/WPTT/webfont-loader/issues/3) in [WPTT/webfont-loader](https://github.com/WPTT/webfont-loader)
 <!--END_SECTION:activity-->
 
-More on [soderlind.no](https://soderlind.no/)
 </td><td valign="top" width="34%">
 ### On my blog
 <!-- BLOG:START -->
