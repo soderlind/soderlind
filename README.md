@@ -15,6 +15,10 @@ Read [my blog](https://soderlind.no/) or [follow me on Twitter](https://twitter.
 </td><td valign="top" width="34%">
 ### On my blog
 <!-- BLOG:START -->
+- [How to import native ES modules in WordPress](https://soderlind.no/how-to-import-native-es-modules-in-wordpress/)
+- [add_theme_support( 'disable_block_style')](https://soderlind.no/add-theme-support-disable-block-style/)
+- [Hide block styles in Gutenberg](https://soderlind.no/hide-block-styles-in-gutenberg/)
+- [Local by Flywheel: Using WordMove to mirror sites](https://soderlind.no/local-by-flywheel-using-wordmove-to-mirror-sites/)
 <!-- BLOG:END -->
 More on [soderlind.no](https://soderlind.no/)
 </td><td valign="top" width="34%">
