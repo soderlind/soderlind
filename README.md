@@ -7,10 +7,10 @@ Read [my blog](https://soderlind.no/) or [follow me on Twitter](https://twitter.
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1191](https://github.com/xwp/stream/issues/1191) in [xwp/stream](https://github.com/xwp/stream)
-2. ❗️ Opened issue [#1191](https://github.com/xwp/stream/issues/1191) in [xwp/stream](https://github.com/xwp/stream)
-3. ❗️ Opened issue [#4](https://github.com/DekodeInteraktiv/hogan-simple-posts/issues/4) in [DekodeInteraktiv/hogan-simple-posts](https://github.com/DekodeInteraktiv/hogan-simple-posts)
-4. 🗣 Commented on [#3](https://github.com/WPTT/webfont-loader/issues/3) in [WPTT/webfont-loader](https://github.com/WPTT/webfont-loader)
+1. 🎉 Merged PR [#3](https://github.com/soderlind/wxr2pdf/pull/3) in [soderlind/wxr2pdf](https://github.com/soderlind/wxr2pdf)
+2. 🗣 Commented on [#1191](https://github.com/xwp/stream/issues/1191) in [xwp/stream](https://github.com/xwp/stream)
+3. ❗️ Opened issue [#1191](https://github.com/xwp/stream/issues/1191) in [xwp/stream](https://github.com/xwp/stream)
+4. ❗️ Opened issue [#4](https://github.com/DekodeInteraktiv/hogan-simple-posts/issues/4) in [DekodeInteraktiv/hogan-simple-posts](https://github.com/DekodeInteraktiv/hogan-simple-posts)
 5. 🗣 Commented on [#3](https://github.com/WPTT/webfont-loader/issues/3) in [WPTT/webfont-loader](https://github.com/WPTT/webfont-loader)
 <!--END_SECTION:activity-->
 
