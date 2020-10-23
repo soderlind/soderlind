@@ -2,7 +2,7 @@ Read [my blog](https://soderlind.no/) or [follow me on Twitter](https://twitter.
 
 ## Resent activity
 
-<table><tr><td valign="top" width="49%">
+<table width="100%" border="0"><tr><td valign="top" width="49%">
 
 ### On GitHub
 
