@@ -7,11 +7,11 @@ Read [my blog](https://soderlind.no/) or [follow me on Twitter](https://twitter.
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1191](https://github.com/xwp/stream/issues/1191) in [xwp/stream](https://github.com/xwp/stream)
-2. 🎉 Merged PR [#4](https://github.com/soderlind/wxr2pdf/pull/4) in [soderlind/wxr2pdf](https://github.com/soderlind/wxr2pdf)
-3. 💪 Opened PR [#4](https://github.com/soderlind/wxr2pdf/pull/4) in [soderlind/wxr2pdf](https://github.com/soderlind/wxr2pdf)
-4. 💪 Opened PR [#3](https://github.com/johnbillion/user-switching-for-regular-admins/pull/3) in [johnbillion/user-switching-for-regular-admins](https://github.com/johnbillion/user-switching-for-regular-admins)
-5. 💪 Opened PR [#1](https://github.com/johnbillion/user-switching-duo-security/pull/1) in [johnbillion/user-switching-duo-security](https://github.com/johnbillion/user-switching-duo-security)
+1. 🗣 Commented on [#1267](https://github.com/bmewburn/vscode-intelephense/issues/1267) in [bmewburn/vscode-intelephense](https://github.com/bmewburn/vscode-intelephense)
+2. 🗣 Commented on [#1191](https://github.com/xwp/stream/issues/1191) in [xwp/stream](https://github.com/xwp/stream)
+3. 🎉 Merged PR [#4](https://github.com/soderlind/wxr2pdf/pull/4) in [soderlind/wxr2pdf](https://github.com/soderlind/wxr2pdf)
+4. 💪 Opened PR [#4](https://github.com/soderlind/wxr2pdf/pull/4) in [soderlind/wxr2pdf](https://github.com/soderlind/wxr2pdf)
+5. 💪 Opened PR [#3](https://github.com/johnbillion/user-switching-for-regular-admins/pull/3) in [johnbillion/user-switching-for-regular-admins](https://github.com/johnbillion/user-switching-for-regular-admins)
 <!--END_SECTION:activity-->
 
 </td><td valign="top" width="49%">
