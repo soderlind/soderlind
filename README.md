@@ -7,11 +7,11 @@ Read [my blog](https://soderlind.no/) or [follow me on Twitter](https://twitter.
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/shibayan/keyvault-certificate-rotation/issues/12) in [shibayan/keyvault-certificate-rotation](https://github.com/shibayan/keyvault-certificate-rotation)
-2. ❗️ Opened issue [#12](https://github.com/shibayan/keyvault-certificate-rotation/issues/12) in [shibayan/keyvault-certificate-rotation](https://github.com/shibayan/keyvault-certificate-rotation)
-3. 🗣 Commented on [#1267](https://github.com/bmewburn/vscode-intelephense/issues/1267) in [bmewburn/vscode-intelephense](https://github.com/bmewburn/vscode-intelephense)
-4. 🗣 Commented on [#1191](https://github.com/xwp/stream/issues/1191) in [xwp/stream](https://github.com/xwp/stream)
-5. 🎉 Merged PR [#4](https://github.com/soderlind/wxr2pdf/pull/4) in [soderlind/wxr2pdf](https://github.com/soderlind/wxr2pdf)
+1. 🗣 Commented on [#104](https://github.com/soderlind/read-offline/issues/104) in [soderlind/read-offline](https://github.com/soderlind/read-offline)
+2. 🗣 Commented on [#12](https://github.com/shibayan/keyvault-certificate-rotation/issues/12) in [shibayan/keyvault-certificate-rotation](https://github.com/shibayan/keyvault-certificate-rotation)
+3. ❗️ Opened issue [#12](https://github.com/shibayan/keyvault-certificate-rotation/issues/12) in [shibayan/keyvault-certificate-rotation](https://github.com/shibayan/keyvault-certificate-rotation)
+4. 🗣 Commented on [#1267](https://github.com/bmewburn/vscode-intelephense/issues/1267) in [bmewburn/vscode-intelephense](https://github.com/bmewburn/vscode-intelephense)
+5. 🗣 Commented on [#1191](https://github.com/xwp/stream/issues/1191) in [xwp/stream](https://github.com/xwp/stream)
 <!--END_SECTION:activity-->
 
 </td><td valign="top" width="49%">
