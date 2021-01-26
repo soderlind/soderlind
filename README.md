@@ -7,11 +7,11 @@ Read [my blog](https://soderlind.no/) or [follow me on Twitter](https://twitter.
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48177](https://github.com/MicrosoftDocs/azure-docs/issues/48177) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-2. 🗣 Commented on [#104](https://github.com/soderlind/read-offline/issues/104) in [soderlind/read-offline](https://github.com/soderlind/read-offline)
-3. 🗣 Commented on [#12](https://github.com/shibayan/keyvault-certificate-rotation/issues/12) in [shibayan/keyvault-certificate-rotation](https://github.com/shibayan/keyvault-certificate-rotation)
-4. ❗️ Opened issue [#12](https://github.com/shibayan/keyvault-certificate-rotation/issues/12) in [shibayan/keyvault-certificate-rotation](https://github.com/shibayan/keyvault-certificate-rotation)
-5. 🗣 Commented on [#1267](https://github.com/bmewburn/vscode-intelephense/issues/1267) in [bmewburn/vscode-intelephense](https://github.com/bmewburn/vscode-intelephense)
+1. 🗣 Commented on [#115](https://github.com/soderlind/acf-field-date-time-picker/issues/115) in [soderlind/acf-field-date-time-picker](https://github.com/soderlind/acf-field-date-time-picker)
+2. 🎉 Merged PR [#115](https://github.com/soderlind/acf-field-date-time-picker/pull/115) in [soderlind/acf-field-date-time-picker](https://github.com/soderlind/acf-field-date-time-picker)
+3. 🗣 Commented on [#48177](https://github.com/MicrosoftDocs/azure-docs/issues/48177) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
+4. 🗣 Commented on [#104](https://github.com/soderlind/read-offline/issues/104) in [soderlind/read-offline](https://github.com/soderlind/read-offline)
+5. 🗣 Commented on [#12](https://github.com/shibayan/keyvault-certificate-rotation/issues/12) in [shibayan/keyvault-certificate-rotation](https://github.com/shibayan/keyvault-certificate-rotation)
 <!--END_SECTION:activity-->
 
 </td><td valign="top" width="49%">
