@@ -7,9 +7,9 @@ Read [my blog](https://soderlind.no/) or [follow me on Twitter](https://twitter.
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#230](https://github.com/shibayan/keyvault-acmebot/issues/230) in [shibayan/keyvault-acmebot](https://github.com/shibayan/keyvault-acmebot)
-2. ❗️ Closed issue [#230](https://github.com/shibayan/keyvault-acmebot/issues/230) in [shibayan/keyvault-acmebot](https://github.com/shibayan/keyvault-acmebot)
-3. 🗣 Commented on [#230](https://github.com/shibayan/keyvault-acmebot/issues/230) in [shibayan/keyvault-acmebot](https://github.com/shibayan/keyvault-acmebot)
+1. ❗️ Opened issue [#69891](https://github.com/MicrosoftDocs/azure-docs/issues/69891) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
+2. 🗣 Commented on [#230](https://github.com/shibayan/keyvault-acmebot/issues/230) in [shibayan/keyvault-acmebot](https://github.com/shibayan/keyvault-acmebot)
+3. ❗️ Closed issue [#230](https://github.com/shibayan/keyvault-acmebot/issues/230) in [shibayan/keyvault-acmebot](https://github.com/shibayan/keyvault-acmebot)
 4. 🗣 Commented on [#230](https://github.com/shibayan/keyvault-acmebot/issues/230) in [shibayan/keyvault-acmebot](https://github.com/shibayan/keyvault-acmebot)
 5. 🗣 Commented on [#230](https://github.com/shibayan/keyvault-acmebot/issues/230) in [shibayan/keyvault-acmebot](https://github.com/shibayan/keyvault-acmebot)
 <!--END_SECTION:activity-->
