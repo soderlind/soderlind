@@ -7,11 +7,11 @@ Read [my blog](https://soderlind.no/) or [follow me on Twitter](https://twitter.
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#104](https://github.com/soderlind/read-offline/issues/104) in [soderlind/read-offline](https://github.com/soderlind/read-offline)
+1. ❗️ Reopened issue [#104](https://github.com/soderlind/read-offline/issues/104) in [soderlind/read-offline](https://github.com/soderlind/read-offline)
 2. 🗣 Commented on [#104](https://github.com/soderlind/read-offline/issues/104) in [soderlind/read-offline](https://github.com/soderlind/read-offline)
-3. 💪 Opened PR [#4](https://github.com/johnbillion/user-switching-for-regular-admins/pull/4) in [johnbillion/user-switching-for-regular-admins](https://github.com/johnbillion/user-switching-for-regular-admins)
-4. 💪 Opened PR [#2](https://github.com/johnbillion/user-switching-duo-security/pull/2) in [johnbillion/user-switching-duo-security](https://github.com/johnbillion/user-switching-duo-security)
-5. 🗣 Commented on [#235](https://github.com/shibayan/keyvault-acmebot/issues/235) in [shibayan/keyvault-acmebot](https://github.com/shibayan/keyvault-acmebot)
+3. ❗️ Closed issue [#104](https://github.com/soderlind/read-offline/issues/104) in [soderlind/read-offline](https://github.com/soderlind/read-offline)
+4. 🗣 Commented on [#104](https://github.com/soderlind/read-offline/issues/104) in [soderlind/read-offline](https://github.com/soderlind/read-offline)
+5. 💪 Opened PR [#4](https://github.com/johnbillion/user-switching-for-regular-admins/pull/4) in [johnbillion/user-switching-for-regular-admins](https://github.com/johnbillion/user-switching-for-regular-admins)
 <!--END_SECTION:activity-->
 
 </td><td valign="top" width="49%">
