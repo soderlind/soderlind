@@ -7,11 +7,11 @@ Read [my blog](https://soderlind.no/) or [follow me on Twitter](https://twitter.
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#104](https://github.com/soderlind/read-offline/issues/104) in [soderlind/read-offline](https://github.com/soderlind/read-offline)
-2. 🗣 Commented on [#104](https://github.com/soderlind/read-offline/issues/104) in [soderlind/read-offline](https://github.com/soderlind/read-offline)
-3. ❗️ Closed issue [#104](https://github.com/soderlind/read-offline/issues/104) in [soderlind/read-offline](https://github.com/soderlind/read-offline)
-4. 🗣 Commented on [#104](https://github.com/soderlind/read-offline/issues/104) in [soderlind/read-offline](https://github.com/soderlind/read-offline)
-5. 💪 Opened PR [#4](https://github.com/johnbillion/user-switching-for-regular-admins/pull/4) in [johnbillion/user-switching-for-regular-admins](https://github.com/johnbillion/user-switching-for-regular-admins)
+1. ❗️ Closed issue [#15](https://github.com/soderlind/customizer-polylang/issues/15) in [soderlind/customizer-polylang](https://github.com/soderlind/customizer-polylang)
+2. 🗣 Commented on [#15](https://github.com/soderlind/customizer-polylang/issues/15) in [soderlind/customizer-polylang](https://github.com/soderlind/customizer-polylang)
+3. 🎉 Merged PR [#19](https://github.com/soderlind/customizer-polylang/pull/19) in [soderlind/customizer-polylang](https://github.com/soderlind/customizer-polylang)
+4. 🗣 Commented on [#19](https://github.com/soderlind/customizer-polylang/issues/19) in [soderlind/customizer-polylang](https://github.com/soderlind/customizer-polylang)
+5. ❗️ Reopened issue [#104](https://github.com/soderlind/read-offline/issues/104) in [soderlind/read-offline](https://github.com/soderlind/read-offline)
 <!--END_SECTION:activity-->
 
 </td><td valign="top" width="49%">
