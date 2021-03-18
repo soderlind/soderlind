@@ -7,11 +7,11 @@ Read [my blog](https://soderlind.no/) or [follow me on Twitter](https://twitter.
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#104](https://github.com/soderlind/read-offline/issues/104) in [soderlind/read-offline](https://github.com/soderlind/read-offline)
-2. ❗️ Closed issue [#15](https://github.com/soderlind/customizer-polylang/issues/15) in [soderlind/customizer-polylang](https://github.com/soderlind/customizer-polylang)
-3. 🗣 Commented on [#15](https://github.com/soderlind/customizer-polylang/issues/15) in [soderlind/customizer-polylang](https://github.com/soderlind/customizer-polylang)
-4. 🎉 Merged PR [#19](https://github.com/soderlind/customizer-polylang/pull/19) in [soderlind/customizer-polylang](https://github.com/soderlind/customizer-polylang)
-5. 🗣 Commented on [#19](https://github.com/soderlind/customizer-polylang/issues/19) in [soderlind/customizer-polylang](https://github.com/soderlind/customizer-polylang)
+1. ❗️ Opened issue [#23](https://github.com/mt-support/tribe-ext-extension-template/issues/23) in [mt-support/tribe-ext-extension-template](https://github.com/mt-support/tribe-ext-extension-template)
+2. ❗️ Closed issue [#104](https://github.com/soderlind/read-offline/issues/104) in [soderlind/read-offline](https://github.com/soderlind/read-offline)
+3. ❗️ Closed issue [#15](https://github.com/soderlind/customizer-polylang/issues/15) in [soderlind/customizer-polylang](https://github.com/soderlind/customizer-polylang)
+4. 🗣 Commented on [#15](https://github.com/soderlind/customizer-polylang/issues/15) in [soderlind/customizer-polylang](https://github.com/soderlind/customizer-polylang)
+5. 🎉 Merged PR [#19](https://github.com/soderlind/customizer-polylang/pull/19) in [soderlind/customizer-polylang](https://github.com/soderlind/customizer-polylang)
 <!--END_SECTION:activity-->
 
 </td><td valign="top" width="49%">
