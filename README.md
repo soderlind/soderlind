@@ -7,7 +7,7 @@ Read [my blog](https://soderlind.no/) or [follow me on Twitter](https://twitter.
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#105](https://github.com/soderlind/read-offline/issues/105) in [soderlind/read-offline](https://github.com/soderlind/read-offline)
+1. ❗️ Closed issue [#105](https://github.com/soderlind/read-offline/issues/105) in [soderlind/read-offline](https://github.com/soderlind/read-offline)
 2. 🗣 Commented on [#105](https://github.com/soderlind/read-offline/issues/105) in [soderlind/read-offline](https://github.com/soderlind/read-offline)
 3. 🗣 Commented on [#105](https://github.com/soderlind/read-offline/issues/105) in [soderlind/read-offline](https://github.com/soderlind/read-offline)
 4. 🗣 Commented on [#105](https://github.com/soderlind/read-offline/issues/105) in [soderlind/read-offline](https://github.com/soderlind/read-offline)
