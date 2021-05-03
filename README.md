@@ -7,9 +7,9 @@ Read [my blog](https://soderlind.no/) or [follow me on Twitter](https://twitter.
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1901](https://github.com/Automattic/themes/issues/1901) in [Automattic/themes](https://github.com/Automattic/themes)
-2. ❗️ Reopened issue [#105](https://github.com/soderlind/read-offline/issues/105) in [soderlind/read-offline](https://github.com/soderlind/read-offline)
-3. 🗣 Commented on [#105](https://github.com/soderlind/read-offline/issues/105) in [soderlind/read-offline](https://github.com/soderlind/read-offline)
+1. 🗣 Commented on [#9](https://github.com/inpsyde/wp-translation-downloader/issues/9) in [inpsyde/wp-translation-downloader](https://github.com/inpsyde/wp-translation-downloader)
+2. 🗣 Commented on [#1901](https://github.com/Automattic/themes/issues/1901) in [Automattic/themes](https://github.com/Automattic/themes)
+3. ❗️ Reopened issue [#105](https://github.com/soderlind/read-offline/issues/105) in [soderlind/read-offline](https://github.com/soderlind/read-offline)
 4. 🗣 Commented on [#105](https://github.com/soderlind/read-offline/issues/105) in [soderlind/read-offline](https://github.com/soderlind/read-offline)
 5. 🗣 Commented on [#105](https://github.com/soderlind/read-offline/issues/105) in [soderlind/read-offline](https://github.com/soderlind/read-offline)
 <!--END_SECTION:activity-->
