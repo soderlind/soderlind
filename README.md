@@ -7,11 +7,11 @@ Read [my blog](https://soderlind.no/) or [follow me on Twitter](https://twitter.
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/soderlind/super-admin-all-sites-menu/pull/1) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-2. 💪 Opened PR [#1](https://github.com/soderlind/super-admin-all-sites-menu/pull/1) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-3. 🗣 Commented on [#123](https://github.com/jakearchibald/idb-keyval/issues/123) in [jakearchibald/idb-keyval](https://github.com/jakearchibald/idb-keyval)
-4. 🗣 Commented on [#14](https://github.com/lukaszlach/satis-server/issues/14) in [lukaszlach/satis-server](https://github.com/lukaszlach/satis-server)
-5. ❗️ Closed issue [#14](https://github.com/lukaszlach/satis-server/issues/14) in [lukaszlach/satis-server](https://github.com/lukaszlach/satis-server)
+1. 🗣 Commented on [#2](https://github.com/soderlind/super-admin-all-sites-menu/issues/2) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+2. ❗️ Closed issue [#2](https://github.com/soderlind/super-admin-all-sites-menu/issues/2) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+3. 🎉 Merged PR [#1](https://github.com/soderlind/super-admin-all-sites-menu/pull/1) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+4. 💪 Opened PR [#1](https://github.com/soderlind/super-admin-all-sites-menu/pull/1) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+5. 🗣 Commented on [#123](https://github.com/jakearchibald/idb-keyval/issues/123) in [jakearchibald/idb-keyval](https://github.com/jakearchibald/idb-keyval)
 <!--END_SECTION:activity-->
 
 </td><td valign="top" width="49%">
