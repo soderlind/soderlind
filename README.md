@@ -7,11 +7,11 @@ Read [my blog](https://soderlind.no/) or [follow me on Twitter](https://twitter.
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/soderlind/super-admin-all-sites-menu/issues/3) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-2. 🗣 Commented on [#3](https://github.com/soderlind/super-admin-all-sites-menu/issues/3) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-3. 🗣 Commented on [#2](https://github.com/soderlind/super-admin-all-sites-menu/issues/2) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-4. ❗️ Closed issue [#2](https://github.com/soderlind/super-admin-all-sites-menu/issues/2) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-5. 🎉 Merged PR [#1](https://github.com/soderlind/super-admin-all-sites-menu/pull/1) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+1. 🎉 Merged PR [#4](https://github.com/soderlind/super-admin-all-sites-menu/pull/4) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+2. 💪 Opened PR [#4](https://github.com/soderlind/super-admin-all-sites-menu/pull/4) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+3. ❗️ Closed issue [#3](https://github.com/soderlind/super-admin-all-sites-menu/issues/3) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+4. 🗣 Commented on [#3](https://github.com/soderlind/super-admin-all-sites-menu/issues/3) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+5. 🗣 Commented on [#2](https://github.com/soderlind/super-admin-all-sites-menu/issues/2) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
 <!--END_SECTION:activity-->
 
 </td><td valign="top" width="49%">
