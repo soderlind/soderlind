@@ -7,11 +7,11 @@ Read [my blog](https://soderlind.no/) or [follow me on Twitter](https://twitter.
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#48](https://github.com/humanmade/asset-manager-framework/pull/48) in [humanmade/asset-manager-framework](https://github.com/humanmade/asset-manager-framework)
-2. 🗣 Commented on [#48177](https://github.com/MicrosoftDocs/azure-docs/issues/48177) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-3. ❗️ Opened issue [#47](https://github.com/humanmade/asset-manager-framework/issues/47) in [humanmade/asset-manager-framework](https://github.com/humanmade/asset-manager-framework)
-4. 🗣 Commented on [#156](https://github.com/cloudinary/cloudinary_wordpress/issues/156) in [cloudinary/cloudinary_wordpress](https://github.com/cloudinary/cloudinary_wordpress)
-5. ❗️ Opened issue [#1](https://github.com/soderlind/dss-hogan-sites/issues/1) in [soderlind/dss-hogan-sites](https://github.com/soderlind/dss-hogan-sites)
+1. 🎉 Merged PR [#5](https://github.com/soderlind/super-admin-all-sites-menu/pull/5) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+2. 💪 Opened PR [#5](https://github.com/soderlind/super-admin-all-sites-menu/pull/5) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+3. 💪 Opened PR [#48](https://github.com/humanmade/asset-manager-framework/pull/48) in [humanmade/asset-manager-framework](https://github.com/humanmade/asset-manager-framework)
+4. 🗣 Commented on [#48177](https://github.com/MicrosoftDocs/azure-docs/issues/48177) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
+5. ❗️ Opened issue [#47](https://github.com/humanmade/asset-manager-framework/issues/47) in [humanmade/asset-manager-framework](https://github.com/humanmade/asset-manager-framework)
 <!--END_SECTION:activity-->
 
 </td><td valign="top" width="49%">
