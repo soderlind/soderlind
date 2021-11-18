@@ -7,11 +7,11 @@ Read [my blog](https://soderlind.no/) or [follow me on Twitter](https://twitter.
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#194](https://github.com/wp-cli/core-command/issues/194) in [wp-cli/core-command](https://github.com/wp-cli/core-command)
-2. 🎉 Merged PR [#7](https://github.com/soderlind/super-admin-all-sites-menu/pull/7) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-3. 💪 Opened PR [#7](https://github.com/soderlind/super-admin-all-sites-menu/pull/7) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-4. 🎉 Merged PR [#6](https://github.com/soderlind/super-admin-all-sites-menu/pull/6) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-5. 💪 Opened PR [#6](https://github.com/soderlind/super-admin-all-sites-menu/pull/6) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+1. 🗣 Commented on [#194](https://github.com/wp-cli/core-command/issues/194) in [wp-cli/core-command](https://github.com/wp-cli/core-command)
+2. ❗️ Opened issue [#194](https://github.com/wp-cli/core-command/issues/194) in [wp-cli/core-command](https://github.com/wp-cli/core-command)
+3. 🎉 Merged PR [#7](https://github.com/soderlind/super-admin-all-sites-menu/pull/7) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+4. 💪 Opened PR [#7](https://github.com/soderlind/super-admin-all-sites-menu/pull/7) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+5. 🎉 Merged PR [#6](https://github.com/soderlind/super-admin-all-sites-menu/pull/6) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
 <!--END_SECTION:activity-->
 
 </td><td valign="top" width="49%">
