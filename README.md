@@ -20,11 +20,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1963](https://github.com/WordPress/wordpress-develop/issues/1963) in [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop)
+1. 🗣 Commented on [#156](https://github.com/cloudinary/cloudinary_wordpress/issues/156) in [cloudinary/cloudinary_wordpress](https://github.com/cloudinary/cloudinary_wordpress)
 2. 🗣 Commented on [#1963](https://github.com/WordPress/wordpress-develop/issues/1963) in [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop)
-3. 🎉 Merged PR [#9](https://github.com/soderlind/super-admin-all-sites-menu/pull/9) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-4. 💪 Opened PR [#9](https://github.com/soderlind/super-admin-all-sites-menu/pull/9) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-5. 🗣 Commented on [#428](https://github.com/shibayan/keyvault-acmebot/issues/428) in [shibayan/keyvault-acmebot](https://github.com/shibayan/keyvault-acmebot)
+3. 🗣 Commented on [#1963](https://github.com/WordPress/wordpress-develop/issues/1963) in [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop)
+4. 🎉 Merged PR [#9](https://github.com/soderlind/super-admin-all-sites-menu/pull/9) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+5. 💪 Opened PR [#9](https://github.com/soderlind/super-admin-all-sites-menu/pull/9) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
 <!--END_SECTION:activity-->
 
 </td><td valign="top" width="49%">
