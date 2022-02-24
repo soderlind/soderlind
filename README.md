@@ -20,11 +20,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/johnbillion/vscode-wordpress-hooks/issues/34) in [johnbillion/vscode-wordpress-hooks](https://github.com/johnbillion/vscode-wordpress-hooks)
-2. ❗️ Opened issue [#34](https://github.com/johnbillion/vscode-wordpress-hooks/issues/34) in [johnbillion/vscode-wordpress-hooks](https://github.com/johnbillion/vscode-wordpress-hooks)
-3. ❗️ Opened issue [#33](https://github.com/johnbillion/vscode-wordpress-hooks/issues/33) in [johnbillion/vscode-wordpress-hooks](https://github.com/johnbillion/vscode-wordpress-hooks)
-4. ❗️ Opened issue [#2](https://github.com/krawaller/swordle/issues/2) in [krawaller/swordle](https://github.com/krawaller/swordle)
-5. 💪 Opened PR [#1](https://github.com/unioslo/ipproxy/pull/1) in [unioslo/ipproxy](https://github.com/unioslo/ipproxy)
+1. 🎉 Merged PR [#10](https://github.com/soderlind/super-admin-all-sites-menu/pull/10) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+2. 💪 Opened PR [#10](https://github.com/soderlind/super-admin-all-sites-menu/pull/10) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+3. 🗣 Commented on [#34](https://github.com/johnbillion/vscode-wordpress-hooks/issues/34) in [johnbillion/vscode-wordpress-hooks](https://github.com/johnbillion/vscode-wordpress-hooks)
+4. ❗️ Opened issue [#34](https://github.com/johnbillion/vscode-wordpress-hooks/issues/34) in [johnbillion/vscode-wordpress-hooks](https://github.com/johnbillion/vscode-wordpress-hooks)
+5. ❗️ Opened issue [#33](https://github.com/johnbillion/vscode-wordpress-hooks/issues/33) in [johnbillion/vscode-wordpress-hooks](https://github.com/johnbillion/vscode-wordpress-hooks)
 <!--END_SECTION:activity-->
 
 </td><td valign="top" width="49%">
