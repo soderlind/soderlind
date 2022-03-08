@@ -20,11 +20,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/soderlind/super-admin-all-sites-menu/pull/10) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-2. 💪 Opened PR [#10](https://github.com/soderlind/super-admin-all-sites-menu/pull/10) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-3. 🗣 Commented on [#34](https://github.com/johnbillion/vscode-wordpress-hooks/issues/34) in [johnbillion/vscode-wordpress-hooks](https://github.com/johnbillion/vscode-wordpress-hooks)
-4. ❗️ Opened issue [#34](https://github.com/johnbillion/vscode-wordpress-hooks/issues/34) in [johnbillion/vscode-wordpress-hooks](https://github.com/johnbillion/vscode-wordpress-hooks)
-5. ❗️ Opened issue [#33](https://github.com/johnbillion/vscode-wordpress-hooks/issues/33) in [johnbillion/vscode-wordpress-hooks](https://github.com/johnbillion/vscode-wordpress-hooks)
+1. 🎉 Merged PR [#11](https://github.com/dss-web/ninjaforms-uploads-azure/pull/11) in [dss-web/ninjaforms-uploads-azure](https://github.com/dss-web/ninjaforms-uploads-azure)
+2. 🎉 Merged PR [#10](https://github.com/dss-web/ninjaforms-uploads-azure/pull/10) in [dss-web/ninjaforms-uploads-azure](https://github.com/dss-web/ninjaforms-uploads-azure)
+3. 🎉 Merged PR [#9](https://github.com/dss-web/ninjaforms-uploads-azure/pull/9) in [dss-web/ninjaforms-uploads-azure](https://github.com/dss-web/ninjaforms-uploads-azure)
+4. 🎉 Merged PR [#8](https://github.com/dss-web/ninjaforms-uploads-azure/pull/8) in [dss-web/ninjaforms-uploads-azure](https://github.com/dss-web/ninjaforms-uploads-azure)
+5. 🎉 Merged PR [#10](https://github.com/soderlind/super-admin-all-sites-menu/pull/10) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
 <!--END_SECTION:activity-->
 
 </td><td valign="top" width="49%">
