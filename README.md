@@ -20,11 +20,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/dss-web/afd-purge/pull/1) in [dss-web/afd-purge](https://github.com/dss-web/afd-purge)
-2. 🎉 Merged PR [#12](https://github.com/dss-web/ninjaforms-uploads-azure/pull/12) in [dss-web/ninjaforms-uploads-azure](https://github.com/dss-web/ninjaforms-uploads-azure)
-3. 🎉 Merged PR [#4](https://github.com/dss-web/gravityforms-uploads-azure/pull/4) in [dss-web/gravityforms-uploads-azure](https://github.com/dss-web/gravityforms-uploads-azure)
-4. 🎉 Merged PR [#11](https://github.com/dss-web/ninjaforms-uploads-azure/pull/11) in [dss-web/ninjaforms-uploads-azure](https://github.com/dss-web/ninjaforms-uploads-azure)
-5. 🎉 Merged PR [#10](https://github.com/dss-web/ninjaforms-uploads-azure/pull/10) in [dss-web/ninjaforms-uploads-azure](https://github.com/dss-web/ninjaforms-uploads-azure)
+1. 🎉 Merged PR [#13](https://github.com/dss-web/ninjaforms-uploads-azure/pull/13) in [dss-web/ninjaforms-uploads-azure](https://github.com/dss-web/ninjaforms-uploads-azure)
+2. 🎉 Merged PR [#1](https://github.com/dss-web/afd-purge/pull/1) in [dss-web/afd-purge](https://github.com/dss-web/afd-purge)
+3. 🎉 Merged PR [#12](https://github.com/dss-web/ninjaforms-uploads-azure/pull/12) in [dss-web/ninjaforms-uploads-azure](https://github.com/dss-web/ninjaforms-uploads-azure)
+4. 🎉 Merged PR [#4](https://github.com/dss-web/gravityforms-uploads-azure/pull/4) in [dss-web/gravityforms-uploads-azure](https://github.com/dss-web/gravityforms-uploads-azure)
+5. 🎉 Merged PR [#11](https://github.com/dss-web/ninjaforms-uploads-azure/pull/11) in [dss-web/ninjaforms-uploads-azure](https://github.com/dss-web/ninjaforms-uploads-azure)
 <!--END_SECTION:activity-->
 
 </td><td valign="top" width="49%">
