@@ -20,11 +20,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/soderlind/icalendar-ninja-forms/issues/2) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
-2. 🗣 Commented on [#2](https://github.com/soderlind/icalendar-ninja-forms/issues/2) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
-3. 🗣 Commented on [#1](https://github.com/soderlind/icalendar-ninja-forms/issues/1) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
+1. 🗣 Commented on [#3](https://github.com/soderlind/icalendar-ninja-forms/issues/3) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
+2. ❗️ Closed issue [#2](https://github.com/soderlind/icalendar-ninja-forms/issues/2) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
+3. 🗣 Commented on [#2](https://github.com/soderlind/icalendar-ninja-forms/issues/2) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
 4. 🗣 Commented on [#1](https://github.com/soderlind/icalendar-ninja-forms/issues/1) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
-5. 🎉 Merged PR [#5](https://github.com/dss-web/gravityforms-uploads-azure/pull/5) in [dss-web/gravityforms-uploads-azure](https://github.com/dss-web/gravityforms-uploads-azure)
+5. 🗣 Commented on [#1](https://github.com/soderlind/icalendar-ninja-forms/issues/1) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
 <!--END_SECTION:activity-->
 
 </td><td valign="top" width="49%">
