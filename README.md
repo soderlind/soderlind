@@ -42,13 +42,13 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 More on [soderlind.no](https://soderlind.no/)
 </td></tr></table>
 
-<details>
+
   <summary>GitHub Stats</summary>
 
   <img align="left" alt="Soderlind's GitHub Stats" src="https://github-readme-stats-d1emiyjuh.vercel.app/api?username=soderlind&show_icons=true&hide_border=true&count_private=true" />
   <img align="left" alt="Soderlind's Languages Stats" src="https://github-readme-stats-d1emiyjuh.vercel.app/api/top-langs/?username=soderlind" />
 
-</details>
+
 
 <a href="https://github.com/soderlind/soderlind/actions"><img src="https://github.com/soderlind/soderlind/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
 
