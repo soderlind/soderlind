@@ -21,11 +21,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/soderlind/codeclimate-phpcodesniffer/pull/1) in [soderlind/codeclimate-phpcodesniffer](https://github.com/soderlind/codeclimate-phpcodesniffer)
-2. 🗣 Commented on [#1](https://github.com/soderlind/mu-mailpoet-smtp/issues/1) in [soderlind/mu-mailpoet-smtp](https://github.com/soderlind/mu-mailpoet-smtp)
-3. 🗣 Commented on [#1](https://github.com/soderlind/mu-mailpoet-smtp/issues/1) in [soderlind/mu-mailpoet-smtp](https://github.com/soderlind/mu-mailpoet-smtp)
-4. 🗣 Commented on [#3](https://github.com/soderlind/icalendar-ninja-forms/issues/3) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
-5. ❗️ Closed issue [#3](https://github.com/soderlind/icalendar-ninja-forms/issues/3) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
+1. 🎉 Merged PR [#3](https://github.com/soderlind/ordle/pull/3) in [soderlind/ordle](https://github.com/soderlind/ordle)
+2. 🎉 Merged PR [#4](https://github.com/soderlind/ordle/pull/4) in [soderlind/ordle](https://github.com/soderlind/ordle)
+3. 🎉 Merged PR [#2](https://github.com/soderlind/ordle/pull/2) in [soderlind/ordle](https://github.com/soderlind/ordle)
+4. 🎉 Merged PR [#1](https://github.com/soderlind/ordle/pull/1) in [soderlind/ordle](https://github.com/soderlind/ordle)
+5. 🎉 Merged PR [#1](https://github.com/soderlind/codeclimate-phpcodesniffer/pull/1) in [soderlind/codeclimate-phpcodesniffer](https://github.com/soderlind/codeclimate-phpcodesniffer)
 <!--END_SECTION:activity-->
 
 </td><td valign="top" width="49%">
