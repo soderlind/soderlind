@@ -22,10 +22,10 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/soderlind/mu-mailpoet-smtp/issues/1) in [soderlind/mu-mailpoet-smtp](https://github.com/soderlind/mu-mailpoet-smtp)
-2. 🗣 Commented on [#3](https://github.com/soderlind/icalendar-ninja-forms/issues/3) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
-3. ❗️ Closed issue [#3](https://github.com/soderlind/icalendar-ninja-forms/issues/3) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
-4. ❗️ Reopened issue [#3](https://github.com/soderlind/icalendar-ninja-forms/issues/3) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
-5. 🗣 Commented on [#3](https://github.com/soderlind/icalendar-ninja-forms/issues/3) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
+2. 🗣 Commented on [#1](https://github.com/soderlind/mu-mailpoet-smtp/issues/1) in [soderlind/mu-mailpoet-smtp](https://github.com/soderlind/mu-mailpoet-smtp)
+3. 🗣 Commented on [#3](https://github.com/soderlind/icalendar-ninja-forms/issues/3) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
+4. ❗️ Closed issue [#3](https://github.com/soderlind/icalendar-ninja-forms/issues/3) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
+5. ❗️ Reopened issue [#3](https://github.com/soderlind/icalendar-ninja-forms/issues/3) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
 <!--END_SECTION:activity-->
 
 </td><td valign="top" width="49%">
