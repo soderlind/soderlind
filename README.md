@@ -21,11 +21,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/soderlind/icalendar-ninja-forms/pull/4) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
-2. 💪 Opened PR [#4](https://github.com/soderlind/icalendar-ninja-forms/pull/4) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
-3. ❌ Closed PR [#95](https://github.com/soderlind/acf-field-date-time-picker/pull/95) in [soderlind/acf-field-date-time-picker](https://github.com/soderlind/acf-field-date-time-picker)
-4. 🎉 Merged PR [#3](https://github.com/soderlind/ordle/pull/3) in [soderlind/ordle](https://github.com/soderlind/ordle)
-5. 🎉 Merged PR [#4](https://github.com/soderlind/ordle/pull/4) in [soderlind/ordle](https://github.com/soderlind/ordle)
+1. 🗣 Commented on [#1](https://github.com/soderlind/vscode-remote-try-wp/issues/1) in [soderlind/vscode-remote-try-wp](https://github.com/soderlind/vscode-remote-try-wp)
+2. 🎉 Merged PR [#4](https://github.com/soderlind/icalendar-ninja-forms/pull/4) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
+3. 💪 Opened PR [#4](https://github.com/soderlind/icalendar-ninja-forms/pull/4) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
+4. ❌ Closed PR [#95](https://github.com/soderlind/acf-field-date-time-picker/pull/95) in [soderlind/acf-field-date-time-picker](https://github.com/soderlind/acf-field-date-time-picker)
+5. 🎉 Merged PR [#3](https://github.com/soderlind/ordle/pull/3) in [soderlind/ordle](https://github.com/soderlind/ordle)
 <!--END_SECTION:activity-->
 
 </td><td valign="top" width="49%">
