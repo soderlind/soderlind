@@ -44,7 +44,9 @@ More on [soderlind.no](https://soderlind.no/)
 </td></tr></table>
 
 
-  <img align="left" alt="Soderlind's GitHub Stats" src="https://github-readme-stats-d1emiyjuh.vercel.app/api?username=soderlind&show_icons=true&hide_border=true&count_private=true" />
+  
+  
+  <img align="left"  alt="soderlind's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/soderlind?cardType=level-alternate" />
   <img align="left" alt="Soderlind's Languages Stats" src="https://github-readme-stats-d1emiyjuh.vercel.app/api/top-langs/?username=soderlind" />
 
 
