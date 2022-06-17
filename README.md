@@ -43,11 +43,8 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 More on [soderlind.no](https://soderlind.no/)
 </td></tr></table>
 
-
-  
-  
-  <img align="left"  alt="soderlind's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/soderlind?cardType=level-alternate" />
-  <img align="left" alt="Soderlind's Languages Stats" src="https://github-readme-stats-d1emiyjuh.vercel.app/api/top-langs/?username=soderlind" />
+<img align="left"  alt="soderlind's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/soderlind?cardType=level-alternate" />
+<img align="left" alt="Soderlind's Languages Stats" src="https://github-readme-stats-d1emiyjuh.vercel.app/api/top-langs/?username=soderlind" />
 
 
 
