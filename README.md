@@ -22,10 +22,10 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/soderlind/vscode-remote-try-wp/issues/2) in [soderlind/vscode-remote-try-wp](https://github.com/soderlind/vscode-remote-try-wp)
-2. ❗️ Closed issue [#1](https://github.com/soderlind/vscode-remote-try-wp/issues/1) in [soderlind/vscode-remote-try-wp](https://github.com/soderlind/vscode-remote-try-wp)
-3. 🗣 Commented on [#1](https://github.com/soderlind/vscode-remote-try-wp/issues/1) in [soderlind/vscode-remote-try-wp](https://github.com/soderlind/vscode-remote-try-wp)
-4. 🎉 Merged PR [#4](https://github.com/soderlind/icalendar-ninja-forms/pull/4) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
-5. 💪 Opened PR [#4](https://github.com/soderlind/icalendar-ninja-forms/pull/4) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
+2. 🗣 Commented on [#2](https://github.com/soderlind/vscode-remote-try-wp/issues/2) in [soderlind/vscode-remote-try-wp](https://github.com/soderlind/vscode-remote-try-wp)
+3. ❗️ Closed issue [#1](https://github.com/soderlind/vscode-remote-try-wp/issues/1) in [soderlind/vscode-remote-try-wp](https://github.com/soderlind/vscode-remote-try-wp)
+4. 🗣 Commented on [#1](https://github.com/soderlind/vscode-remote-try-wp/issues/1) in [soderlind/vscode-remote-try-wp](https://github.com/soderlind/vscode-remote-try-wp)
+5. 🎉 Merged PR [#4](https://github.com/soderlind/icalendar-ninja-forms/pull/4) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
 <!--END_SECTION:activity-->
 
 </td><td valign="top" width="49%">
