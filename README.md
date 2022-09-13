@@ -21,10 +21,10 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/thomasheyenbrock/remix-graphql/issues/8) in [thomasheyenbrock/remix-graphql](https://github.com/thomasheyenbrock/remix-graphql)
-2. 🗣 Commented on [#3](https://github.com/soderlind/vscode-remote-try-wp/issues/3) in [soderlind/vscode-remote-try-wp](https://github.com/soderlind/vscode-remote-try-wp)
+1. 🎉 Merged PR [#11](https://github.com/soderlind/super-admin-all-sites-menu/pull/11) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+2. 🗣 Commented on [#8](https://github.com/thomasheyenbrock/remix-graphql/issues/8) in [thomasheyenbrock/remix-graphql](https://github.com/thomasheyenbrock/remix-graphql)
 3. 🗣 Commented on [#3](https://github.com/soderlind/vscode-remote-try-wp/issues/3) in [soderlind/vscode-remote-try-wp](https://github.com/soderlind/vscode-remote-try-wp)
-4. 🗣 Commented on [#2](https://github.com/soderlind/vscode-remote-try-wp/issues/2) in [soderlind/vscode-remote-try-wp](https://github.com/soderlind/vscode-remote-try-wp)
+4. 🗣 Commented on [#3](https://github.com/soderlind/vscode-remote-try-wp/issues/3) in [soderlind/vscode-remote-try-wp](https://github.com/soderlind/vscode-remote-try-wp)
 5. 🗣 Commented on [#2](https://github.com/soderlind/vscode-remote-try-wp/issues/2) in [soderlind/vscode-remote-try-wp](https://github.com/soderlind/vscode-remote-try-wp)
 <!--END_SECTION:activity-->
 
