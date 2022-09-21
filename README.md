@@ -21,11 +21,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#23](https://github.com/sanity-io/code-input/issues/23) in [sanity-io/code-input](https://github.com/sanity-io/code-input)
-2. 🎉 Merged PR [#11](https://github.com/soderlind/super-admin-all-sites-menu/pull/11) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-3. 🗣 Commented on [#8](https://github.com/thomasheyenbrock/remix-graphql/issues/8) in [thomasheyenbrock/remix-graphql](https://github.com/thomasheyenbrock/remix-graphql)
-4. 🗣 Commented on [#3](https://github.com/soderlind/vscode-remote-try-wp/issues/3) in [soderlind/vscode-remote-try-wp](https://github.com/soderlind/vscode-remote-try-wp)
-5. 🗣 Commented on [#3](https://github.com/soderlind/vscode-remote-try-wp/issues/3) in [soderlind/vscode-remote-try-wp](https://github.com/soderlind/vscode-remote-try-wp)
+1. ❗️ Opened issue [#3](https://github.com/SimeonGriggs/remix-sanity-studio-v3/issues/3) in [SimeonGriggs/remix-sanity-studio-v3](https://github.com/SimeonGriggs/remix-sanity-studio-v3)
+2. ❗️ Opened issue [#2](https://github.com/SimeonGriggs/remix-sanity-studio-v3/issues/2) in [SimeonGriggs/remix-sanity-studio-v3](https://github.com/SimeonGriggs/remix-sanity-studio-v3)
+3. 💪 Opened PR [#1](https://github.com/SimeonGriggs/remix-sanity-studio-v3/pull/1) in [SimeonGriggs/remix-sanity-studio-v3](https://github.com/SimeonGriggs/remix-sanity-studio-v3)
+4. ❗️ Opened issue [#23](https://github.com/sanity-io/code-input/issues/23) in [sanity-io/code-input](https://github.com/sanity-io/code-input)
+5. 🎉 Merged PR [#11](https://github.com/soderlind/super-admin-all-sites-menu/pull/11) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
 <!--END_SECTION:activity-->
 
 </td><td valign="top" width="49%">
