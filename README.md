@@ -21,11 +21,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/SimeonGriggs/remix-sanity-studio-v3/issues/2) in [SimeonGriggs/remix-sanity-studio-v3](https://github.com/SimeonGriggs/remix-sanity-studio-v3)
-2. ❗️ Closed issue [#2](https://github.com/SimeonGriggs/remix-sanity-studio-v3/issues/2) in [SimeonGriggs/remix-sanity-studio-v3](https://github.com/SimeonGriggs/remix-sanity-studio-v3)
-3. ❌ Closed PR [#1](https://github.com/SimeonGriggs/remix-sanity-studio-v3/pull/1) in [SimeonGriggs/remix-sanity-studio-v3](https://github.com/SimeonGriggs/remix-sanity-studio-v3)
-4. 🗣 Commented on [#1](https://github.com/SimeonGriggs/remix-sanity-studio-v3/issues/1) in [SimeonGriggs/remix-sanity-studio-v3](https://github.com/SimeonGriggs/remix-sanity-studio-v3)
-5. 🗣 Commented on [#3](https://github.com/SimeonGriggs/remix-sanity-studio-v3/issues/3) in [SimeonGriggs/remix-sanity-studio-v3](https://github.com/SimeonGriggs/remix-sanity-studio-v3)
+1. ❗️ Reopened issue [#2](https://github.com/SimeonGriggs/remix-sanity-studio-v3/issues/2) in [SimeonGriggs/remix-sanity-studio-v3](https://github.com/SimeonGriggs/remix-sanity-studio-v3)
+2. 🗣 Commented on [#2](https://github.com/SimeonGriggs/remix-sanity-studio-v3/issues/2) in [SimeonGriggs/remix-sanity-studio-v3](https://github.com/SimeonGriggs/remix-sanity-studio-v3)
+3. 🗣 Commented on [#2](https://github.com/SimeonGriggs/remix-sanity-studio-v3/issues/2) in [SimeonGriggs/remix-sanity-studio-v3](https://github.com/SimeonGriggs/remix-sanity-studio-v3)
+4. ❗️ Closed issue [#2](https://github.com/SimeonGriggs/remix-sanity-studio-v3/issues/2) in [SimeonGriggs/remix-sanity-studio-v3](https://github.com/SimeonGriggs/remix-sanity-studio-v3)
+5. ❌ Closed PR [#1](https://github.com/SimeonGriggs/remix-sanity-studio-v3/pull/1) in [SimeonGriggs/remix-sanity-studio-v3](https://github.com/SimeonGriggs/remix-sanity-studio-v3)
 <!--END_SECTION:activity-->
 
 </td><td valign="top" width="49%">
