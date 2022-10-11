@@ -21,11 +21,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/SimeonGriggs/remix-sanity-studio-v3/issues/2) in [SimeonGriggs/remix-sanity-studio-v3](https://github.com/SimeonGriggs/remix-sanity-studio-v3)
-2. ❗️ Reopened issue [#2](https://github.com/SimeonGriggs/remix-sanity-studio-v3/issues/2) in [SimeonGriggs/remix-sanity-studio-v3](https://github.com/SimeonGriggs/remix-sanity-studio-v3)
+1. 🎉 Merged PR [#11](https://github.com/dss-web/gravityforms-uploads-azure/pull/11) in [dss-web/gravityforms-uploads-azure](https://github.com/dss-web/gravityforms-uploads-azure)
+2. 🎉 Merged PR [#12](https://github.com/dss-web/gravityforms-uploads-azure/pull/12) in [dss-web/gravityforms-uploads-azure](https://github.com/dss-web/gravityforms-uploads-azure)
 3. 🗣 Commented on [#2](https://github.com/SimeonGriggs/remix-sanity-studio-v3/issues/2) in [SimeonGriggs/remix-sanity-studio-v3](https://github.com/SimeonGriggs/remix-sanity-studio-v3)
-4. 🗣 Commented on [#2](https://github.com/SimeonGriggs/remix-sanity-studio-v3/issues/2) in [SimeonGriggs/remix-sanity-studio-v3](https://github.com/SimeonGriggs/remix-sanity-studio-v3)
-5. ❗️ Closed issue [#2](https://github.com/SimeonGriggs/remix-sanity-studio-v3/issues/2) in [SimeonGriggs/remix-sanity-studio-v3](https://github.com/SimeonGriggs/remix-sanity-studio-v3)
+4. ❗️ Reopened issue [#2](https://github.com/SimeonGriggs/remix-sanity-studio-v3/issues/2) in [SimeonGriggs/remix-sanity-studio-v3](https://github.com/SimeonGriggs/remix-sanity-studio-v3)
+5. 🗣 Commented on [#2](https://github.com/SimeonGriggs/remix-sanity-studio-v3/issues/2) in [SimeonGriggs/remix-sanity-studio-v3](https://github.com/SimeonGriggs/remix-sanity-studio-v3)
 <!--END_SECTION:activity-->
 
 </td><td valign="top" width="49%">
