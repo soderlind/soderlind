@@ -16,7 +16,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 ## Resent activity
 
-<table width="100%" border="1"><tr><td width="49%">
+<table width="100%" border="0"><tr><td width="49%">
 
 ### On GitHub
 
