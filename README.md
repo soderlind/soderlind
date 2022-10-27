@@ -28,8 +28,8 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 5. 🗣 Commented on [#2](https://github.com/SimeonGriggs/remix-sanity-studio-v3/issues/2) in [SimeonGriggs/remix-sanity-studio-v3](https://github.com/SimeonGriggs/remix-sanity-studio-v3)
 <!--END_SECTION:activity-->
   </td>
-<td width="49%">
-  <img align="left"  alt="soderlind's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/soderlind?cardType=level-alternate" />
+<td width="49%" valign="top">
+  <img   alt="soderlind's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/soderlind?cardType=level-alternate&Title=FFFFFF&Border=FFFFFF" />
 </td></tr></table>
 
 
