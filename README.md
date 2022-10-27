@@ -16,7 +16,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 ## Resent activity
 
-<table width="100%" border="0"><tr><td valign="top" width="49%">
+<table width="100%" border="1"><tr><td width="49%">
 
 ### On GitHub
 
@@ -27,24 +27,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 4. ❗️ Reopened issue [#2](https://github.com/SimeonGriggs/remix-sanity-studio-v3/issues/2) in [SimeonGriggs/remix-sanity-studio-v3](https://github.com/SimeonGriggs/remix-sanity-studio-v3)
 5. 🗣 Commented on [#2](https://github.com/SimeonGriggs/remix-sanity-studio-v3/issues/2) in [SimeonGriggs/remix-sanity-studio-v3](https://github.com/SimeonGriggs/remix-sanity-studio-v3)
 <!--END_SECTION:activity-->
-
-</td><td valign="top" width="49%">
-
-### On my blog
-
-<!-- BLOG:START -->
-- [How to import native ES modules in WordPress](https://soderlind.no/how-to-import-native-es-modules-in-wordpress/)
-- [add_theme_support&lpar; &#39;disable_block_style&#39;&rpar;](https://soderlind.no/add-theme-support-disable-block-style/)
-- [Hide block styles in Gutenberg](https://soderlind.no/hide-block-styles-in-gutenberg/)
-- [Local by Flywheel: Using WordMove to mirror sites](https://soderlind.no/local-by-flywheel-using-wordmove-to-mirror-sites/)
-- [Learn to code!](https://soderlind.no/learn-to-code/)
-<!-- BLOG:END -->
-
-More on [soderlind.no](https://soderlind.no/)
+  </td>
+<td width="49%">
+  <img align="left"  alt="soderlind's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/soderlind?cardType=level-alternate" />
 </td></tr></table>
 
-<img align="left"  alt="soderlind's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/soderlind?cardType=level-alternate" />
-<img align="left" alt="Soderlind's Languages Stats" src="https://github-readme-stats-d1emiyjuh.vercel.app/api/top-langs/?username=soderlind" />
 
 
 
