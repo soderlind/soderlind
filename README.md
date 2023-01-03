@@ -21,11 +21,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/soderlind/ordle/pull/5) in [soderlind/ordle](https://github.com/soderlind/ordle)
-2. 🎉 Merged PR [#11](https://github.com/dss-web/gravityforms-uploads-azure/pull/11) in [dss-web/gravityforms-uploads-azure](https://github.com/dss-web/gravityforms-uploads-azure)
-3. 🎉 Merged PR [#12](https://github.com/dss-web/gravityforms-uploads-azure/pull/12) in [dss-web/gravityforms-uploads-azure](https://github.com/dss-web/gravityforms-uploads-azure)
-4. 🗣 Commented on [#2](https://github.com/SimeonGriggs/remix-sanity-studio-v3/issues/2) in [SimeonGriggs/remix-sanity-studio-v3](https://github.com/SimeonGriggs/remix-sanity-studio-v3)
-5. ❗️ Reopened issue [#2](https://github.com/SimeonGriggs/remix-sanity-studio-v3/issues/2) in [SimeonGriggs/remix-sanity-studio-v3](https://github.com/SimeonGriggs/remix-sanity-studio-v3)
+1. 🎉 Merged PR [#13](https://github.com/soderlind/super-admin-all-sites-menu/pull/13) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+2. 🎉 Merged PR [#14](https://github.com/soderlind/super-admin-all-sites-menu/pull/14) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+3. 🎉 Merged PR [#5](https://github.com/soderlind/ordle/pull/5) in [soderlind/ordle](https://github.com/soderlind/ordle)
+4. 🎉 Merged PR [#11](https://github.com/dss-web/gravityforms-uploads-azure/pull/11) in [dss-web/gravityforms-uploads-azure](https://github.com/dss-web/gravityforms-uploads-azure)
+5. 🎉 Merged PR [#12](https://github.com/dss-web/gravityforms-uploads-azure/pull/12) in [dss-web/gravityforms-uploads-azure](https://github.com/dss-web/gravityforms-uploads-azure)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
