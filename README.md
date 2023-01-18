@@ -21,11 +21,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/soderlind/wednesday-repo/pull/2) in [soderlind/wednesday-repo](https://github.com/soderlind/wednesday-repo)
-2. 💪 Opened PR [#2](https://github.com/soderlind/wednesday-repo/pull/2) in [soderlind/wednesday-repo](https://github.com/soderlind/wednesday-repo)
-3. 🗣 Commented on [#1](https://github.com/soderlind/wednesday-repo/issues/1) in [soderlind/wednesday-repo](https://github.com/soderlind/wednesday-repo)
-4. ❗️ Opened issue [#1](https://github.com/soderlind/wednesday-repo/issues/1) in [soderlind/wednesday-repo](https://github.com/soderlind/wednesday-repo)
-5. ❗️ Opened issue [#47000](https://github.com/WordPress/gutenberg/issues/47000) in [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+1. 🎉 Merged PR [#3](https://github.com/soderlind/wednesday-repo/pull/3) in [soderlind/wednesday-repo](https://github.com/soderlind/wednesday-repo)
+2. 💪 Opened PR [#3](https://github.com/soderlind/wednesday-repo/pull/3) in [soderlind/wednesday-repo](https://github.com/soderlind/wednesday-repo)
+3. 🎉 Merged PR [#2](https://github.com/soderlind/wednesday-repo/pull/2) in [soderlind/wednesday-repo](https://github.com/soderlind/wednesday-repo)
+4. 💪 Opened PR [#2](https://github.com/soderlind/wednesday-repo/pull/2) in [soderlind/wednesday-repo](https://github.com/soderlind/wednesday-repo)
+5. 🗣 Commented on [#1](https://github.com/soderlind/wednesday-repo/issues/1) in [soderlind/wednesday-repo](https://github.com/soderlind/wednesday-repo)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
