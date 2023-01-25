@@ -21,11 +21,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/soderlind/friday-repo/issues/4) in [soderlind/friday-repo](https://github.com/soderlind/friday-repo)
-2. ❗️ Opened issue [#5](https://github.com/soderlind/friday-repo/issues/5) in [soderlind/friday-repo](https://github.com/soderlind/friday-repo)
-3. ❗️ Opened issue [#4](https://github.com/soderlind/friday-repo/issues/4) in [soderlind/friday-repo](https://github.com/soderlind/friday-repo)
-4. ❗️ Opened issue [#3](https://github.com/soderlind/friday-repo/issues/3) in [soderlind/friday-repo](https://github.com/soderlind/friday-repo)
-5. ❗️ Closed issue [#1](https://github.com/soderlind/friday-repo/issues/1) in [soderlind/friday-repo](https://github.com/soderlind/friday-repo)
+1. 🎉 Merged PR [#1](https://github.com/dss-web/jobbnorge-block/pull/1) in [dss-web/jobbnorge-block](https://github.com/dss-web/jobbnorge-block)
+2. 💪 Opened PR [#1](https://github.com/dss-web/jobbnorge-block/pull/1) in [dss-web/jobbnorge-block](https://github.com/dss-web/jobbnorge-block)
+3. 🗣 Commented on [#4](https://github.com/soderlind/friday-repo/issues/4) in [soderlind/friday-repo](https://github.com/soderlind/friday-repo)
+4. ❗️ Opened issue [#5](https://github.com/soderlind/friday-repo/issues/5) in [soderlind/friday-repo](https://github.com/soderlind/friday-repo)
+5. ❗️ Opened issue [#4](https://github.com/soderlind/friday-repo/issues/4) in [soderlind/friday-repo](https://github.com/soderlind/friday-repo)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
