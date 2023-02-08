@@ -21,11 +21,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/soderlind/dss-hogan-sites/pull/2) in [soderlind/dss-hogan-sites](https://github.com/soderlind/dss-hogan-sites)
-2. 💪 Opened PR [#2](https://github.com/soderlind/dss-hogan-sites/pull/2) in [soderlind/dss-hogan-sites](https://github.com/soderlind/dss-hogan-sites)
-3. 🎉 Merged PR [#1](https://github.com/soderlind/network-portfolio/pull/1) in [soderlind/network-portfolio](https://github.com/soderlind/network-portfolio)
-4. 💪 Opened PR [#1](https://github.com/soderlind/network-portfolio/pull/1) in [soderlind/network-portfolio](https://github.com/soderlind/network-portfolio)
-5. 🎉 Merged PR [#1](https://github.com/dss-web/jobbnorge-block/pull/1) in [dss-web/jobbnorge-block](https://github.com/dss-web/jobbnorge-block)
+1. ❗️ Opened issue [#104952](https://github.com/MicrosoftDocs/azure-docs/issues/104952) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
+2. 🎉 Merged PR [#2](https://github.com/soderlind/dss-hogan-sites/pull/2) in [soderlind/dss-hogan-sites](https://github.com/soderlind/dss-hogan-sites)
+3. 💪 Opened PR [#2](https://github.com/soderlind/dss-hogan-sites/pull/2) in [soderlind/dss-hogan-sites](https://github.com/soderlind/dss-hogan-sites)
+4. 🎉 Merged PR [#1](https://github.com/soderlind/network-portfolio/pull/1) in [soderlind/network-portfolio](https://github.com/soderlind/network-portfolio)
+5. 💪 Opened PR [#1](https://github.com/soderlind/network-portfolio/pull/1) in [soderlind/network-portfolio](https://github.com/soderlind/network-portfolio)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
