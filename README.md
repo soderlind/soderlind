@@ -21,11 +21,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/soderlind/dss-hogan-sites/pull/3) in [soderlind/dss-hogan-sites](https://github.com/soderlind/dss-hogan-sites)
-2. 💪 Opened PR [#3](https://github.com/soderlind/dss-hogan-sites/pull/3) in [soderlind/dss-hogan-sites](https://github.com/soderlind/dss-hogan-sites)
-3. ❗️ Opened issue [#104952](https://github.com/MicrosoftDocs/azure-docs/issues/104952) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-4. 🎉 Merged PR [#2](https://github.com/soderlind/dss-hogan-sites/pull/2) in [soderlind/dss-hogan-sites](https://github.com/soderlind/dss-hogan-sites)
-5. 💪 Opened PR [#2](https://github.com/soderlind/dss-hogan-sites/pull/2) in [soderlind/dss-hogan-sites](https://github.com/soderlind/dss-hogan-sites)
+1. 🎉 Merged PR [#5](https://github.com/soderlind/soderlind-remixed/pull/5) in [soderlind/soderlind-remixed](https://github.com/soderlind/soderlind-remixed)
+2. ❌ Reopened PR [#5](https://github.com/soderlind/soderlind-remixed/pull/5) in [soderlind/soderlind-remixed](https://github.com/soderlind/soderlind-remixed)
+3. 🎉 Merged PR [#7](https://github.com/soderlind/soderlind-remixed/pull/7) in [soderlind/soderlind-remixed](https://github.com/soderlind/soderlind-remixed)
+4. ❌ Reopened PR [#7](https://github.com/soderlind/soderlind-remixed/pull/7) in [soderlind/soderlind-remixed](https://github.com/soderlind/soderlind-remixed)
+5. ❌ Closed PR [#7](https://github.com/soderlind/soderlind-remixed/pull/7) in [soderlind/soderlind-remixed](https://github.com/soderlind/soderlind-remixed)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
