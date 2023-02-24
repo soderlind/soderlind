@@ -21,11 +21,6 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/soderlind/unprotect-protected-posts/pull/1) in [soderlind/unprotect-protected-posts](https://github.com/soderlind/unprotect-protected-posts)
-2. 💪 Opened PR [#1](https://github.com/soderlind/unprotect-protected-posts/pull/1) in [soderlind/unprotect-protected-posts](https://github.com/soderlind/unprotect-protected-posts)
-3. 🎉 Merged PR [#5](https://github.com/soderlind/soderlind-remixed/pull/5) in [soderlind/soderlind-remixed](https://github.com/soderlind/soderlind-remixed)
-4. ❌ Reopened PR [#5](https://github.com/soderlind/soderlind-remixed/pull/5) in [soderlind/soderlind-remixed](https://github.com/soderlind/soderlind-remixed)
-5. 🎉 Merged PR [#7](https://github.com/soderlind/soderlind-remixed/pull/7) in [soderlind/soderlind-remixed](https://github.com/soderlind/soderlind-remixed)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
