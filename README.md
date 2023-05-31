@@ -21,16 +21,16 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#53](https://github.com/plausible/wordpress/issues/53) in [plausible/wordpress](https://github.com/plausible/wordpress)
+1. 🚀 Published release [1.0.0](https://github.com/1.0.0) in [soderlind/norwegian-stopwords-searchwp4](https://github.com/soderlind/norwegian-stopwords-searchwp4)
 2. 🗣 Commented on [#53](https://github.com/plausible/wordpress/issues/53) in [plausible/wordpress](https://github.com/plausible/wordpress)
-3. ❗ Opened issue [#1](https://github.com/catherineriver/sanity-plugin-generate-ogimage/issues/1) in [catherineriver/sanity-plugin-generate-ogimage](https://github.com/catherineriver/sanity-plugin-generate-ogimage)
-4. 🎉 Merged PR [#13](https://github.com/soderlind/soderlind-remixed/pull/13) in [soderlind/soderlind-remixed](https://github.com/soderlind/soderlind-remixed)
-5. 🎉 Merged PR [#12](https://github.com/soderlind/soderlind-remixed/pull/12) in [soderlind/soderlind-remixed](https://github.com/soderlind/soderlind-remixed)
-6. 💪 Opened PR [#12](https://github.com/soderlind/soderlind-remixed/pull/12) in [soderlind/soderlind-remixed](https://github.com/soderlind/soderlind-remixed)
-7. ❗ Opened issue [#577](https://github.com/shibayan/keyvault-acmebot/issues/577) in [shibayan/keyvault-acmebot](https://github.com/shibayan/keyvault-acmebot)
-8. 🚀 Published release [1.0.11](https://github.com/1.0.11) in [dss-web/jobbnorge-block](https://github.com/dss-web/jobbnorge-block)
-9. 💪 Opened PR [#2](https://github.com/dss-web/jobbnorge-block/pull/2) in [dss-web/jobbnorge-block](https://github.com/dss-web/jobbnorge-block)
-10. 🚀 Published release [1.1.3](https://github.com/1.1.3) in [soderlind/super-admin-performance-boost](https://github.com/soderlind/super-admin-performance-boost)
+3. 🗣 Commented on [#53](https://github.com/plausible/wordpress/issues/53) in [plausible/wordpress](https://github.com/plausible/wordpress)
+4. ❗ Opened issue [#1](https://github.com/catherineriver/sanity-plugin-generate-ogimage/issues/1) in [catherineriver/sanity-plugin-generate-ogimage](https://github.com/catherineriver/sanity-plugin-generate-ogimage)
+5. 🎉 Merged PR [#13](https://github.com/soderlind/soderlind-remixed/pull/13) in [soderlind/soderlind-remixed](https://github.com/soderlind/soderlind-remixed)
+6. 🎉 Merged PR [#12](https://github.com/soderlind/soderlind-remixed/pull/12) in [soderlind/soderlind-remixed](https://github.com/soderlind/soderlind-remixed)
+7. 💪 Opened PR [#12](https://github.com/soderlind/soderlind-remixed/pull/12) in [soderlind/soderlind-remixed](https://github.com/soderlind/soderlind-remixed)
+8. ❗ Opened issue [#577](https://github.com/shibayan/keyvault-acmebot/issues/577) in [shibayan/keyvault-acmebot](https://github.com/shibayan/keyvault-acmebot)
+9. 🚀 Published release [1.0.11](https://github.com/1.0.11) in [dss-web/jobbnorge-block](https://github.com/dss-web/jobbnorge-block)
+10. 💪 Opened PR [#2](https://github.com/dss-web/jobbnorge-block/pull/2) in [dss-web/jobbnorge-block](https://github.com/dss-web/jobbnorge-block)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
