@@ -21,16 +21,6 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#138](https://github.com/plausible/wordpress/pull/138) in [plausible/wordpress](https://github.com/plausible/wordpress)
-2. 🚀 Published release [1.0.0](https://github.com/1.0.0) in [soderlind/autoactivate-searchwp-index](https://github.com/soderlind/autoactivate-searchwp-index)
-3. 🚀 Published release [1.1.1](https://github.com/1.1.1) in [soderlind/norwegian-stopwords-searchwp4](https://github.com/soderlind/norwegian-stopwords-searchwp4)
-4. 🚀 Published release [1.1.0](https://github.com/1.1.0) in [soderlind/norwegian-stopwords-searchwp4](https://github.com/soderlind/norwegian-stopwords-searchwp4)
-5. 🚀 Published release [1.0.0](https://github.com/1.0.0) in [soderlind/norwegian-stopwords-searchwp4](https://github.com/soderlind/norwegian-stopwords-searchwp4)
-6. 🗣 Commented on [#53](https://github.com/plausible/wordpress/issues/53) in [plausible/wordpress](https://github.com/plausible/wordpress)
-7. 🗣 Commented on [#53](https://github.com/plausible/wordpress/issues/53) in [plausible/wordpress](https://github.com/plausible/wordpress)
-8. ❗ Opened issue [#1](https://github.com/catherineriver/sanity-plugin-generate-ogimage/issues/1) in [catherineriver/sanity-plugin-generate-ogimage](https://github.com/catherineriver/sanity-plugin-generate-ogimage)
-9. 🎉 Merged PR [#13](https://github.com/soderlind/soderlind-remixed/pull/13) in [soderlind/soderlind-remixed](https://github.com/soderlind/soderlind-remixed)
-10. 🎉 Merged PR [#12](https://github.com/soderlind/soderlind-remixed/pull/12) in [soderlind/soderlind-remixed](https://github.com/soderlind/soderlind-remixed)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
