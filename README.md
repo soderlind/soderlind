@@ -22,9 +22,9 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#53](https://github.com/plausible/wordpress/issues/53) in [plausible/wordpress](https://github.com/plausible/wordpress)
-2. 🗣 Commented on [#53](https://github.com/plausible/wordpress/issues/53) in [plausible/wordpress](https://github.com/plausible/wordpress)
-3. 🗣 Commented on [#1315](https://github.com/polylang/polylang/issues/1315) in [polylang/polylang](https://github.com/polylang/polylang)
-4. 🗣 Commented on [#139](https://github.com/plausible/wordpress/issues/139) in [plausible/wordpress](https://github.com/plausible/wordpress)
+2. 💪 Opened PR [#147](https://github.com/plausible/wordpress/pull/147) in [plausible/wordpress](https://github.com/plausible/wordpress)
+3. 🗣 Commented on [#53](https://github.com/plausible/wordpress/issues/53) in [plausible/wordpress](https://github.com/plausible/wordpress)
+4. 🗣 Commented on [#53](https://github.com/plausible/wordpress/issues/53) in [plausible/wordpress](https://github.com/plausible/wordpress)
 5. 🗣 Commented on [#1315](https://github.com/polylang/polylang/issues/1315) in [polylang/polylang](https://github.com/polylang/polylang)
 <!--END_SECTION:activity-->
   </td>
