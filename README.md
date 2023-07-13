@@ -21,11 +21,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1315](https://github.com/polylang/polylang/issues/1315) in [polylang/polylang](https://github.com/polylang/polylang)
-2. 🗣 Commented on [#139](https://github.com/plausible/wordpress/issues/139) in [plausible/wordpress](https://github.com/plausible/wordpress)
+1. 🗣 Commented on [#53](https://github.com/plausible/wordpress/issues/53) in [plausible/wordpress](https://github.com/plausible/wordpress)
+2. 🗣 Commented on [#53](https://github.com/plausible/wordpress/issues/53) in [plausible/wordpress](https://github.com/plausible/wordpress)
 3. 🗣 Commented on [#1315](https://github.com/polylang/polylang/issues/1315) in [polylang/polylang](https://github.com/polylang/polylang)
-4. ❗ Opened issue [#1315](https://github.com/polylang/polylang/issues/1315) in [polylang/polylang](https://github.com/polylang/polylang)
-5. 💪 Opened PR [#138](https://github.com/plausible/wordpress/pull/138) in [plausible/wordpress](https://github.com/plausible/wordpress)
+4. 🗣 Commented on [#139](https://github.com/plausible/wordpress/issues/139) in [plausible/wordpress](https://github.com/plausible/wordpress)
+5. 🗣 Commented on [#1315](https://github.com/polylang/polylang/issues/1315) in [polylang/polylang](https://github.com/polylang/polylang)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
