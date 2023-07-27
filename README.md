@@ -21,11 +21,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.1](https://github.com/soderlind/wp-cache-textdomain/releases/tag/1.0.1) in [soderlind/wp-cache-textdomain](https://github.com/soderlind/wp-cache-textdomain)
-2. 🗣 Commented on [#53](https://github.com/plausible/wordpress/issues/53#issuecomment-1634216550) in [plausible/wordpress](https://github.com/plausible/wordpress)
-3. 💪 Opened PR [#147](https://github.com/plausible/wordpress/pull/147) in [plausible/wordpress](https://github.com/plausible/wordpress)
-4. 🗣 Commented on [#53](https://github.com/plausible/wordpress/issues/53#issuecomment-1634142095) in [plausible/wordpress](https://github.com/plausible/wordpress)
-5. 🗣 Commented on [#53](https://github.com/plausible/wordpress/issues/53#issuecomment-1634128560) in [plausible/wordpress](https://github.com/plausible/wordpress)
+1. 🚀 Published release [1.0.2](https://github.com/soderlind/wp-cache-textdomain/releases/tag/1.0.2) in [soderlind/wp-cache-textdomain](https://github.com/soderlind/wp-cache-textdomain)
+2. 🔒 Closed issue [#1](https://github.com/soderlind/wp-cache-textdomain/issues/1) in [soderlind/wp-cache-textdomain](https://github.com/soderlind/wp-cache-textdomain)
+3. 🚀 Published release [1.0.1](https://github.com/soderlind/wp-cache-textdomain/releases/tag/1.0.1) in [soderlind/wp-cache-textdomain](https://github.com/soderlind/wp-cache-textdomain)
+4. 🗣 Commented on [#53](https://github.com/plausible/wordpress/issues/53#issuecomment-1634216550) in [plausible/wordpress](https://github.com/plausible/wordpress)
+5. 💪 Opened PR [#147](https://github.com/plausible/wordpress/pull/147) in [plausible/wordpress](https://github.com/plausible/wordpress)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
