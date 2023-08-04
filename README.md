@@ -1,5 +1,5 @@
 
-<a href="https://github.com/soderlind/soderlind/actions"><img src="https://github.com/soderlind/soderlind/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
+
 
 <!-- Actual text -->
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
