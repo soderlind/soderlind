@@ -21,11 +21,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.0.0](https://github.com/soderlind/wp-cache-textdomain/releases/tag/2.0.0) in [soderlind/wp-cache-textdomain](https://github.com/soderlind/wp-cache-textdomain)
-2. 🎉 Merged PR [#2](https://github.com/soderlind/wp-cache-textdomain/pull/2) in [soderlind/wp-cache-textdomain](https://github.com/soderlind/wp-cache-textdomain)
-3. 💪 Opened PR [#2](https://github.com/soderlind/wp-cache-textdomain/pull/2) in [soderlind/wp-cache-textdomain](https://github.com/soderlind/wp-cache-textdomain)
-4. ❗ Opened issue [#38](https://github.com/SimeonGriggs/sanity-remix-template/issues/38) in [SimeonGriggs/sanity-remix-template](https://github.com/SimeonGriggs/sanity-remix-template)
-5. 🚀 Published release [1.0.12](https://github.com/dss-web/jobbnorge-block/releases/tag/1.0.12) in [dss-web/jobbnorge-block](https://github.com/dss-web/jobbnorge-block)
+1. 🚀 Published release [2.0.1](https://github.com/soderlind/a-faster-load-textdomain/releases/tag/2.0.1) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+2. 🚀 Published release [2.0.0](https://github.com/soderlind/wp-cache-textdomain/releases/tag/2.0.0) in [soderlind/wp-cache-textdomain](https://github.com/soderlind/wp-cache-textdomain)
+3. 🎉 Merged PR [#2](https://github.com/soderlind/wp-cache-textdomain/pull/2) in [soderlind/wp-cache-textdomain](https://github.com/soderlind/wp-cache-textdomain)
+4. 💪 Opened PR [#2](https://github.com/soderlind/wp-cache-textdomain/pull/2) in [soderlind/wp-cache-textdomain](https://github.com/soderlind/wp-cache-textdomain)
+5. ❗ Opened issue [#38](https://github.com/SimeonGriggs/sanity-remix-template/issues/38) in [SimeonGriggs/sanity-remix-template](https://github.com/SimeonGriggs/sanity-remix-template)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
