@@ -21,11 +21,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.1.1](https://github.com/soderlind/a-faster-load-textdomain/releases/tag/2.1.1) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
-2. 🎉 Merged PR [#3](https://github.com/soderlind/a-faster-load-textdomain/pull/3) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
-3. 💪 Opened PR [#3](https://github.com/soderlind/a-faster-load-textdomain/pull/3) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
-4. 🚀 Published release [2.1.0](https://github.com/soderlind/a-faster-load-textdomain/releases/tag/2.1.0) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
-5. 🚀 Published release [2.0.1](https://github.com/soderlind/a-faster-load-textdomain/releases/tag/2.0.1) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+1. 🚀 Published release [1.6.5](https://github.com/soderlind/super-admin-all-sites-menu/releases/tag/1.6.5) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+2. 🎉 Merged PR [#20](https://github.com/soderlind/super-admin-all-sites-menu/pull/20) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+3. 💪 Opened PR [#20](https://github.com/soderlind/super-admin-all-sites-menu/pull/20) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+4. 🚀 Published release [2.1.1](https://github.com/soderlind/a-faster-load-textdomain/releases/tag/2.1.1) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+5. 🎉 Merged PR [#3](https://github.com/soderlind/a-faster-load-textdomain/pull/3) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
