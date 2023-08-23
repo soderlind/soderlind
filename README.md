@@ -21,11 +21,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1963](https://github.com/WordPress/wordpress-develop/pull/1963) in [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop)
-2. 🚀 Published release [1.0.3](https://github.com/soderlind/super-admin-switch-to-admin/releases/tag/1.0.3) in [soderlind/super-admin-switch-to-admin](https://github.com/soderlind/super-admin-switch-to-admin)
-3. 🚀 Published release [1.0.2](https://github.com/soderlind/super-admin-switch-to-admin/releases/tag/1.0.2) in [soderlind/super-admin-switch-to-admin](https://github.com/soderlind/super-admin-switch-to-admin)
-4. 🚀 Published release [1.6.5](https://github.com/soderlind/super-admin-all-sites-menu/releases/tag/1.6.5) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-5. 🎉 Merged PR [#20](https://github.com/soderlind/super-admin-all-sites-menu/pull/20) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+1. 💪 Opened PR [#5054](https://github.com/WordPress/wordpress-develop/pull/5054) in [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop)
+2. ❌ Closed PR [#1963](https://github.com/WordPress/wordpress-develop/pull/1963) in [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop)
+3. 🚀 Published release [1.0.3](https://github.com/soderlind/super-admin-switch-to-admin/releases/tag/1.0.3) in [soderlind/super-admin-switch-to-admin](https://github.com/soderlind/super-admin-switch-to-admin)
+4. 🚀 Published release [1.0.2](https://github.com/soderlind/super-admin-switch-to-admin/releases/tag/1.0.2) in [soderlind/super-admin-switch-to-admin](https://github.com/soderlind/super-admin-switch-to-admin)
+5. 🚀 Published release [1.6.5](https://github.com/soderlind/super-admin-all-sites-menu/releases/tag/1.6.5) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
