@@ -21,11 +21,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#693](https://github.com/hizzle-co/noptin/issues/693) in [hizzle-co/noptin](https://github.com/hizzle-co/noptin)
-2. 🗣 Commented on [#48](https://github.com/swissspidy/performant-translations/issues/48#issuecomment-1700968170) in [swissspidy/performant-translations](https://github.com/swissspidy/performant-translations)
-3. 💪 Opened PR [#5054](https://github.com/WordPress/wordpress-develop/pull/5054) in [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop)
-4. ❌ Closed PR [#1963](https://github.com/WordPress/wordpress-develop/pull/1963) in [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop)
-5. 🚀 Published release [1.0.3](https://github.com/soderlind/super-admin-switch-to-admin/releases/tag/1.0.3) in [soderlind/super-admin-switch-to-admin](https://github.com/soderlind/super-admin-switch-to-admin)
+1. 🔒 Closed issue [#693](https://github.com/hizzle-co/noptin/issues/693) in [hizzle-co/noptin](https://github.com/hizzle-co/noptin)
+2. 🗣 Commented on [#693](https://github.com/hizzle-co/noptin/issues/693#issuecomment-1719544026) in [hizzle-co/noptin](https://github.com/hizzle-co/noptin)
+3. ❗ Opened issue [#693](https://github.com/hizzle-co/noptin/issues/693) in [hizzle-co/noptin](https://github.com/hizzle-co/noptin)
+4. 🗣 Commented on [#48](https://github.com/swissspidy/performant-translations/issues/48#issuecomment-1700968170) in [swissspidy/performant-translations](https://github.com/swissspidy/performant-translations)
+5. 💪 Opened PR [#5054](https://github.com/WordPress/wordpress-develop/pull/5054) in [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
