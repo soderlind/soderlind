@@ -21,11 +21,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#693](https://github.com/hizzle-co/noptin/issues/693) in [hizzle-co/noptin](https://github.com/hizzle-co/noptin)
-2. 🗣 Commented on [#693](https://github.com/hizzle-co/noptin/issues/693#issuecomment-1719544026) in [hizzle-co/noptin](https://github.com/hizzle-co/noptin)
-3. ❗ Opened issue [#693](https://github.com/hizzle-co/noptin/issues/693) in [hizzle-co/noptin](https://github.com/hizzle-co/noptin)
-4. 🗣 Commented on [#48](https://github.com/swissspidy/performant-translations/issues/48#issuecomment-1700968170) in [swissspidy/performant-translations](https://github.com/swissspidy/performant-translations)
-5. 💪 Opened PR [#5054](https://github.com/WordPress/wordpress-develop/pull/5054) in [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop)
+1. 🚀 Published release [2.1.2](https://github.com/soderlind/a-faster-load-textdomain/releases/tag/2.1.2) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+2. 🎉 Merged PR [#4](https://github.com/soderlind/a-faster-load-textdomain/pull/4) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+3. 💪 Opened PR [#4](https://github.com/soderlind/a-faster-load-textdomain/pull/4) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+4. 🔒 Closed issue [#693](https://github.com/hizzle-co/noptin/issues/693) in [hizzle-co/noptin](https://github.com/hizzle-co/noptin)
+5. 🗣 Commented on [#693](https://github.com/hizzle-co/noptin/issues/693#issuecomment-1719544026) in [hizzle-co/noptin](https://github.com/hizzle-co/noptin)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
