@@ -21,11 +21,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.1.2](https://github.com/soderlind/a-faster-load-textdomain/releases/tag/2.1.2) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
-2. 🎉 Merged PR [#4](https://github.com/soderlind/a-faster-load-textdomain/pull/4) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
-3. 💪 Opened PR [#4](https://github.com/soderlind/a-faster-load-textdomain/pull/4) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
-4. 🔒 Closed issue [#693](https://github.com/hizzle-co/noptin/issues/693) in [hizzle-co/noptin](https://github.com/hizzle-co/noptin)
-5. 🗣 Commented on [#693](https://github.com/hizzle-co/noptin/issues/693#issuecomment-1719544026) in [hizzle-co/noptin](https://github.com/hizzle-co/noptin)
+1. 🚀 Published release [2.1.3](https://github.com/soderlind/a-faster-load-textdomain/releases/tag/2.1.3) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+2. 🎉 Merged PR [#5](https://github.com/soderlind/a-faster-load-textdomain/pull/5) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+3. 💪 Opened PR [#5](https://github.com/soderlind/a-faster-load-textdomain/pull/5) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+4. 🚀 Published release [2.1.2](https://github.com/soderlind/a-faster-load-textdomain/releases/tag/2.1.2) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+5. 🎉 Merged PR [#4](https://github.com/soderlind/a-faster-load-textdomain/pull/4) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
