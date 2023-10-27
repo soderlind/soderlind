@@ -21,11 +21,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.1.3](https://github.com/soderlind/a-faster-load-textdomain/releases/tag/2.1.3) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
-2. 🎉 Merged PR [#5](https://github.com/soderlind/a-faster-load-textdomain/pull/5) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
-3. 💪 Opened PR [#5](https://github.com/soderlind/a-faster-load-textdomain/pull/5) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
-4. 🚀 Published release [2.1.2](https://github.com/soderlind/a-faster-load-textdomain/releases/tag/2.1.2) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
-5. 🎉 Merged PR [#4](https://github.com/soderlind/a-faster-load-textdomain/pull/4) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+1. 🚀 Published release [2.0.0](https://github.com/soderlind/wp-project-version-sync/releases/tag/2.0.0) in [soderlind/wp-project-version-sync](https://github.com/soderlind/wp-project-version-sync)
+2. 🎉 Merged PR [#1](https://github.com/soderlind/wp-project-version-sync/pull/1) in [soderlind/wp-project-version-sync](https://github.com/soderlind/wp-project-version-sync)
+3. 💪 Opened PR [#1](https://github.com/soderlind/wp-project-version-sync/pull/1) in [soderlind/wp-project-version-sync](https://github.com/soderlind/wp-project-version-sync)
+4. 🚀 Published release [2.1.3](https://github.com/soderlind/a-faster-load-textdomain/releases/tag/2.1.3) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+5. 🎉 Merged PR [#5](https://github.com/soderlind/a-faster-load-textdomain/pull/5) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
