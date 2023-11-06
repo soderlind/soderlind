@@ -21,11 +21,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.6.6](https://github.com/soderlind/super-admin-all-sites-menu/releases/tag/1.6.6) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-2. 🎉 Merged PR [#21](https://github.com/soderlind/super-admin-all-sites-menu/pull/21) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-3. 💪 Opened PR [#21](https://github.com/soderlind/super-admin-all-sites-menu/pull/21) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-4. 🚀 Published release [1.0.13](https://github.com/dss-web/jobbnorge-block/releases/tag/1.0.13) in [dss-web/jobbnorge-block](https://github.com/dss-web/jobbnorge-block)
-5. 🎉 Merged PR [#9](https://github.com/dss-web/jobbnorge-block/pull/9) in [dss-web/jobbnorge-block](https://github.com/dss-web/jobbnorge-block)
+1. 💪 Opened PR [#7](https://github.com/soderlind/a-faster-load-textdomain/pull/7) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+2. 🎉 Merged PR [#7](https://github.com/soderlind/a-faster-load-textdomain/pull/7) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+3. 🚀 Published release [2.1.4](https://github.com/soderlind/a-faster-load-textdomain/releases/tag/2.1.4) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+4. 🎉 Merged PR [#6](https://github.com/soderlind/a-faster-load-textdomain/pull/6) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+5. 💪 Opened PR [#6](https://github.com/soderlind/a-faster-load-textdomain/pull/6) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
