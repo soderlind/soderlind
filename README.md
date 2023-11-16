@@ -21,11 +21,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.1.5](https://github.com/soderlind/a-faster-load-textdomain/releases/tag/2.1.5) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
-2. 🎉 Merged PR [#8](https://github.com/soderlind/a-faster-load-textdomain/pull/8) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
-3. 💪 Opened PR [#8](https://github.com/soderlind/a-faster-load-textdomain/pull/8) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
-4. 💪 Opened PR [#7](https://github.com/soderlind/a-faster-load-textdomain/pull/7) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
-5. 🎉 Merged PR [#7](https://github.com/soderlind/a-faster-load-textdomain/pull/7) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+1. 🚀 Published release [1.0.0](https://github.com/dss-web/jobbnorge-block-employers/releases/tag/1.0.0) in [dss-web/jobbnorge-block-employers](https://github.com/dss-web/jobbnorge-block-employers)
+2. 🚀 Published release [2.1.5](https://github.com/soderlind/a-faster-load-textdomain/releases/tag/2.1.5) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+3. 🎉 Merged PR [#8](https://github.com/soderlind/a-faster-load-textdomain/pull/8) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+4. 💪 Opened PR [#8](https://github.com/soderlind/a-faster-load-textdomain/pull/8) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+5. 💪 Opened PR [#7](https://github.com/soderlind/a-faster-load-textdomain/pull/7) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
