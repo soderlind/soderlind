@@ -21,11 +21,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/dss-web/jobbnorge-block/pull/15) in [dss-web/jobbnorge-block](https://github.com/dss-web/jobbnorge-block)
-2. 💪 Opened PR [#15](https://github.com/dss-web/jobbnorge-block/pull/15) in [dss-web/jobbnorge-block](https://github.com/dss-web/jobbnorge-block)
-3. 🚀 Published release [2.2.3](https://github.com/soderlind/a-faster-load-textdomain/releases/tag/2.2.3) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
-4. 🎉 Merged PR [#11](https://github.com/soderlind/a-faster-load-textdomain/pull/11) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
-5. 💪 Opened PR [#11](https://github.com/soderlind/a-faster-load-textdomain/pull/11) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+1. 🗣 Commented on [#854](https://github.com/WordPress/wordpress-playground/issues/854#issuecomment-1883453770) in [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground)
+2. 🎉 Merged PR [#15](https://github.com/dss-web/jobbnorge-block/pull/15) in [dss-web/jobbnorge-block](https://github.com/dss-web/jobbnorge-block)
+3. 💪 Opened PR [#15](https://github.com/dss-web/jobbnorge-block/pull/15) in [dss-web/jobbnorge-block](https://github.com/dss-web/jobbnorge-block)
+4. 🚀 Published release [2.2.3](https://github.com/soderlind/a-faster-load-textdomain/releases/tag/2.2.3) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+5. 🎉 Merged PR [#11](https://github.com/soderlind/a-faster-load-textdomain/pull/11) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
