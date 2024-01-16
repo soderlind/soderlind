@@ -21,11 +21,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#51](https://github.com/psalm/psalm-plugin-wordpress/issues/51) in [psalm/psalm-plugin-wordpress](https://github.com/psalm/psalm-plugin-wordpress)
-2. 🚀 Published release [2.2.4](https://github.com/soderlind/a-faster-load-textdomain/releases/tag/2.2.4) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
-3. 🎉 Merged PR [#12](https://github.com/soderlind/a-faster-load-textdomain/pull/12) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
-4. 💪 Opened PR [#12](https://github.com/soderlind/a-faster-load-textdomain/pull/12) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
-5. 🎉 Merged PR [#16](https://github.com/dss-web/jobbnorge-block/pull/16) in [dss-web/jobbnorge-block](https://github.com/dss-web/jobbnorge-block)
+1. 🗣 Commented on [#3496](https://github.com/squizlabs/PHP_CodeSniffer/issues/3496#issuecomment-1894443415) in [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer)
+2. ❗ Opened issue [#51](https://github.com/psalm/psalm-plugin-wordpress/issues/51) in [psalm/psalm-plugin-wordpress](https://github.com/psalm/psalm-plugin-wordpress)
+3. 🚀 Published release [2.2.4](https://github.com/soderlind/a-faster-load-textdomain/releases/tag/2.2.4) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+4. 🎉 Merged PR [#12](https://github.com/soderlind/a-faster-load-textdomain/pull/12) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+5. 💪 Opened PR [#12](https://github.com/soderlind/a-faster-load-textdomain/pull/12) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
