@@ -22,11 +22,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#61](https://github.com/loupe-php/loupe/issues/61) in [loupe-php/loupe](https://github.com/loupe-php/loupe)
-2. ❗ Opened issue [#1180](https://github.com/10up/distributor/issues/1180) in [10up/distributor](https://github.com/10up/distributor)
-3. 🗣 Commented on [#3496](https://github.com/squizlabs/PHP_CodeSniffer/issues/3496#issuecomment-1894641652) in [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer)
-4. 🗣 Commented on [#3496](https://github.com/squizlabs/PHP_CodeSniffer/issues/3496#issuecomment-1894443415) in [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer)
-5. ❗ Opened issue [#51](https://github.com/psalm/psalm-plugin-wordpress/issues/51) in [psalm/psalm-plugin-wordpress](https://github.com/psalm/psalm-plugin-wordpress)
+1. 🗣 Commented on [#61](https://github.com/loupe-php/loupe/issues/61#issuecomment-1900682704) in [loupe-php/loupe](https://github.com/loupe-php/loupe)
+2. ❗ Opened issue [#61](https://github.com/loupe-php/loupe/issues/61) in [loupe-php/loupe](https://github.com/loupe-php/loupe)
+3. ❗ Opened issue [#1180](https://github.com/10up/distributor/issues/1180) in [10up/distributor](https://github.com/10up/distributor)
+4. 🗣 Commented on [#3496](https://github.com/squizlabs/PHP_CodeSniffer/issues/3496#issuecomment-1894641652) in [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer)
+5. 🗣 Commented on [#3496](https://github.com/squizlabs/PHP_CodeSniffer/issues/3496#issuecomment-1894443415) in [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
