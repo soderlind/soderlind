@@ -22,11 +22,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.0.8](https://github.com/soderlind/wp-loupe/releases/tag/0.0.8) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
-2. 🎉 Merged PR [#7](https://github.com/soderlind/wp-loupe/pull/7) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
-3. 💪 Opened PR [#7](https://github.com/soderlind/wp-loupe/pull/7) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
-4. 🚀 Published release [0.0.7](https://github.com/soderlind/wp-loupe/releases/tag/0.0.7) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
-5. 🎉 Merged PR [#6](https://github.com/soderlind/wp-loupe/pull/6) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
+1. ❗ Opened issue [#64](https://github.com/loupe-php/loupe/issues/64) in [loupe-php/loupe](https://github.com/loupe-php/loupe)
+2. 🚀 Published release [0.0.8](https://github.com/soderlind/wp-loupe/releases/tag/0.0.8) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
+3. 🎉 Merged PR [#7](https://github.com/soderlind/wp-loupe/pull/7) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
+4. 💪 Opened PR [#7](https://github.com/soderlind/wp-loupe/pull/7) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
+5. 🚀 Published release [0.0.7](https://github.com/soderlind/wp-loupe/releases/tag/0.0.7) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
