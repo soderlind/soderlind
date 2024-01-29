@@ -22,11 +22,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/soderlind/wp-loupe/issues/10#issuecomment-1914590722) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
-2. 🔓 Reopened issue [#8](https://github.com/soderlind/wp-loupe/issues/8) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
-3. 🗣 Commented on [#8](https://github.com/soderlind/wp-loupe/issues/8#issuecomment-1914092273) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
-4. 🔒 Closed issue [#8](https://github.com/soderlind/wp-loupe/issues/8) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
-5. 🗣 Commented on [#64](https://github.com/loupe-php/loupe/issues/64#issuecomment-1910666744) in [loupe-php/loupe](https://github.com/loupe-php/loupe)
+1. 🗣 Commented on [#64](https://github.com/loupe-php/loupe/issues/64#issuecomment-1915561158) in [loupe-php/loupe](https://github.com/loupe-php/loupe)
+2. 🔒 Closed issue [#64](https://github.com/loupe-php/loupe/issues/64) in [loupe-php/loupe](https://github.com/loupe-php/loupe)
+3. 🗣 Commented on [#10](https://github.com/soderlind/wp-loupe/issues/10#issuecomment-1914590722) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
+4. 🔓 Reopened issue [#8](https://github.com/soderlind/wp-loupe/issues/8) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
+5. 🗣 Commented on [#8](https://github.com/soderlind/wp-loupe/issues/8#issuecomment-1914092273) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
