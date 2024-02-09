@@ -22,11 +22,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#119641](https://github.com/MicrosoftDocs/azure-docs/issues/119641) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-2. 🗣 Commented on [#10](https://github.com/xSAVIKx/artifact-exists-action/issues/10#issuecomment-1923495207) in [xSAVIKx/artifact-exists-action](https://github.com/xSAVIKx/artifact-exists-action)
-3. 🗣 Commented on [#66](https://github.com/Azure/docker-login/issues/66#issuecomment-1921483732) in [Azure/docker-login](https://github.com/Azure/docker-login)
-4. 🗣 Commented on [#563](https://github.com/microsoft/vscode-copilot-release/issues/563#issuecomment-1921324806) in [microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release)
-5. 🗣 Commented on [#64](https://github.com/loupe-php/loupe/issues/64#issuecomment-1915561158) in [loupe-php/loupe](https://github.com/loupe-php/loupe)
+1. 🗣 Commented on [#10](https://github.com/xSAVIKx/artifact-exists-action/issues/10#issuecomment-1935783671) in [xSAVIKx/artifact-exists-action](https://github.com/xSAVIKx/artifact-exists-action)
+2. ❗ Opened issue [#119641](https://github.com/MicrosoftDocs/azure-docs/issues/119641) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
+3. 🗣 Commented on [#10](https://github.com/xSAVIKx/artifact-exists-action/issues/10#issuecomment-1923495207) in [xSAVIKx/artifact-exists-action](https://github.com/xSAVIKx/artifact-exists-action)
+4. 🗣 Commented on [#66](https://github.com/Azure/docker-login/issues/66#issuecomment-1921483732) in [Azure/docker-login](https://github.com/Azure/docker-login)
+5. 🗣 Commented on [#563](https://github.com/microsoft/vscode-copilot-release/issues/563#issuecomment-1921324806) in [microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
