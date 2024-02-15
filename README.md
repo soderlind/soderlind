@@ -22,11 +22,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/xSAVIKx/artifact-exists-action/issues/10#issuecomment-1935783671) in [xSAVIKx/artifact-exists-action](https://github.com/xSAVIKx/artifact-exists-action)
-2. ❗ Opened issue [#119641](https://github.com/MicrosoftDocs/azure-docs/issues/119641) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
-3. 🗣 Commented on [#10](https://github.com/xSAVIKx/artifact-exists-action/issues/10#issuecomment-1923495207) in [xSAVIKx/artifact-exists-action](https://github.com/xSAVIKx/artifact-exists-action)
-4. 🗣 Commented on [#66](https://github.com/Azure/docker-login/issues/66#issuecomment-1921483732) in [Azure/docker-login](https://github.com/Azure/docker-login)
-5. 🗣 Commented on [#563](https://github.com/microsoft/vscode-copilot-release/issues/563#issuecomment-1921324806) in [microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release)
+1. 🚀 Published release [1.6.7](https://github.com/soderlind/super-admin-all-sites-menu/releases/tag/1.6.7) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+2. 🎉 Merged PR [#22](https://github.com/soderlind/super-admin-all-sites-menu/pull/22) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+3. 💪 Opened PR [#22](https://github.com/soderlind/super-admin-all-sites-menu/pull/22) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+4. 🗣 Commented on [#10](https://github.com/xSAVIKx/artifact-exists-action/issues/10#issuecomment-1935783671) in [xSAVIKx/artifact-exists-action](https://github.com/xSAVIKx/artifact-exists-action)
+5. ❗ Opened issue [#119641](https://github.com/MicrosoftDocs/azure-docs/issues/119641) in [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
