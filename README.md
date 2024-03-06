@@ -22,11 +22,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.3.0](https://github.com/soderlind/a-faster-load-textdomain/releases/tag/2.3.0) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
-2. 🚀 Published release [1.6.7](https://github.com/soderlind/super-admin-all-sites-menu/releases/tag/1.6.7) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-3. 🎉 Merged PR [#22](https://github.com/soderlind/super-admin-all-sites-menu/pull/22) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-4. 💪 Opened PR [#22](https://github.com/soderlind/super-admin-all-sites-menu/pull/22) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-5. 🗣 Commented on [#10](https://github.com/xSAVIKx/artifact-exists-action/issues/10#issuecomment-1935783671) in [xSAVIKx/artifact-exists-action](https://github.com/xSAVIKx/artifact-exists-action)
+1. 🗣 Commented on [#103](https://github.com/Azure/aistudio-copilot-sample/issues/103#issuecomment-1980514839) in [Azure/aistudio-copilot-sample](https://github.com/Azure/aistudio-copilot-sample)
+2. 🚀 Published release [2.3.0](https://github.com/soderlind/a-faster-load-textdomain/releases/tag/2.3.0) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+3. 🚀 Published release [1.6.7](https://github.com/soderlind/super-admin-all-sites-menu/releases/tag/1.6.7) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+4. 🎉 Merged PR [#22](https://github.com/soderlind/super-admin-all-sites-menu/pull/22) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+5. 💪 Opened PR [#22](https://github.com/soderlind/super-admin-all-sites-menu/pull/22) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
