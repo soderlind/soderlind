@@ -22,11 +22,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#103](https://github.com/Azure/aistudio-copilot-sample/issues/103#issuecomment-1992758488) in [Azure/aistudio-copilot-sample](https://github.com/Azure/aistudio-copilot-sample)
-2. 🗣 Commented on [#103](https://github.com/Azure/aistudio-copilot-sample/issues/103#issuecomment-1992618067) in [Azure/aistudio-copilot-sample](https://github.com/Azure/aistudio-copilot-sample)
-3. 🗣 Commented on [#103](https://github.com/Azure/aistudio-copilot-sample/issues/103#issuecomment-1980514839) in [Azure/aistudio-copilot-sample](https://github.com/Azure/aistudio-copilot-sample)
-4. 🚀 Published release [2.3.0](https://github.com/soderlind/a-faster-load-textdomain/releases/tag/2.3.0) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
-5. 🚀 Published release [1.6.7](https://github.com/soderlind/super-admin-all-sites-menu/releases/tag/1.6.7) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+1. 🗣 Commented on [#106](https://github.com/Azure/aistudio-copilot-sample/pull/106#issuecomment-1992812815) in [Azure/aistudio-copilot-sample](https://github.com/Azure/aistudio-copilot-sample)
+2. 💪 Opened PR [#106](https://github.com/Azure/aistudio-copilot-sample/pull/106) in [Azure/aistudio-copilot-sample](https://github.com/Azure/aistudio-copilot-sample)
+3. 🗣 Commented on [#103](https://github.com/Azure/aistudio-copilot-sample/issues/103#issuecomment-1992758488) in [Azure/aistudio-copilot-sample](https://github.com/Azure/aistudio-copilot-sample)
+4. 🗣 Commented on [#103](https://github.com/Azure/aistudio-copilot-sample/issues/103#issuecomment-1992618067) in [Azure/aistudio-copilot-sample](https://github.com/Azure/aistudio-copilot-sample)
+5. 🗣 Commented on [#103](https://github.com/Azure/aistudio-copilot-sample/issues/103#issuecomment-1980514839) in [Azure/aistudio-copilot-sample](https://github.com/Azure/aistudio-copilot-sample)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
