@@ -22,11 +22,11 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/soderlind/icalendar-ninja-forms/pull/5) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
-2. 🗣 Commented on [#106](https://github.com/Azure/aistudio-copilot-sample/pull/106#issuecomment-2001939214) in [Azure/aistudio-copilot-sample](https://github.com/Azure/aistudio-copilot-sample)
-3. 🗣 Commented on [#103](https://github.com/Azure/aistudio-copilot-sample/issues/103#issuecomment-1999175396) in [Azure/aistudio-copilot-sample](https://github.com/Azure/aistudio-copilot-sample)
-4. 🗣 Commented on [#103](https://github.com/Azure/aistudio-copilot-sample/issues/103#issuecomment-1998419315) in [Azure/aistudio-copilot-sample](https://github.com/Azure/aistudio-copilot-sample)
-5. 🗣 Commented on [#103](https://github.com/Azure/aistudio-copilot-sample/issues/103#issuecomment-1994223539) in [Azure/aistudio-copilot-sample](https://github.com/Azure/aistudio-copilot-sample)
+1. 🚀 Published release [2.2.0](https://github.com/soderlind/icalendar-ninja-forms/releases/tag/2.2.0) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
+2. 🎉 Merged PR [#9](https://github.com/soderlind/icalendar-ninja-forms/pull/9) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
+3. 💪 Opened PR [#9](https://github.com/soderlind/icalendar-ninja-forms/pull/9) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
+4. 🎉 Merged PR [#5](https://github.com/soderlind/icalendar-ninja-forms/pull/5) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
+5. 🗣 Commented on [#106](https://github.com/Azure/aistudio-copilot-sample/pull/106#issuecomment-2001939214) in [Azure/aistudio-copilot-sample](https://github.com/Azure/aistudio-copilot-sample)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
