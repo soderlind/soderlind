@@ -22,11 +22,11 @@ You can find me on [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#590](https://github.com/markuspoerschke/iCal/issues/590#issuecomment-2043724318) in [markuspoerschke/iCal](https://github.com/markuspoerschke/iCal)
-2. ❌ Closed PR [#7](https://github.com/soderlind/icalendar-ninja-forms/pull/7) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
-3. 🎉 Merged PR [#10](https://github.com/soderlind/icalendar-ninja-forms/pull/10) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
-4. 💪 Opened PR [#10](https://github.com/soderlind/icalendar-ninja-forms/pull/10) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
-5. 🚀 Published release [2.2.0](https://github.com/soderlind/icalendar-ninja-forms/releases/tag/2.2.0) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
+1. 🚀 Published release [0.0.9](https://github.com/soderlind/wp-loupe/releases/tag/0.0.9) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
+2. 🔒 Closed issue [#10](https://github.com/soderlind/wp-loupe/issues/10) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
+3. 🔒 Closed issue [#9](https://github.com/soderlind/wp-loupe/issues/9) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
+4. 🎉 Merged PR [#11](https://github.com/soderlind/wp-loupe/pull/11) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
+5. 💪 Opened PR [#11](https://github.com/soderlind/wp-loupe/pull/11) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
