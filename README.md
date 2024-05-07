@@ -22,11 +22,11 @@ You can find me on [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/soderlind/a-faster-load-textdomain/issues/13#issuecomment-2089810637) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
-2. 🔒 Closed issue [#13](https://github.com/soderlind/a-faster-load-textdomain/issues/13) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
-3. ❗ Opened issue [#24](https://github.com/Automattic/studio/issues/24) in [Automattic/studio](https://github.com/Automattic/studio)
-4. ❗ Opened issue [#125](https://github.com/zaproxy/action-baseline/issues/125) in [zaproxy/action-baseline](https://github.com/zaproxy/action-baseline)
-5. 🚀 Published release [0.0.9](https://github.com/soderlind/wp-loupe/releases/tag/0.0.9) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
+1. 💪 Opened PR [#6](https://github.com/aaroneaton/Multisite-Maintenance-Mode/pull/6) in [aaroneaton/Multisite-Maintenance-Mode](https://github.com/aaroneaton/Multisite-Maintenance-Mode)
+2. 🗣 Commented on [#13](https://github.com/soderlind/a-faster-load-textdomain/issues/13#issuecomment-2089810637) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+3. 🔒 Closed issue [#13](https://github.com/soderlind/a-faster-load-textdomain/issues/13) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+4. ❗ Opened issue [#24](https://github.com/Automattic/studio/issues/24) in [Automattic/studio](https://github.com/Automattic/studio)
+5. ❗ Opened issue [#125](https://github.com/zaproxy/action-baseline/issues/125) in [zaproxy/action-baseline](https://github.com/zaproxy/action-baseline)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
