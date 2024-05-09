@@ -28,7 +28,7 @@ You can find me on [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2].
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
-     <img  alt="soderlind's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/soderlind?cardType=octocat&theme=github&preferLogin=false&Title=000000&Border=FFFFFF" />
+     <img  alt="soderlind's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/soderlind?cardType=octocat&theme=github&preferLogin=false&Title=FFFFFF&Border=FFFFFF" />
 </td></tr></table>
 
 
