@@ -17,7 +17,7 @@ You can find me on [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2].
 
 ## Resent activity
 
-<table width="100%" border="0"><tr><td width="49%">
+<table width="100%" border="0"><tr><td width="100%">
 
 ### On GitHub
 
@@ -29,9 +29,9 @@ You can find me on [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2].
 5. 💪 Opened PR [#6](https://github.com/aaroneaton/Multisite-Maintenance-Mode/pull/6) in [aaroneaton/Multisite-Maintenance-Mode](https://github.com/aaroneaton/Multisite-Maintenance-Mode)
 <!--END_SECTION:activity-->
   </td>
-<td width="49%" valign="top">
+<!--td width="49%" valign="top">
   <img   alt="soderlind's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/soderlind?cardType=level-alternate&Title=FFFFFF&Border=FFFFFF" />
-</td></tr></table>
+</td--></tr></table>
 
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
