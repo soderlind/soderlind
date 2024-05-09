@@ -22,11 +22,11 @@ You can find me on [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2].
 ### On GitHub
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/aaroneaton/Multisite-Maintenance-Mode/pull/7#issuecomment-2102321184) in [aaroneaton/Multisite-Maintenance-Mode](https://github.com/aaroneaton/Multisite-Maintenance-Mode)
-2. 💪 Opened PR [#7](https://github.com/aaroneaton/Multisite-Maintenance-Mode/pull/7) in [aaroneaton/Multisite-Maintenance-Mode](https://github.com/aaroneaton/Multisite-Maintenance-Mode)
-3. 💪 Opened PR [#6](https://github.com/aaroneaton/Multisite-Maintenance-Mode/pull/6) in [aaroneaton/Multisite-Maintenance-Mode](https://github.com/aaroneaton/Multisite-Maintenance-Mode)
-4. 🗣 Commented on [#13](https://github.com/soderlind/a-faster-load-textdomain/issues/13#issuecomment-2089810637) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
-5. 🔒 Closed issue [#13](https://github.com/soderlind/a-faster-load-textdomain/issues/13) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+1. ❌ Closed PR [#7](https://github.com/aaroneaton/Multisite-Maintenance-Mode/pull/7) in [aaroneaton/Multisite-Maintenance-Mode](https://github.com/aaroneaton/Multisite-Maintenance-Mode)
+2. 💪 Opened PR [#8](https://github.com/aaroneaton/Multisite-Maintenance-Mode/pull/8) in [aaroneaton/Multisite-Maintenance-Mode](https://github.com/aaroneaton/Multisite-Maintenance-Mode)
+3. 🗣 Commented on [#7](https://github.com/aaroneaton/Multisite-Maintenance-Mode/pull/7#issuecomment-2102321184) in [aaroneaton/Multisite-Maintenance-Mode](https://github.com/aaroneaton/Multisite-Maintenance-Mode)
+4. 💪 Opened PR [#7](https://github.com/aaroneaton/Multisite-Maintenance-Mode/pull/7) in [aaroneaton/Multisite-Maintenance-Mode](https://github.com/aaroneaton/Multisite-Maintenance-Mode)
+5. 💪 Opened PR [#6](https://github.com/aaroneaton/Multisite-Maintenance-Mode/pull/6) in [aaroneaton/Multisite-Maintenance-Mode](https://github.com/aaroneaton/Multisite-Maintenance-Mode)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
