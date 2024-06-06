@@ -20,11 +20,11 @@ You can find me on [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2].
 <table width="100%" border="0"><tr><td width="49%">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/buggregator/docs/pull/37#issuecomment-2152188146) in [buggregator/docs](https://github.com/buggregator/docs)
-2. 💪 Opened PR [#37](https://github.com/buggregator/docs/pull/37) in [buggregator/docs](https://github.com/buggregator/docs)
-3. 🗣 Commented on [#11](https://github.com/soderlind/icalendar-ninja-forms/issues/11#issuecomment-2148496376) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
-4. ❗ Opened issue [#188](https://github.com/buggregator/server/issues/188) in [buggregator/server](https://github.com/buggregator/server)
-5. 🗣 Commented on [#8](https://github.com/aaroneaton/Multisite-Maintenance-Mode/pull/8#issuecomment-2119035008) in [aaroneaton/Multisite-Maintenance-Mode](https://github.com/aaroneaton/Multisite-Maintenance-Mode)
+1. 🗣 Commented on [#24](https://github.com/Automattic/studio/issues/24#issuecomment-2153525884) in [Automattic/studio](https://github.com/Automattic/studio)
+2. 🗣 Commented on [#37](https://github.com/buggregator/docs/pull/37#issuecomment-2152188146) in [buggregator/docs](https://github.com/buggregator/docs)
+3. 💪 Opened PR [#37](https://github.com/buggregator/docs/pull/37) in [buggregator/docs](https://github.com/buggregator/docs)
+4. 🗣 Commented on [#11](https://github.com/soderlind/icalendar-ninja-forms/issues/11#issuecomment-2148496376) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
+5. ❗ Opened issue [#188](https://github.com/buggregator/server/issues/188) in [buggregator/server](https://github.com/buggregator/server)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
