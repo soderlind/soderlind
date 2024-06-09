@@ -20,11 +20,11 @@ You can find me on [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2].
 <table width="100%" border="0"><tr><td width="49%">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/soderlind/wp-loupe/issues/12#issuecomment-2156445226) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
-2. 🗣 Commented on [#24](https://github.com/Automattic/studio/issues/24#issuecomment-2153525884) in [Automattic/studio](https://github.com/Automattic/studio)
-3. 🗣 Commented on [#37](https://github.com/buggregator/docs/pull/37#issuecomment-2152188146) in [buggregator/docs](https://github.com/buggregator/docs)
-4. 💪 Opened PR [#37](https://github.com/buggregator/docs/pull/37) in [buggregator/docs](https://github.com/buggregator/docs)
-5. 🗣 Commented on [#11](https://github.com/soderlind/icalendar-ninja-forms/issues/11#issuecomment-2148496376) in [soderlind/icalendar-ninja-forms](https://github.com/soderlind/icalendar-ninja-forms)
+1. 🗣 Commented on [#12](https://github.com/soderlind/wp-loupe/issues/12#issuecomment-2156764267) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
+2. 🗣 Commented on [#12](https://github.com/soderlind/wp-loupe/issues/12#issuecomment-2156445226) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
+3. 🗣 Commented on [#24](https://github.com/Automattic/studio/issues/24#issuecomment-2153525884) in [Automattic/studio](https://github.com/Automattic/studio)
+4. 🗣 Commented on [#37](https://github.com/buggregator/docs/pull/37#issuecomment-2152188146) in [buggregator/docs](https://github.com/buggregator/docs)
+5. 💪 Opened PR [#37](https://github.com/buggregator/docs/pull/37) in [buggregator/docs](https://github.com/buggregator/docs)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
