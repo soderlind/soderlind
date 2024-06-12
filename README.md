@@ -20,11 +20,11 @@ You can find me on [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2].
 <table width="100%" border="0"><tr><td width="49%">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/soderlind/wp-loupe/issues/12#issuecomment-2156764267) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
-2. 🗣 Commented on [#12](https://github.com/soderlind/wp-loupe/issues/12#issuecomment-2156445226) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
-3. 🗣 Commented on [#24](https://github.com/Automattic/studio/issues/24#issuecomment-2153525884) in [Automattic/studio](https://github.com/Automattic/studio)
-4. 🗣 Commented on [#37](https://github.com/buggregator/docs/pull/37#issuecomment-2152188146) in [buggregator/docs](https://github.com/buggregator/docs)
-5. 💪 Opened PR [#37](https://github.com/buggregator/docs/pull/37) in [buggregator/docs](https://github.com/buggregator/docs)
+1. 🚀 Published release [2.3.1](https://github.com/soderlind/a-faster-load-textdomain/releases/tag/2.3.1) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+2. 🎉 Merged PR [#15](https://github.com/soderlind/a-faster-load-textdomain/pull/15) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+3. 💪 Opened PR [#15](https://github.com/soderlind/a-faster-load-textdomain/pull/15) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+4. 🗣 Commented on [#12](https://github.com/soderlind/wp-loupe/issues/12#issuecomment-2156764267) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
+5. 🗣 Commented on [#12](https://github.com/soderlind/wp-loupe/issues/12#issuecomment-2156445226) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
