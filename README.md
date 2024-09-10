@@ -20,11 +20,11 @@ You can find me on [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2].
 <table width="100%" border="0"><tr><td width="49%">
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.3.2](https://github.com/soderlind/a-faster-load-textdomain/releases/tag/2.3.2) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
-2. 🎉 Merged PR [#16](https://github.com/soderlind/a-faster-load-textdomain/pull/16) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
-3. 💪 Opened PR [#16](https://github.com/soderlind/a-faster-load-textdomain/pull/16) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
-4. 🚀 Published release [2.3.1](https://github.com/soderlind/a-faster-load-textdomain/releases/tag/2.3.1) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
-5. 🎉 Merged PR [#15](https://github.com/soderlind/a-faster-load-textdomain/pull/15) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+1. 🎉 Merged PR [#5](https://github.com/soderlind/wxr2pdf/pull/5) in [soderlind/wxr2pdf](https://github.com/soderlind/wxr2pdf)
+2. 🚀 Published release [2.3.2](https://github.com/soderlind/a-faster-load-textdomain/releases/tag/2.3.2) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+3. 🎉 Merged PR [#16](https://github.com/soderlind/a-faster-load-textdomain/pull/16) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+4. 💪 Opened PR [#16](https://github.com/soderlind/a-faster-load-textdomain/pull/16) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
+5. 🚀 Published release [2.3.1](https://github.com/soderlind/a-faster-load-textdomain/releases/tag/2.3.1) in [soderlind/a-faster-load-textdomain](https://github.com/soderlind/a-faster-load-textdomain)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
