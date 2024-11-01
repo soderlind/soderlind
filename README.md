@@ -2,18 +2,6 @@
 ![title-with-arrow](https://github.com/soderlind/soderlind/assets/1649452/0f685042-97c3-46ba-b290-804d07f05370)
 
 
-<!-- Actual text -->
-You can find me on [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/soderlind
-[2]: https://www.linkedin.com/in/soderlind/
 
 ## Resent activity
 
