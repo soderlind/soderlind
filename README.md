@@ -8,11 +8,11 @@
 <table width="100%" border="0"><tr><td width="49%">
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.2](https://github.com/soderlind/dss-cron/releases/tag/1.0.2) in [soderlind/dss-cron](https://github.com/soderlind/dss-cron)
-2. 🎉 Merged PR [#2](https://github.com/soderlind/dss-cron/pull/2) in [soderlind/dss-cron](https://github.com/soderlind/dss-cron)
-3. 💪 Opened PR [#2](https://github.com/soderlind/dss-cron/pull/2) in [soderlind/dss-cron](https://github.com/soderlind/dss-cron)
-4. 🚀 Published release [1.0.1](https://github.com/soderlind/dss-cron/releases/tag/1.0.1) in [soderlind/dss-cron](https://github.com/soderlind/dss-cron)
-5. 🎉 Merged PR [#1](https://github.com/soderlind/dss-cron/pull/1) in [soderlind/dss-cron](https://github.com/soderlind/dss-cron)
+1. 💪 Opened PR [#3](https://github.com/soderlind/dss-cron/pull/3) in [soderlind/dss-cron](https://github.com/soderlind/dss-cron)
+2. 🚀 Published release [1.0.2](https://github.com/soderlind/dss-cron/releases/tag/1.0.2) in [soderlind/dss-cron](https://github.com/soderlind/dss-cron)
+3. 🎉 Merged PR [#2](https://github.com/soderlind/dss-cron/pull/2) in [soderlind/dss-cron](https://github.com/soderlind/dss-cron)
+4. 💪 Opened PR [#2](https://github.com/soderlind/dss-cron/pull/2) in [soderlind/dss-cron](https://github.com/soderlind/dss-cron)
+5. 🚀 Published release [1.0.1](https://github.com/soderlind/dss-cron/releases/tag/1.0.1) in [soderlind/dss-cron](https://github.com/soderlind/dss-cron)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
