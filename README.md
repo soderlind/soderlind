@@ -8,11 +8,11 @@
 <table width="100%" border="0"><tr><td width="49%">
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#23](https://github.com/soderlind/super-admin-all-sites-menu/issues/23) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-2. 🔒 Closed issue [#23](https://github.com/soderlind/super-admin-all-sites-menu/issues/23) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-3. 🎉 Merged PR [#24](https://github.com/soderlind/super-admin-all-sites-menu/pull/24) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-4. 🚀 Published release [1.0.12](https://github.com/soderlind/dss-cron/releases/tag/1.0.12) in [soderlind/dss-cron](https://github.com/soderlind/dss-cron)
-5. 🎉 Merged PR [#11](https://github.com/soderlind/dss-cron/pull/11) in [soderlind/dss-cron](https://github.com/soderlind/dss-cron)
+1. 🎉 Merged PR [#25](https://github.com/soderlind/super-admin-all-sites-menu/pull/25) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+2. 💪 Opened PR [#25](https://github.com/soderlind/super-admin-all-sites-menu/pull/25) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+3. 🔒 Closed issue [#23](https://github.com/soderlind/super-admin-all-sites-menu/issues/23) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+4. 🔒 Closed issue [#23](https://github.com/soderlind/super-admin-all-sites-menu/issues/23) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+5. 🎉 Merged PR [#24](https://github.com/soderlind/super-admin-all-sites-menu/pull/24) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
