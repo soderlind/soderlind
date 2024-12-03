@@ -8,10 +8,10 @@
 <table width="100%" border="0"><tr><td width="49%">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26](https://github.com/soderlind/super-admin-all-sites-menu/pull/26) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-2. 🎉 Merged PR [#25](https://github.com/soderlind/super-admin-all-sites-menu/pull/25) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-3. 💪 Opened PR [#25](https://github.com/soderlind/super-admin-all-sites-menu/pull/25) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-4. 🔒 Closed issue [#23](https://github.com/soderlind/super-admin-all-sites-menu/issues/23) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+1. 🎉 Merged PR [#26](https://github.com/soderlind/super-admin-all-sites-menu/pull/26) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+2. 💪 Opened PR [#26](https://github.com/soderlind/super-admin-all-sites-menu/pull/26) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+3. 🎉 Merged PR [#25](https://github.com/soderlind/super-admin-all-sites-menu/pull/25) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+4. 💪 Opened PR [#25](https://github.com/soderlind/super-admin-all-sites-menu/pull/25) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
 5. 🔒 Closed issue [#23](https://github.com/soderlind/super-admin-all-sites-menu/issues/23) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
 <!--END_SECTION:activity-->
   </td>
