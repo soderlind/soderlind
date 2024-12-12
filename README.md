@@ -8,11 +8,11 @@
 <table width="100%" border="0"><tr><td width="49%">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#319](https://github.com/open-telemetry/opentelemetry-php-contrib/pull/319) in [open-telemetry/opentelemetry-php-contrib](https://github.com/open-telemetry/opentelemetry-php-contrib)
-2. 🗣 Commented on [#2054](https://github.com/WordPress/wordpress-playground/issues/2054#issuecomment-2521114699) in [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground)
-3. 🗣 Commented on [#2054](https://github.com/WordPress/wordpress-playground/issues/2054#issuecomment-2519622070) in [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground)
-4. ❗ Opened issue [#2054](https://github.com/WordPress/wordpress-playground/issues/2054) in [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground)
-5. 🗣 Commented on [#1130](https://github.com/WordPress/wordpress-playground/issues/1130#issuecomment-2517478529) in [WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground)
+1. 🚀 Published release [1.6.9](https://github.com/soderlind/super-admin-all-sites-menu/releases/tag/1.6.9) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+2. 🎉 Merged PR [#29](https://github.com/soderlind/super-admin-all-sites-menu/pull/29) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+3. 💪 Opened PR [#29](https://github.com/soderlind/super-admin-all-sites-menu/pull/29) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+4. 🎉 Merged PR [#27](https://github.com/soderlind/super-admin-all-sites-menu/pull/27) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+5. 🚀 Published release [2.0.1](https://github.com/soderlind/wp-project-version-sync/releases/tag/2.0.1) in [soderlind/wp-project-version-sync](https://github.com/soderlind/wp-project-version-sync)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
