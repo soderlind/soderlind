@@ -8,11 +8,11 @@
 <table width="100%" border="0"><tr><td width="49%">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/soderlind/super-admin-all-sites-menu/pull/33) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-2. 🚀 Published release [1.7.2](https://github.com/soderlind/super-admin-all-sites-menu/releases/tag/1.7.2) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-3. 🚀 Published release [1.7.1](https://github.com/soderlind/super-admin-all-sites-menu/releases/tag/1.7.1) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-4. 🚀 Published release [1.7.0](https://github.com/soderlind/super-admin-all-sites-menu/releases/tag/1.7.0) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-5. 🎉 Merged PR [#32](https://github.com/soderlind/super-admin-all-sites-menu/pull/32) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+1. 🚀 Published release [1.7.3](https://github.com/soderlind/super-admin-all-sites-menu/releases/tag/1.7.3) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+2. 🎉 Merged PR [#33](https://github.com/soderlind/super-admin-all-sites-menu/pull/33) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+3. 💪 Opened PR [#33](https://github.com/soderlind/super-admin-all-sites-menu/pull/33) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+4. 🚀 Published release [1.7.2](https://github.com/soderlind/super-admin-all-sites-menu/releases/tag/1.7.2) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+5. 🚀 Published release [1.7.1](https://github.com/soderlind/super-admin-all-sites-menu/releases/tag/1.7.1) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
