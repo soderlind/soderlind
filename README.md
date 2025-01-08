@@ -8,11 +8,11 @@
 <table width="100%" border="0"><tr><td width="49%">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/soderlind/super-admin-all-sites-menu/pull/32) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-2. 💪 Opened PR [#31](https://github.com/soderlind/super-admin-all-sites-menu/pull/31) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-3. 💪 Opened PR [#30](https://github.com/soderlind/super-admin-all-sites-menu/pull/30) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-4. ❌ Closed PR [#18](https://github.com/soderlind/super-admin-all-sites-menu/pull/18) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-5. ❌ Closed PR [#19](https://github.com/soderlind/super-admin-all-sites-menu/pull/19) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+1. 🚀 Published release [1.7.0](https://github.com/soderlind/super-admin-all-sites-menu/releases/tag/1.7.0) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+2. 🎉 Merged PR [#32](https://github.com/soderlind/super-admin-all-sites-menu/pull/32) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+3. 💪 Opened PR [#32](https://github.com/soderlind/super-admin-all-sites-menu/pull/32) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+4. 💪 Opened PR [#31](https://github.com/soderlind/super-admin-all-sites-menu/pull/31) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+5. 💪 Opened PR [#30](https://github.com/soderlind/super-admin-all-sites-menu/pull/30) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
