@@ -8,11 +8,11 @@
 <table width="100%" border="0"><tr><td width="49%">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/soderlind/super-admin-all-sites-menu/pull/36) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-2. 💪 Opened PR [#9](https://github.com/soderlind/wp-project-version-sync/pull/9) in [soderlind/wp-project-version-sync](https://github.com/soderlind/wp-project-version-sync)
-3. 🚀 Published release [1.8.1](https://github.com/soderlind/super-admin-all-sites-menu/releases/tag/1.8.1) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-4. 🎉 Merged PR [#35](https://github.com/soderlind/super-admin-all-sites-menu/pull/35) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-5. 💪 Opened PR [#35](https://github.com/soderlind/super-admin-all-sites-menu/pull/35) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+1. 🎉 Merged PR [#36](https://github.com/soderlind/super-admin-all-sites-menu/pull/36) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+2. 💪 Opened PR [#36](https://github.com/soderlind/super-admin-all-sites-menu/pull/36) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+3. 💪 Opened PR [#9](https://github.com/soderlind/wp-project-version-sync/pull/9) in [soderlind/wp-project-version-sync](https://github.com/soderlind/wp-project-version-sync)
+4. 🚀 Published release [1.8.1](https://github.com/soderlind/super-admin-all-sites-menu/releases/tag/1.8.1) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+5. 🎉 Merged PR [#35](https://github.com/soderlind/super-admin-all-sites-menu/pull/35) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
