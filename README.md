@@ -8,11 +8,11 @@
 <table width="100%" border="0"><tr><td width="49%">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/johnbillion/action-wordpress-plugin-attestation/issues/14#issuecomment-2597156655) in [johnbillion/action-wordpress-plugin-attestation](https://github.com/johnbillion/action-wordpress-plugin-attestation)
-2. 🚀 Published release [1.8.4](https://github.com/soderlind/super-admin-all-sites-menu/releases/tag/1.8.4) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-3. 🎉 Merged PR [#38](https://github.com/soderlind/super-admin-all-sites-menu/pull/38) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-4. 💪 Opened PR [#38](https://github.com/soderlind/super-admin-all-sites-menu/pull/38) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-5. 🚀 Published release [1.8.3](https://github.com/soderlind/super-admin-all-sites-menu/releases/tag/1.8.3) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+1. 🎉 Merged PR [#40](https://github.com/soderlind/super-admin-all-sites-menu/pull/40) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+2. 💪 Opened PR [#40](https://github.com/soderlind/super-admin-all-sites-menu/pull/40) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+3. 🎉 Merged PR [#39](https://github.com/soderlind/super-admin-all-sites-menu/pull/39) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+4. 💪 Opened PR [#39](https://github.com/soderlind/super-admin-all-sites-menu/pull/39) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+5. 🗣 Commented on [#14](https://github.com/johnbillion/action-wordpress-plugin-attestation/issues/14#issuecomment-2597156655) in [johnbillion/action-wordpress-plugin-attestation](https://github.com/johnbillion/action-wordpress-plugin-attestation)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
