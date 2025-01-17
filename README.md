@@ -8,11 +8,11 @@
 <table width="100%" border="0"><tr><td width="49%">
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#14](https://github.com/johnbillion/action-wordpress-plugin-attestation/issues/14) in [johnbillion/action-wordpress-plugin-attestation](https://github.com/johnbillion/action-wordpress-plugin-attestation)
-2. 🗣 Commented on [#14](https://github.com/johnbillion/action-wordpress-plugin-attestation/issues/14#issuecomment-2597757989) in [johnbillion/action-wordpress-plugin-attestation](https://github.com/johnbillion/action-wordpress-plugin-attestation)
-3. 🎉 Merged PR [#3](https://github.com/soderlind/zip-test/pull/3) in [soderlind/zip-test](https://github.com/soderlind/zip-test)
-4. 🎉 Merged PR [#40](https://github.com/soderlind/super-admin-all-sites-menu/pull/40) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-5. 💪 Opened PR [#40](https://github.com/soderlind/super-admin-all-sites-menu/pull/40) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
+1. 🗣 Commented on [#14](https://github.com/johnbillion/action-wordpress-plugin-attestation/issues/14#issuecomment-2597774809) in [johnbillion/action-wordpress-plugin-attestation](https://github.com/johnbillion/action-wordpress-plugin-attestation)
+2. 🔒 Closed issue [#14](https://github.com/johnbillion/action-wordpress-plugin-attestation/issues/14) in [johnbillion/action-wordpress-plugin-attestation](https://github.com/johnbillion/action-wordpress-plugin-attestation)
+3. 🗣 Commented on [#14](https://github.com/johnbillion/action-wordpress-plugin-attestation/issues/14#issuecomment-2597757989) in [johnbillion/action-wordpress-plugin-attestation](https://github.com/johnbillion/action-wordpress-plugin-attestation)
+4. 🎉 Merged PR [#3](https://github.com/soderlind/zip-test/pull/3) in [soderlind/zip-test](https://github.com/soderlind/zip-test)
+5. 🎉 Merged PR [#40](https://github.com/soderlind/super-admin-all-sites-menu/pull/40) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
