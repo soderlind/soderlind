@@ -8,11 +8,11 @@
 <table width="100%" border="0"><tr><td width="49%">
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.0.13](https://github.com/soderlind/wp-loupe/releases/tag/0.0.13) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
-2. 🎉 Merged PR [#16](https://github.com/soderlind/wp-loupe/pull/16) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
-3. 💪 Opened PR [#16](https://github.com/soderlind/wp-loupe/pull/16) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
-4. 🚀 Published release [0.0.12](https://github.com/soderlind/wp-loupe/releases/tag/0.0.12) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
-5. 🎉 Merged PR [#15](https://github.com/soderlind/wp-loupe/pull/15) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
+1. 🚀 Published release [0.0.14](https://github.com/soderlind/wp-loupe/releases/tag/0.0.14) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
+2. 🎉 Merged PR [#17](https://github.com/soderlind/wp-loupe/pull/17) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
+3. 💪 Opened PR [#17](https://github.com/soderlind/wp-loupe/pull/17) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
+4. 🚀 Published release [0.0.13](https://github.com/soderlind/wp-loupe/releases/tag/0.0.13) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
+5. 🎉 Merged PR [#16](https://github.com/soderlind/wp-loupe/pull/16) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
