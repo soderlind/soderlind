@@ -16,7 +16,7 @@
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
-     <img  alt="soderlind's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/soderlind?cardType=octocat&theme=github&preferLogin=false&Title=FFFFFF&Border=FFFFFF" />
+     <!--img  alt="soderlind's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/soderlind?cardType=octocat&theme=github&preferLogin=false&Title=FFFFFF&Border=FFFFFF" /-->
 </td></tr></table>
 
 
