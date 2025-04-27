@@ -8,10 +8,10 @@
 <table width="100%" border="0"><tr><td width="49%">
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.1.0](https://github.com/soderlind/additional-javascript/releases/tag/1.1.0) in [soderlind/additional-javascript](https://github.com/soderlind/additional-javascript)
-2. 🎉 Merged PR [#6](https://github.com/soderlind/additional-javascript/pull/6) in [soderlind/additional-javascript](https://github.com/soderlind/additional-javascript)
-3. 💪 Opened PR [#6](https://github.com/soderlind/additional-javascript/pull/6) in [soderlind/additional-javascript](https://github.com/soderlind/additional-javascript)
-4. 🔒 Closed issue [#8](https://github.com/soderlind/wp-loupe/issues/8) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
+1. 🗣 Commented on [#21](https://github.com/matcornic/subify/issues/21#issuecomment-2832760944) in [matcornic/subify](https://github.com/matcornic/subify)
+2. 🚀 Published release [1.1.0](https://github.com/soderlind/additional-javascript/releases/tag/1.1.0) in [soderlind/additional-javascript](https://github.com/soderlind/additional-javascript)
+3. 🎉 Merged PR [#6](https://github.com/soderlind/additional-javascript/pull/6) in [soderlind/additional-javascript](https://github.com/soderlind/additional-javascript)
+4. 💪 Opened PR [#6](https://github.com/soderlind/additional-javascript/pull/6) in [soderlind/additional-javascript](https://github.com/soderlind/additional-javascript)
 5. 🗣 Commented on [#50](https://github.com/soderlind/wp-loupe/issues/50#issuecomment-2730906952) in [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe)
 <!--END_SECTION:activity-->
   </td>
