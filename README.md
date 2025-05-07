@@ -8,11 +8,11 @@
 <table width="100%" border="0"><tr><td width="49%">
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.1](https://github.com/soderlind/multisite-exporter/releases/tag/1.0.1) in [soderlind/multisite-exporter](https://github.com/soderlind/multisite-exporter)
-2. 🎉 Merged PR [#1](https://github.com/soderlind/multisite-exporter/pull/1) in [soderlind/multisite-exporter](https://github.com/soderlind/multisite-exporter)
-3. 💪 Opened PR [#1](https://github.com/soderlind/multisite-exporter/pull/1) in [soderlind/multisite-exporter](https://github.com/soderlind/multisite-exporter)
-4. 🗣 Commented on [#21](https://github.com/matcornic/subify/issues/21#issuecomment-2832760944) in [matcornic/subify](https://github.com/matcornic/subify)
-5. 🚀 Published release [1.1.0](https://github.com/soderlind/additional-javascript/releases/tag/1.1.0) in [soderlind/additional-javascript](https://github.com/soderlind/additional-javascript)
+1. 🚀 Published release [1.1.0](https://github.com/soderlind/multisite-exporter/releases/tag/1.1.0) in [soderlind/multisite-exporter](https://github.com/soderlind/multisite-exporter)
+2. 🎉 Merged PR [#2](https://github.com/soderlind/multisite-exporter/pull/2) in [soderlind/multisite-exporter](https://github.com/soderlind/multisite-exporter)
+3. 💪 Opened PR [#2](https://github.com/soderlind/multisite-exporter/pull/2) in [soderlind/multisite-exporter](https://github.com/soderlind/multisite-exporter)
+4. 🚀 Published release [1.0.1](https://github.com/soderlind/multisite-exporter/releases/tag/1.0.1) in [soderlind/multisite-exporter](https://github.com/soderlind/multisite-exporter)
+5. 🎉 Merged PR [#1](https://github.com/soderlind/multisite-exporter/pull/1) in [soderlind/multisite-exporter](https://github.com/soderlind/multisite-exporter)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
