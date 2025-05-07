@@ -8,11 +8,11 @@
 <table width="100%" border="0"><tr><td width="49%">
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.1.2](https://github.com/soderlind/multisite-exporter/releases/tag/1.1.2) in [soderlind/multisite-exporter](https://github.com/soderlind/multisite-exporter)
-2. 🎉 Merged PR [#4](https://github.com/soderlind/multisite-exporter/pull/4) in [soderlind/multisite-exporter](https://github.com/soderlind/multisite-exporter)
-3. 💪 Opened PR [#4](https://github.com/soderlind/multisite-exporter/pull/4) in [soderlind/multisite-exporter](https://github.com/soderlind/multisite-exporter)
-4. 🚀 Published release [1.1.1](https://github.com/soderlind/multisite-exporter/releases/tag/1.1.1) in [soderlind/multisite-exporter](https://github.com/soderlind/multisite-exporter)
-5. 🎉 Merged PR [#3](https://github.com/soderlind/multisite-exporter/pull/3) in [soderlind/multisite-exporter](https://github.com/soderlind/multisite-exporter)
+1. 🚀 Published release [1.1.3](https://github.com/soderlind/multisite-exporter/releases/tag/1.1.3) in [soderlind/multisite-exporter](https://github.com/soderlind/multisite-exporter)
+2. 🎉 Merged PR [#5](https://github.com/soderlind/multisite-exporter/pull/5) in [soderlind/multisite-exporter](https://github.com/soderlind/multisite-exporter)
+3. 💪 Opened PR [#5](https://github.com/soderlind/multisite-exporter/pull/5) in [soderlind/multisite-exporter](https://github.com/soderlind/multisite-exporter)
+4. 🚀 Published release [1.1.2](https://github.com/soderlind/multisite-exporter/releases/tag/1.1.2) in [soderlind/multisite-exporter](https://github.com/soderlind/multisite-exporter)
+5. 🎉 Merged PR [#4](https://github.com/soderlind/multisite-exporter/pull/4) in [soderlind/multisite-exporter](https://github.com/soderlind/multisite-exporter)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
