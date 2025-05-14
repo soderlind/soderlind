@@ -9,11 +9,11 @@
 <table width="100%" border="0"><tr><td width="49%">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/soderlind/wp-project-version-sync/pull/17) in [soderlind/wp-project-version-sync](https://github.com/soderlind/wp-project-version-sync)
-2. 🎉 Merged PR [#48](https://github.com/soderlind/super-admin-all-sites-menu/pull/48) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
-3. 🚀 Published release [1.1.5](https://github.com/soderlind/multisite-exporter/releases/tag/1.1.5) in [soderlind/multisite-exporter](https://github.com/soderlind/multisite-exporter)
-4. 🎉 Merged PR [#7](https://github.com/soderlind/multisite-exporter/pull/7) in [soderlind/multisite-exporter](https://github.com/soderlind/multisite-exporter)
-5. 💪 Opened PR [#7](https://github.com/soderlind/multisite-exporter/pull/7) in [soderlind/multisite-exporter](https://github.com/soderlind/multisite-exporter)
+1. 🚀 Published release [1.1.6](https://github.com/soderlind/multisite-exporter/releases/tag/1.1.6) in [soderlind/multisite-exporter](https://github.com/soderlind/multisite-exporter)
+2. 🎉 Merged PR [#8](https://github.com/soderlind/multisite-exporter/pull/8) in [soderlind/multisite-exporter](https://github.com/soderlind/multisite-exporter)
+3. 💪 Opened PR [#8](https://github.com/soderlind/multisite-exporter/pull/8) in [soderlind/multisite-exporter](https://github.com/soderlind/multisite-exporter)
+4. 💪 Opened PR [#17](https://github.com/soderlind/wp-project-version-sync/pull/17) in [soderlind/wp-project-version-sync](https://github.com/soderlind/wp-project-version-sync)
+5. 🎉 Merged PR [#48](https://github.com/soderlind/super-admin-all-sites-menu/pull/48) in [soderlind/super-admin-all-sites-menu](https://github.com/soderlind/super-admin-all-sites-menu)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
