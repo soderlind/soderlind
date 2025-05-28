@@ -9,11 +9,11 @@
 <table width="100%" border="0"><tr><td width="49%">
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/platformatic/php-node/issues/24#issuecomment-2916025704) in [platformatic/php-node](https://github.com/platformatic/php-node)
-2. 🔒 Closed issue [#24](https://github.com/platformatic/php-node/issues/24) in [platformatic/php-node](https://github.com/platformatic/php-node)
-3. ❗ Opened issue [#24](https://github.com/platformatic/php-node/issues/24) in [platformatic/php-node](https://github.com/platformatic/php-node)
-4. 🎉 Merged PR [#15](https://github.com/soderlind/multisite-exporter/pull/15) in [soderlind/multisite-exporter](https://github.com/soderlind/multisite-exporter)
-5. 💪 Opened PR [#15](https://github.com/soderlind/multisite-exporter/pull/15) in [soderlind/multisite-exporter](https://github.com/soderlind/multisite-exporter)
+1. ❗ Opened issue [#3](https://github.com/platformatic/php/issues/3) in [platformatic/php](https://github.com/platformatic/php)
+2. 🗣 Commented on [#24](https://github.com/platformatic/php-node/issues/24#issuecomment-2916025704) in [platformatic/php-node](https://github.com/platformatic/php-node)
+3. 🔒 Closed issue [#24](https://github.com/platformatic/php-node/issues/24) in [platformatic/php-node](https://github.com/platformatic/php-node)
+4. ❗ Opened issue [#24](https://github.com/platformatic/php-node/issues/24) in [platformatic/php-node](https://github.com/platformatic/php-node)
+5. 🎉 Merged PR [#15](https://github.com/soderlind/multisite-exporter/pull/15) in [soderlind/multisite-exporter](https://github.com/soderlind/multisite-exporter)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
