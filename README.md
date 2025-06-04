@@ -9,11 +9,11 @@
 <table width="100%" border="0"><tr><td width="49%">
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/platformatic/watt-next-wordpress/issues/2) in [platformatic/watt-next-wordpress](https://github.com/platformatic/watt-next-wordpress)
-2. ❗ Opened issue [#4063](https://github.com/platformatic/platformatic/issues/4063) in [platformatic/platformatic](https://github.com/platformatic/platformatic)
-3. ❗ Opened issue [#3](https://github.com/platformatic/php/issues/3) in [platformatic/php](https://github.com/platformatic/php)
-4. 🗣 Commented on [#24](https://github.com/platformatic/php-node/issues/24#issuecomment-2916025704) in [platformatic/php-node](https://github.com/platformatic/php-node)
-5. 🔒 Closed issue [#24](https://github.com/platformatic/php-node/issues/24) in [platformatic/php-node](https://github.com/platformatic/php-node)
+1. 🚀 Published release [1.0.1](https://github.com/soderlind/gh-sbom/releases/tag/1.0.1) in [soderlind/gh-sbom](https://github.com/soderlind/gh-sbom)
+2. 🎉 Merged PR [#2](https://github.com/soderlind/gh-sbom/pull/2) in [soderlind/gh-sbom](https://github.com/soderlind/gh-sbom)
+3. 💪 Opened PR [#2](https://github.com/soderlind/gh-sbom/pull/2) in [soderlind/gh-sbom](https://github.com/soderlind/gh-sbom)
+4. 🎉 Merged PR [#1](https://github.com/soderlind/gh-sbom/pull/1) in [soderlind/gh-sbom](https://github.com/soderlind/gh-sbom)
+5. 💪 Opened PR [#1](https://github.com/soderlind/gh-sbom/pull/1) in [soderlind/gh-sbom](https://github.com/soderlind/gh-sbom)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
