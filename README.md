@@ -23,5 +23,6 @@
 
 <!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 
+## WordPress Plugins
 
-Pinned repos below are my WordPress plugins hosted here at GitHub
+Pinned repos below are my WordPress plugins hosted here at GitHub. Plugin updates are handled automatically via GitHub. No need to manually download and install updates.
