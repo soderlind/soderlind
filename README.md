@@ -24,4 +24,4 @@
 <!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 
 
-## WordPress Plugins at GitHub:
+Pinned repos below are my WordPress plugins hosted here at GitHub
