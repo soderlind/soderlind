@@ -9,11 +9,11 @@
 <table width="100%" border="0"><tr><td width="49%">
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.1](https://github.com/soderlind/gh-sbom/releases/tag/1.0.1) in [soderlind/gh-sbom](https://github.com/soderlind/gh-sbom)
-2. 🎉 Merged PR [#2](https://github.com/soderlind/gh-sbom/pull/2) in [soderlind/gh-sbom](https://github.com/soderlind/gh-sbom)
-3. 💪 Opened PR [#2](https://github.com/soderlind/gh-sbom/pull/2) in [soderlind/gh-sbom](https://github.com/soderlind/gh-sbom)
-4. 🎉 Merged PR [#1](https://github.com/soderlind/gh-sbom/pull/1) in [soderlind/gh-sbom](https://github.com/soderlind/gh-sbom)
-5. 💪 Opened PR [#1](https://github.com/soderlind/gh-sbom/pull/1) in [soderlind/gh-sbom](https://github.com/soderlind/gh-sbom)
+1. 🎉 Merged PR [#7](https://github.com/soderlind/additional-javascript/pull/7) in [soderlind/additional-javascript](https://github.com/soderlind/additional-javascript)
+2. 💪 Opened PR [#7](https://github.com/soderlind/additional-javascript/pull/7) in [soderlind/additional-javascript](https://github.com/soderlind/additional-javascript)
+3. 🚀 Published release [1.0.1](https://github.com/soderlind/gh-sbom/releases/tag/1.0.1) in [soderlind/gh-sbom](https://github.com/soderlind/gh-sbom)
+4. 🎉 Merged PR [#2](https://github.com/soderlind/gh-sbom/pull/2) in [soderlind/gh-sbom](https://github.com/soderlind/gh-sbom)
+5. 💪 Opened PR [#2](https://github.com/soderlind/gh-sbom/pull/2) in [soderlind/gh-sbom](https://github.com/soderlind/gh-sbom)
 <!--END_SECTION:activity-->
   </td>
 <td width="49%" valign="top">
