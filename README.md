@@ -6,4 +6,4 @@
 
 ## WordPress Plugins
 
-Pinned repos below are my WordPress plugins hosted here at GitHub. Plugin updates are handled automatically via GitHub. No need to manually download and install updates.
+Pinned repos below are my WordPress plugins hosted here at GitHub. Plugin [updates are handled automatically](https://github.com/soderlind/wordpress-plugin-github-updater?tab=readme-ov-file#wordpress-plugin-github-updater) via GitHub. No need to manually download and install updates.
