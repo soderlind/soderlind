@@ -6,4 +6,31 @@
 
 ## WordPress Plugins
 
-Pinned repos below are my WordPress plugins hosted here at GitHub. Plugin [updates are handled automatically](https://github.com/soderlind/wordpress-plugin-github-updater?tab=readme-ov-file#wordpress-plugin-github-updater) via GitHub. No need to manually download and install updates.
+Repos below are my WordPress plugins hosted here at GitHub. Plugin [updates are handled automatically](https://github.com/soderlind/wordpress-plugin-github-updater?tab=readme-ov-file#wordpress-plugin-github-updater) via GitHub. No need to manually download and install updates.
+
+<a href="https://github.com/soderlind/additional-javascript">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soderlind&repo=additional-javascript&theme=default&layout=compact" />
+</a>
+<a href="https://github.com/soderlind/all-sites-cron">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soderlind&repo=all-sites-cron&theme=default&layout=compact" />
+</a>
+<br><br>
+<a href="https://github.com/soderlind/editor-can-manage-privacy-options">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soderlind&repo=editor-can-manage-privacy-options&theme=default&layout=compact" />
+</a>
+<a href="https://github.com/soderlind/multisite-exporter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soderlind&repo=multisite-exporter&theme=default&layout=compact" />
+</a>
+<br><br>
+<a href="https://github.com/soderlind/read-offline">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soderlind&repo=read-offline&theme=default&layout=compact" />
+</a>
+<a href="https://github.com/soderlind/super-admin-switch-to-admin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soderlind&repo=super-admin-switch-to-admin&theme=default&layout=compact" />
+</a>
+<br><br>
+<a href="https://github.com/soderlind/wp-loupe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soderlind&repo=wp-loupe&theme=default&layout=compact" />
+</a>
+
+<br><br>
