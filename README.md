@@ -6,7 +6,7 @@
 
 ## WordPress Plugins
 
-Repos below are my WordPress plugins hosted here at GitHub. Plugin [updates are handled automatically](https://github.com/soderlind/wordpress-plugin-github-updater?tab=readme-ov-file#wordpress-plugin-github-updater) via GitHub. No need to manually download and install updates.
+Repos below are my WordPress plugins hosted here at GitHub. Easy to install, and the plugin [updates are handled automatically](https://github.com/soderlind/wordpress-plugin-github-updater?tab=readme-ov-file#wordpress-plugin-github-updater) via GitHub. No need to manually download and install updates.
 
 <a href="https://github.com/soderlind/additional-javascript#readme">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soderlind&repo=additional-javascript&theme=default&layout=compact" />
