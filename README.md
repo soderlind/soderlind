@@ -25,10 +25,14 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install, and
 <a href="https://github.com/soderlind/read-offline#readme">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soderlind&repo=read-offline&theme=default&layout=compact" />
 </a>
+<a href="https://github.com/soderlind/redis-queue#readme">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soderlind&repo=redis-queue&theme=default&layout=compact" />
+</a>
+<br><br>
 <a href="https://github.com/soderlind/super-admin-switch-to-admin#readme">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soderlind&repo=super-admin-switch-to-admin&theme=default&layout=compact" />
 </a>
-<br><br>
+
 <a href="https://github.com/soderlind/wp-loupe#readme">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soderlind&repo=wp-loupe&theme=default&layout=compact" />
 </a>
