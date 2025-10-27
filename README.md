@@ -38,3 +38,5 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install, and
 </a>
 
 <br><br>
+
+I made the [WordPress Development — Copilot Instructions](instructions/wordpress.instructions.md) at [Awesome GitHub Copilot Customizations](https://github.com/github/awesome-copilot) (please make them better). You can install them by clicking:  [![Install in VS Code](https://img.shields.io/badge/VS_Code-Install-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://aka.ms/awesome-copilot/install/instructions?url=vscode%3Achat-instructions%2Finstall%3Furl%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Fgithub%2Fawesome-copilot%2Fmain%2Finstructions%2Fwordpress.instructions.md) [![Install in VS Code Insiders](https://img.shields.io/badge/VS_Code_Insiders-Install-24bfa5?style=flat-square&logo=visualstudiocode&logoColor=white)](https://aka.ms/awesome-copilot/install/instructions?url=vscode-insiders%3Achat-instructions%2Finstall%3Furl%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Fgithub%2Fawesome-copilot%2Fmain%2Finstructions%2Fwordpress.instructions.md) 
