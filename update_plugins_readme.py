@@ -28,8 +28,8 @@ def extract_repo_info(url):
     return parts[-2], parts[-1]
 
 
-def fetch_repo_description(owner, repo, token):
-    """Fetch repository description from GitHub API."""
+def fetch_repo_info(owner, repo, token):
+    """Fetch repository description and stars from GitHub API."""
     headers = {}
     if token:
         headers["Authorization"] = f"Bearer {token}"
@@ -40,8 +40,11 @@ def fetch_repo_description(owner, repo, token):
     
     if response.status_code == 200:
         data = response.json()
-        return data.get("description", "") or ""
-    return ""
+        return {
+            "description": data.get("description", "") or "",
+            "stars": data.get("stargazers_count", 0)
+        }
+    return {"description": "", "stars": 0}
 
 
 def format_repo_name(repo_name):
@@ -59,9 +62,11 @@ def generate_html_table(repos):
         for j in range(2):
             if i + j < len(repos):
                 repo = repos[i + j]
+                stars = repo.get("stars", 0)
+                stars_text = f" ⭐ {stars}" if stars > 0 else ""
                 cell = (
                     f'<dl>\n'
-                    f'<dt><a href="{repo["url"]}">{repo["name"]}</a></dt>\n'
+                    f'<dt><a href="{repo["url"]}">{repo["name"]}</a>{stars_text}</dt>\n'
                     f'<dd>{repo["description"]}</dd>\n'
                     f'</dl>'
                 )
@@ -86,16 +91,20 @@ def main():
         url = item["url"]
         owner, repo_name = extract_repo_info(url)
         
-        # Use description from JSON if provided, otherwise fetch from API
+        # Fetch repo info from API (description and stars)
+        print(f"Fetching info for {owner}/{repo_name}...")
+        repo_info = fetch_repo_info(owner, repo_name, TOKEN)
+        
+        # Use description from JSON if provided, otherwise use API response
         description = item.get("description", "").strip()
         if not description:
-            print(f"Fetching description for {owner}/{repo_name}...")
-            description = fetch_repo_description(owner, repo_name, TOKEN)
+            description = repo_info["description"]
         
         repos.append({
             "url": url,
             "name": format_repo_name(repo_name),
             "description": description or "No description available.",
+            "stars": repo_info["stars"],
         })
     
     # Generate HTML table
