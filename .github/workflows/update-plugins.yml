@@ -4,6 +4,8 @@ on:
   push:
     paths:
       - 'repo.json'
+  schedule:
+    - cron: '0 7 * * *'  # Every day at 7:00 AM UTC
   workflow_dispatch:
 
 jobs:
