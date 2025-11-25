@@ -42,7 +42,6 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install, and
 <a href="https://github.com/soderlind/wp-loupe#readme">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soderlind&repo=wp-loupe&theme=default&layout=compact" />
 </a>
-
 ## WordPress & GitHub Copilot
 
 I made the [WordPress Development — Copilot Instructions](https://github.com/github/awesome-copilot/blob/main/instructions/wordpress.instructions.md) (please improve them) at [Awesome GitHub Copilot Customizations](https://github.com/github/awesome-copilot). You can install them by clicking: <br/> [![Install in VS Code](https://img.shields.io/badge/VS_Code-Install-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://aka.ms/awesome-copilot/install/instructions?url=vscode%3Achat-instructions%2Finstall%3Furl%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Fgithub%2Fawesome-copilot%2Fmain%2Finstructions%2Fwordpress.instructions.md) [![Install in VS Code Insiders](https://img.shields.io/badge/VS_Code_Insiders-Install-24bfa5?style=flat-square&logo=visualstudiocode&logoColor=white)](https://aka.ms/awesome-copilot/install/instructions?url=vscode-insiders%3Achat-instructions%2Finstall%3Furl%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Fgithub%2Fawesome-copilot%2Fmain%2Finstructions%2Fwordpress.instructions.md) 
