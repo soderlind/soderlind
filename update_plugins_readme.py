@@ -66,7 +66,7 @@ def generate_html_table(repos):
                 stars_text = f" ⭐ {stars}" if stars > 0 else ""
                 cell = (
                     f'<dl>\n'
-                    f'<dt><a href="{repo["url"]}">{repo["name"]}</a>{stars_text}</dt>\n'
+                    f'<dt><a href="{repo["url"]}#readme">{repo["name"]}</a>{stars_text}</dt>\n'
                     f'<dd>{repo["description"]}</dd>\n'
                     f'</dl>'
                 )
