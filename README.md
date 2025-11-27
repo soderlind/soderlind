@@ -13,7 +13,7 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install, and
 <tr>
 <td valign="top" width="50%">
 <dl>
-<dt><a href="https://github.com/soderlind/additional-javascript?tab=readme-ov-file#readme">Additional Javascript</a> ⭐ 4</dt>
+<dt><a href="https://github.com/soderlind/additional-javascript#readme">Additional Javascript</a> ⭐ 4</dt>
 <dd>Use WordPress Customizer to add JavaScript</dd>
 </dl>
 </td>
