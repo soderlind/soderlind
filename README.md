@@ -19,7 +19,7 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install, and
 </td>
 <td valign="top" width="50%">
 <dl>
-<dt><a href="https://github.com/soderlind/ai-alt-text#readme">Ai Alt Text</a></dt>
+<dt><a href="https://github.com/soderlind/ai-alt-text#readme">Ai Alt Text</a> ⭐ 1</dt>
 <dd>Generate alt text for images using AI. Supports multiple AI providers including OpenAI, Claude, Gemini, Ollama, Azure OpenAI, and Grok.</dd>
 </dl>
 </td>
@@ -34,7 +34,7 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install, and
 <td valign="top" width="50%">
 <dl>
 <dt><a href="https://github.com/soderlind/content-poll#readme">Content Poll</a> ⭐ 2</dt>
-<dd>A modern, accessible polling block that lets visitors vote on questions about your content</dd>
+<dd>A modern, accessible polling block that lets visitors vote on questions about your content. Generate the poll using AI. Supports multiple AI providers including OpenAI, Claude, Gemini, Ollama, Azure OpenAI, and Grok.</dd>
 </dl>
 </td>
 </tr>
