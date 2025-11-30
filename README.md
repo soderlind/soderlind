@@ -61,7 +61,7 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install, and
 </td>
 <td valign="top" width="50%">
 <dl>
-<dt><a href="https://github.com/soderlind/mediamanager#readme">Mediamanager</a></dt>
+<dt><a href="https://github.com/soderlind/mediamanager#readme">Mediamanager</a> ⭐ 1</dt>
 <dd>Media Manager brings virtual folder organization to your WordPress Media Library. Organize your media files into hierarchical folders without moving files on disk—folders are virtual, so your URLs never change.</dd>
 </dl>
 </td>
