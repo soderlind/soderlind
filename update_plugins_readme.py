@@ -29,7 +29,7 @@ def extract_repo_info(url):
 
 
 def fetch_repo_info(owner, repo, token):
-    """Fetch repository description and stars from GitHub API."""
+    """Fetch repository description, stars and creation date from GitHub API."""
     headers = {}
     if token:
         headers["Authorization"] = f"Bearer {token}"
@@ -42,9 +42,10 @@ def fetch_repo_info(owner, repo, token):
         data = response.json()
         return {
             "description": data.get("description", "") or "",
-            "stars": data.get("stargazers_count", 0)
+            "stars": data.get("stargazers_count", 0),
+            "created_at": data.get("created_at", "")
         }
-    return {"description": "", "stars": 0}
+    return {"description": "", "stars": 0, "created_at": ""}
 
 
 def format_repo_name(repo_name):
@@ -53,7 +54,9 @@ def format_repo_name(repo_name):
 
 
 def generate_html_table(repos):
-    """Generate HTML table with two columns of dl/dt/dd elements."""
+    """Generate HTML table with two columns of dl/dt/dd elements.
+    Adds ⭐ star count (if >0) and 🚀 rocket if repo < 30 days old.
+    """
     rows = []
     
     for i in range(0, len(repos), 2):
@@ -63,10 +66,13 @@ def generate_html_table(repos):
             if i + j < len(repos):
                 repo = repos[i + j]
                 stars = repo.get("stars", 0)
+                # Determine rocket flag first (now before star)
+                rocket = repo.get("is_new", False)
+                rocket_text = " 🚀" if rocket else ""
                 stars_text = f" ⭐ {stars}" if stars > 0 else ""
                 cell = (
                     f'<dl>\n'
-                    f'<dt><a href="{repo["url"]}#readme">{repo["name"]}</a>{stars_text}</dt>\n'
+                    f'<dt><a href="{repo["url"]}#readme">{repo["name"]}</a>{rocket_text}{stars_text}</dt>\n'
                     f'<dd>{repo["description"]}</dd>\n'
                     f'</dl>'
                 )
@@ -100,11 +106,25 @@ def main():
         if not description:
             description = repo_info["description"]
         
+        # Compute age to decide if new (<30 days)
+        created_at = repo_info.get("created_at", "")
+        is_new = False
+        if created_at:
+            # created_at example: 2025-11-05T12:34:56Z
+            try:
+                from datetime import datetime, timezone
+                created_dt = datetime.strptime(created_at, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+                age_days = (datetime.now(timezone.utc) - created_dt).days
+                is_new = age_days < 30
+            except Exception:
+                is_new = False
+
         repos.append({
             "url": url,
             "name": format_repo_name(repo_name),
             "description": description or "No description available.",
             "stars": repo_info["stars"],
+            "is_new": is_new,
         })
     
     # Generate HTML table
