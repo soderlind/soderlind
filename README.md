@@ -55,13 +55,13 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install, and
 <tr>
 <td valign="top" width="50%">
 <dl>
-<dt><a href="https://github.com/soderlind/multisite-exporter#readme">Multisite Exporter</a></dt>
-<dd>No description available.</dd>
+<dt><a href="https://github.com/soderlind/multisite-exporter#readme">Multisite Exporter</a> ⭐ 5</dt>
+<dd>Multisite Exporter is a WordPress plugin that allows you to export content from all subsites in a WordPress multisite installation. The plugin generates WordPress XML (WXR) files by running the WordPress exporter on each subsite in the background using the Action Scheduler library, making it efficient even for large multisite networks.</dd>
 </dl>
 </td>
 <td valign="top" width="50%">
 <dl>
-<dt><a href="https://github.com/soderlind/mediamanager#readme">Mediamanager</a> ⭐ 1</dt>
+<dt><a href="https://github.com/soderlind/mediamanager#readme">Mediamanager</a> 🚀 ⭐ 1</dt>
 <dd>Media Manager brings virtual folder organization to your WordPress Media Library. Organize your media files into hierarchical folders without moving files on disk—folders are virtual, so your URLs never change.</dd>
 </dl>
 </td>
@@ -69,28 +69,28 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install, and
 <tr>
 <td valign="top" width="50%">
 <dl>
-<dt><a href="https://github.com/soderlind/read-offline#readme">Read Offline</a></dt>
-<dd>No description available.</dd>
+<dt><a href="https://github.com/soderlind/read-offline#readme">Read Offline</a> ⭐ 33</dt>
+<dd>Read Offline allows you to download posts and pages. You can download the post as PDF, ePub and markdown</dd>
 </dl>
 </td>
 <td valign="top" width="50%">
 <dl>
-<dt><a href="https://github.com/soderlind/redis-queue#readme">Redis Queue</a></dt>
-<dd>No description available.</dd>
+<dt><a href="https://github.com/soderlind/redis-queue#readme">Redis Queue</a> ⭐ 1</dt>
+<dd>Robust Redis-backed background job processing for WordPress. Provides prioritized, delayed, and retryable jobs with an admin UI, REST API, token-based auth (scopes + rate limiting), and extensibility for custom job types.</dd>
 </dl>
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
 <dl>
-<dt><a href="https://github.com/soderlind/super-admin-switch-to-admin#readme">Super Admin Switch To Admin</a></dt>
-<dd>No description available.</dd>
+<dt><a href="https://github.com/soderlind/super-admin-switch-to-admin#readme">Super Admin Switch To Admin</a> ⭐ 7</dt>
+<dd>If you are logged in as a super admin, this plugin allows you to switch to a regular admin account on the current site.</dd>
 </dl>
 </td>
 <td valign="top" width="50%">
 <dl>
-<dt><a href="https://github.com/soderlind/wp-loupe#readme">Wp Loupe</a></dt>
-<dd>No description available.</dd>
+<dt><a href="https://github.com/soderlind/wp-loupe#readme">Wp Loupe</a> ⭐ 79</dt>
+<dd>WP Loupe is a powerful search enhancement plugin for WordPress that delivers fast, accurate, and typo-tolerant search results.</dd>
 </dl>
 </td>
 </tr>
