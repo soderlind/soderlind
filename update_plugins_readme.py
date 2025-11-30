@@ -93,6 +93,7 @@ def main():
     
     # Process each repo
     repos = []
+    created_dates = []
     for item in repo_data:
         url = item["url"]
         owner, repo_name = extract_repo_info(url)
@@ -109,13 +110,13 @@ def main():
         # Compute age to decide if new (<30 days)
         created_at = repo_info.get("created_at", "")
         is_new = False
+        created_dt = None
         if created_at:
             # created_at example: 2025-11-05T12:34:56Z
             try:
                 from datetime import datetime, timezone
                 created_dt = datetime.strptime(created_at, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
-                age_days = (datetime.now(timezone.utc) - created_dt).days
-                is_new = age_days < 30
+                created_dates.append(created_dt)
             except Exception:
                 is_new = False
 
@@ -125,7 +126,26 @@ def main():
             "description": description or "No description available.",
             "stars": repo_info["stars"],
             "is_new": is_new,
+            "_created_dt": created_dt,
         })
+
+    # Mark only the single newest repo with rocket
+    try:
+        newest_dt = None
+        for r in repos:
+            if r.get("_created_dt") is not None:
+                if newest_dt is None or r["_created_dt"] > newest_dt:
+                    newest_dt = r["_created_dt"]
+        if newest_dt is not None:
+            # Clear all is_new flags, then set only the newest
+            for r in repos:
+                r["is_new"] = False
+            for r in repos:
+                if r.get("_created_dt") == newest_dt:
+                    r["is_new"] = True
+                    break
+    except Exception:
+        pass
     
     # Generate HTML table
     html_table = generate_html_table(repos)
