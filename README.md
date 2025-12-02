@@ -41,7 +41,7 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install, and
 <tr>
 <td valign="top" width="50%">
 <dl>
-<dt><a href="https://github.com/soderlind/custom-document-folder#readme">Custom Document Folder</a></dt>
+<dt><a href="https://github.com/soderlind/custom-document-folder#readme">Custom Document Folder</a> ⭐ 3</dt>
 <dd>Organize document uploads by automatically directing specific file types to custom folders based on their extensions.</dd>
 </dl>
 </td>
