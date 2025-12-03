@@ -94,7 +94,7 @@ def generate_html_table(repos):
         # Nested table to control column widths precisely; rocket SVG from assets folder
         rocket_img = '<img src="assets/rocket-badge.svg" width="48" height="48" alt="New">'
         nested_table = (
-            f'<table width="100%">\n'
+            f'<table width="100%" border="0" cellspacing="0" cellpadding="0">\n'
             f'<tr>\n'
             f'<td width="20%" align="center" valign="middle">{rocket_img}</td>\n'
             f'<td width="80%" valign="top">\n{promo_cell}\n</td>\n'
