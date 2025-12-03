@@ -11,13 +11,18 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install, and
 <!-- plugins starts -->
 <table>
 <tr>
-<td colspan="2" align="center">
-<div align="left" style="display:inline-block;text-align:left">
+<td colspan="2">
+<table width="100%">
+<tr>
+<td width="20%" align="center" valign="middle"><img src="assets/rocket-badge.svg" width="48" height="48" alt="New"></td>
+<td width="80%" valign="top">
 <dl>
-<dt><a href="https://github.com/soderlind/virtual-media-folders#readme">Virtual Media Folders</a> 🚀 ⭐ 1</dt>
+<dt><a href="https://github.com/soderlind/virtual-media-folders#readme">Virtual Media Folders</a> ⭐ 1</dt>
 <dd>Virtual Media Folders brings virtual folder organization to your WordPress Media Library. Organize your media files into hierarchical folders without moving files on disk—folders are virtual, so your URLs never change.</dd>
 </dl>
-</div>
+</td>
+</tr>
+</table>
 </td>
 </tr>
 <tr>

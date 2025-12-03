@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="flameGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff6b35"/>
+      <stop offset="100%" style="stop-color:#f7931e"/>
+    </linearGradient>
+    <linearGradient id="bodyGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e8e8e8"/>
+      <stop offset="100%" style="stop-color:#b8b8b8"/>
+    </linearGradient>
+  </defs>
+  <!-- Flame -->
+  <ellipse cx="32" cy="58" rx="6" ry="8" fill="url(#flameGrad)"/>
+  <!-- Fins -->
+  <path d="M20 44 L14 54 L22 48 Z" fill="#1e90ff"/>
+  <path d="M44 44 L50 54 L42 48 Z" fill="#1e90ff"/>
+  <!-- Body -->
+  <path d="M32 6 C22 6 20 20 20 32 L20 48 C20 50 22 52 24 52 L40 52 C42 52 44 50 44 48 L44 32 C44 20 42 6 32 6 Z" fill="url(#bodyGrad)" stroke="#888" stroke-width="1"/>
+  <!-- Window -->
+  <circle cx="32" cy="24" r="6" fill="#87ceeb" stroke="#666" stroke-width="1"/>
+  <circle cx="32" cy="24" r="4" fill="#b0e0e6"/>
+  <!-- Nose cone accent -->
+  <ellipse cx="32" cy="10" rx="4" ry="3" fill="#ff6b6b"/>
+</svg>

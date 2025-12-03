@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Star burst "NEW" style badge -->
+  <defs>
+    <linearGradient id="starGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fbbf24"/>
+      <stop offset="100%" style="stop-color:#f59e0b"/>
+    </linearGradient>
+  </defs>
+  <!-- Starburst background -->
+  <polygon points="32,2 38,22 58,22 42,34 48,54 32,42 16,54 22,34 6,22 26,22" fill="url(#starGrad)"/>
+  <!-- NEW text -->
+  <text x="32" y="36" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#7c2d12" text-anchor="middle">NEW</text>
+</svg>

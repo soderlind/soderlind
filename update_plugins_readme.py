@@ -69,11 +69,10 @@ def generate_html_table(repos):
         else:
             other_repos.append(repo)
 
-    # Helper to build cell HTML
-    def build_cell(repo):
+    # Helper to build cell HTML (for regular repos)
+    def build_cell(repo, include_rocket=False):
         stars = repo.get("stars", 0)
-        rocket = repo.get("is_new", False)
-        rocket_text = " 🚀" if rocket else ""
+        rocket_text = " 🚀" if include_rocket else ""
         stars_text = f" ⭐ {stars}" if stars > 0 else ""
         return (
             f'<dl>\n'
@@ -82,11 +81,30 @@ def generate_html_table(repos):
             f'</dl>'
         )
 
-    # Top row for newest repo (centered, left-aligned text via align attribute)
+    # Top promo row for newest repo: nested table with 20% rocket SVG column, 80% repo details
     if newest_repo:
-        cell_html = build_cell(newest_repo)
+        stars = newest_repo.get("stars", 0)
+        stars_text = f" ⭐ {stars}" if stars > 0 else ""
+        promo_cell = (
+            f'<dl>\n'
+            f'<dt><a href="{newest_repo["url"]}#readme">{newest_repo["name"]}</a>{stars_text}</dt>\n'
+            f'<dd>{newest_repo["description"]}</dd>\n'
+            f'</dl>'
+        )
+        # Nested table to control column widths precisely; rocket SVG from assets folder
+        rocket_img = '<img src="assets/rocket-badge.svg" width="48" height="48" alt="New">'
+        nested_table = (
+            f'<table width="100%">\n'
+            f'<tr>\n'
+            f'<td width="20%" align="center" valign="middle">{rocket_img}</td>\n'
+            f'<td width="80%" valign="top">\n{promo_cell}\n</td>\n'
+            f'</tr>\n'
+            f'</table>'
+        )
         rows.append(
-            f'<tr>\n<td colspan="2" align="center">\n<div align="left" style="display:inline-block;text-align:left">\n{cell_html}\n</div>\n</td>\n</tr>'
+            f'<tr>\n'
+            f'<td colspan="2">\n{nested_table}\n</td>\n'
+            f'</tr>'
         )
 
     # Remaining repos in two-column layout
