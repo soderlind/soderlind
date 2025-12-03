@@ -55,33 +55,52 @@ def format_repo_name(repo_name):
 
 def generate_html_table(repos):
     """Generate HTML table with two columns of dl/dt/dd elements.
-    Adds ⭐ star count (if >0) and 🚀 rocket if repo < 30 days old.
+    Newest repo (is_new) is promoted to a top row spanning both columns.
+    Adds ⭐ star count (if >0) and 🚀 rocket for the newest repo.
     """
     rows = []
-    
-    for i in range(0, len(repos), 2):
+
+    # Separate newest repo from the rest
+    newest_repo = None
+    other_repos = []
+    for repo in repos:
+        if repo.get("is_new"):
+            newest_repo = repo
+        else:
+            other_repos.append(repo)
+
+    # Helper to build cell HTML
+    def build_cell(repo):
+        stars = repo.get("stars", 0)
+        rocket = repo.get("is_new", False)
+        rocket_text = " 🚀" if rocket else ""
+        stars_text = f" ⭐ {stars}" if stars > 0 else ""
+        return (
+            f'<dl>\n'
+            f'<dt><a href="{repo["url"]}#readme">{repo["name"]}</a>{rocket_text}{stars_text}</dt>\n'
+            f'<dd>{repo["description"]}</dd>\n'
+            f'</dl>'
+        )
+
+    # Top row for newest repo (centered, left-aligned text via align attribute)
+    if newest_repo:
+        cell_html = build_cell(newest_repo)
+        rows.append(
+            f'<tr>\n<td colspan="2" align="center">\n<div align="left" style="display:inline-block;text-align:left">\n{cell_html}\n</div>\n</td>\n</tr>'
+        )
+
+    # Remaining repos in two-column layout
+    for i in range(0, len(other_repos), 2):
         row_cells = []
-        
         for j in range(2):
-            if i + j < len(repos):
-                repo = repos[i + j]
-                stars = repo.get("stars", 0)
-                # Determine rocket flag first (now before star)
-                rocket = repo.get("is_new", False)
-                rocket_text = " 🚀" if rocket else ""
-                stars_text = f" ⭐ {stars}" if stars > 0 else ""
-                cell = (
-                    f'<dl>\n'
-                    f'<dt><a href="{repo["url"]}#readme">{repo["name"]}</a>{rocket_text}{stars_text}</dt>\n'
-                    f'<dd>{repo["description"]}</dd>\n'
-                    f'</dl>'
-                )
+            if i + j < len(other_repos):
+                repo = other_repos[i + j]
+                cell = build_cell(repo)
                 row_cells.append(f'<td valign="top" width="50%">\n{cell}\n</td>')
             else:
                 row_cells.append('<td></td>')
-        
         rows.append(f'<tr>\n{row_cells[0]}\n{row_cells[1]}\n</tr>')
-    
+
     return '<table>\n' + '\n'.join(rows) + '\n</table>'
 
 
