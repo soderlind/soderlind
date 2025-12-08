@@ -55,7 +55,7 @@ def format_repo_name(repo_name):
 
 def generate_html_table(repos):
     """Generate HTML table with two columns of dl/dt/dd elements.
-    Newest repo (is_new) is promoted to a top row spanning both columns.
+    Newest repo (is_new) is promoted to a top row spanning both columns with enhanced styling.
     Adds ⭐ star count (if >0) and 🚀 rocket for the newest repo.
     """
     rows = []
@@ -69,24 +69,27 @@ def generate_html_table(repos):
         else:
             other_repos.append(repo)
 
-    # Helper to build cell HTML
+    # Helper to build cell HTML for regular repos
     def build_cell(repo):
         stars = repo.get("stars", 0)
-        rocket = repo.get("is_new", False)
-        rocket_text = " 🚀" if rocket else ""
         stars_text = f" ⭐ {stars}" if stars > 0 else ""
         return (
             f'<dl>\n'
-            f'<dt><a href="{repo["url"]}#readme">{repo["name"]}</a>{rocket_text}{stars_text}</dt>\n'
+            f'<dt><a href="{repo["url"]}#readme">{repo["name"]}</a>{stars_text}</dt>\n'
             f'<dd>{repo["description"]}</dd>\n'
             f'</dl>'
         )
 
-    # Top row for newest repo (centered, left-aligned text via align attribute)
+    # Enhanced promo row for newest repo with bold heading, rocket, and separator
     if newest_repo:
-        cell_html = build_cell(newest_repo)
+        stars = newest_repo.get("stars", 0)
+        stars_text = f" ⭐ {stars}" if stars > 0 else ""
+        promo_html = (
+            f'<h3>🚀 <a href="{newest_repo["url"]}#readme">{newest_repo["name"]}</a>{stars_text}</h3>\n'
+            f'<p>{newest_repo["description"]}</p>'
+        )
         rows.append(
-            f'<tr>\n<td colspan="2" align="center">\n<div align="left" style="display:inline-block;text-align:left">\n{cell_html}\n</div>\n</td>\n</tr>'
+            f'<tr>\n<td colspan="2">\n\n{promo_html}\n\n<hr>\n</td>\n</tr>'
         )
 
     # Remaining repos in two-column layout
