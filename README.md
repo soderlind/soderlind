@@ -92,7 +92,7 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install, and
 <tr>
 <td valign="top" width="50%">
 <dl>
-<dt><a href="https://github.com/soderlind/wp-loupe#readme">Wp Loupe</a> ⭐ 79</dt>
+<dt><a href="https://github.com/soderlind/wp-loupe#readme">Wp Loupe</a> ⭐ 80</dt>
 <dd>WP Loupe is a powerful search enhancement plugin for WordPress that delivers fast, accurate, and typo-tolerant search results.</dd>
 </dl>
 </td>
