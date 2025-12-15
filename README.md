@@ -28,7 +28,7 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install, and
 </td>
 <td valign="top" width="50%">
 <dl>
-<dt><a href="https://github.com/soderlind/ai-alt-text#readme">Ai Alt Text</a> ⭐ 1</dt>
+<dt><a href="https://github.com/soderlind/ai-alt-text#readme">AI Alt Text</a> ⭐ 1</dt>
 <dd>Generate alt text for images using AI. Supports multiple AI providers including OpenAI, Claude, Gemini, Ollama, Azure OpenAI, and Grok.</dd>
 </dl>
 </td>
@@ -98,7 +98,7 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install, and
 </td>
 <td valign="top" width="50%">
 <dl>
-<dt><a href="https://github.com/soderlind/wp-loupe#readme">Wp Loupe</a> ⭐ 80</dt>
+<dt><a href="https://github.com/soderlind/wp-loupe#readme">WP Loupe</a> ⭐ 80</dt>
 <dd>WP Loupe is a powerful search enhancement plugin for WordPress that delivers fast, accurate, and typo-tolerant search results.</dd>
 </dl>
 </td>

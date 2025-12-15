@@ -29,7 +29,7 @@ def extract_repo_info(url):
 
 
 def fetch_repo_info(owner, repo, token):
-    """Fetch repository description, stars and creation date from GitHub API."""
+    """Fetch repository name, description, stars and creation date from GitHub API."""
     headers = {}
     if token:
         headers["Authorization"] = f"Bearer {token}"
@@ -41,16 +41,27 @@ def fetch_repo_info(owner, repo, token):
     if response.status_code == 200:
         data = response.json()
         return {
+            "name": data.get("name", repo),
             "description": data.get("description", "") or "",
             "stars": data.get("stargazers_count", 0),
             "created_at": data.get("created_at", "")
         }
-    return {"description": "", "stars": 0, "created_at": ""}
+    return {"name": repo, "description": "", "stars": 0, "created_at": ""}
 
 
 def format_repo_name(repo_name):
-    """Format repo name for display (replace hyphens with spaces, title case)."""
-    return repo_name.replace("-", " ").title()
+    """Format repo name for display (replace hyphens with spaces, smart title case with acronym handling)."""
+    # Common acronyms to preserve in uppercase
+    acronyms = {'wp', 'ai', 'api', 'css', 'js', 'html', 'php', 'sql', 'url', 'http', 'https', 'xml', 'json', 'rest', 'ajax', 'cdn', 'ssl', 'seo', 'ui', 'ux'}
+    
+    words = repo_name.replace("-", " ").split()
+    formatted_words = []
+    for word in words:
+        if word.lower() in acronyms:
+            formatted_words.append(word.upper())
+        else:
+            formatted_words.append(word.capitalize())
+    return " ".join(formatted_words)
 
 
 def generate_html_table(repos):
@@ -144,7 +155,7 @@ def main():
 
         repos.append({
             "url": url,
-            "name": format_repo_name(repo_name),
+            "name": format_repo_name(repo_info["name"]),
             "description": description or "No description available.",
             "stars": repo_info["stars"],
             "is_new": is_new,
