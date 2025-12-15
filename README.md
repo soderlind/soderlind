@@ -13,8 +13,8 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install, and
 <tr>
 <td colspan="2">
 
-<h3>🚀 <a href="https://github.com/soderlind/virtual-media-folders#readme">Virtual Media Folders</a> ⭐ 8</h3>
-<p>Virtual Media Folders brings virtual folder organization to your WordPress Media Library. Organize your media files into hierarchical folders without moving files on disk—folders are virtual, so your URLs never change.</p>
+<h3>🚀 <a href="https://github.com/soderlind/passwp-posts#readme">Passwp Posts</a> ⭐ 1</h3>
+<p>A simple password protection plugin for WordPress—no usernames, no accounts, just one shared password. Share the password with those who need access and they're in. Perfect for situations where you need quick, hassle-free access control without user management.</p>
 
 <hr>
 </td>
@@ -92,11 +92,16 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install, and
 <tr>
 <td valign="top" width="50%">
 <dl>
+<dt><a href="https://github.com/soderlind/virtual-media-folders#readme">Virtual Media Folders</a> ⭐ 8</dt>
+<dd>Virtual Media Folders brings virtual folder organization to your WordPress Media Library. Organize your media files into hierarchical folders without moving files on disk—folders are virtual, so your URLs never change.</dd>
+</dl>
+</td>
+<td valign="top" width="50%">
+<dl>
 <dt><a href="https://github.com/soderlind/wp-loupe#readme">Wp Loupe</a> ⭐ 80</dt>
 <dd>WP Loupe is a powerful search enhancement plugin for WordPress that delivers fast, accurate, and typo-tolerant search results.</dd>
 </dl>
 </td>
-<td></td>
 </tr>
 </table>
 <!-- plugins ends -->
