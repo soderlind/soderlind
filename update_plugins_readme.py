@@ -51,6 +51,7 @@ def fetch_repo_info(owner, repo, token):
 
 def format_repo_name(repo_name):
     """Format repo name for display (replace hyphens with spaces, smart title case with acronym handling)."""
+    import re
     # Common acronyms to preserve in uppercase
     acronyms = {'wp', 'ai', 'api', 'css', 'js', 'html', 'php', 'sql', 'url', 'http', 'https', 'xml', 'json', 'rest', 'ajax', 'cdn', 'ssl', 'seo', 'ui', 'ux'}
     
@@ -60,7 +61,13 @@ def format_repo_name(repo_name):
         if word.lower() in acronyms:
             formatted_words.append(word.upper())
         else:
-            formatted_words.append(word.capitalize())
+            # Check if word contains acronyms as substrings (e.g., "passwp" -> "PassWP")
+            formatted_word = word.capitalize()
+            for acronym in acronyms:
+                # Case-insensitive replace of acronym within word to uppercase
+                pattern = re.compile(re.escape(acronym), re.IGNORECASE)
+                formatted_word = pattern.sub(acronym.upper(), formatted_word)
+            formatted_words.append(formatted_word)
     return " ".join(formatted_words)
 
 

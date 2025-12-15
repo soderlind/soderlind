@@ -13,7 +13,7 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install, and
 <tr>
 <td colspan="2">
 
-<h3>🚀 <a href="https://github.com/soderlind/passwp-posts#readme">Passwp Posts</a> ⭐ 1</h3>
+<h3>🚀 <a href="https://github.com/soderlind/passwp-posts#readme">PassWP Posts</a> ⭐ 1</h3>
 <p>A simple password protection plugin for WordPress—no usernames, no accounts, just one shared password. Share the password with those who need access and they're in. Perfect for situations where you need quick, hassle-free access control without user management.</p>
 
 <hr>
