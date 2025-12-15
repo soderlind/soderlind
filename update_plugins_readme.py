@@ -51,23 +51,43 @@ def fetch_repo_info(owner, repo, token):
 
 def format_repo_name(repo_name):
     """Format repo name for display (replace hyphens with spaces, smart title case with acronym handling)."""
-    import re
-    # Common acronyms to preserve in uppercase
-    acronyms = {'wp', 'ai', 'api', 'css', 'js', 'html', 'php', 'sql', 'url', 'http', 'https', 'xml', 'json', 'rest', 'ajax', 'cdn', 'ssl', 'seo', 'ui', 'ux'}
-    
+    # Common acronyms to preserve in uppercase when they are standalone words.
+    acronyms = {
+        "wp",
+        "ai",
+        "api",
+        "css",
+        "js",
+        "html",
+        "php",
+        "sql",
+        "url",
+        "http",
+        "https",
+        "xml",
+        "json",
+        "rest",
+        "ajax",
+        "cdn",
+        "ssl",
+        "seo",
+        "ui",
+        "ux",
+    }
+
     words = repo_name.replace("-", " ").split()
     formatted_words = []
     for word in words:
-        if word.lower() in acronyms:
+        lower_word = word.lower()
+        if lower_word in acronyms:
             formatted_words.append(word.upper())
-        else:
-            # Check if word contains acronyms as substrings (e.g., "passwp" -> "PassWP")
-            formatted_word = word.capitalize()
-            for acronym in acronyms:
-                # Case-insensitive replace of acronym within word to uppercase
-                pattern = re.compile(re.escape(acronym), re.IGNORECASE)
-                formatted_word = pattern.sub(acronym.upper(), formatted_word)
-            formatted_words.append(formatted_word)
+            continue
+
+        formatted_word = word.capitalize()
+        # Special-case: ensure "wp" inside a word stays uppercase (e.g., passwp -> PassWP).
+        formatted_word = re.sub(r"wp", "WP", formatted_word, flags=re.IGNORECASE)
+        formatted_words.append(formatted_word)
+
     return " ".join(formatted_words)
 
 
