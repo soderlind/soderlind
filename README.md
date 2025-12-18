@@ -13,8 +13,8 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install, and
 <tr>
 <td colspan="2">
 
-<h3>🚀 <a href="https://github.com/soderlind/passwp-posts#readme">PassWP Posts</a> ⭐ 1</h3>
-<p>A simple password protection plugin for WordPress—no usernames, no accounts, just one shared password. Share the password with those who need access and they're in. Perfect for situations where you need quick, hassle-free access control without user management.</p>
+<h3>🚀 <a href="https://github.com/soderlind/wp-loupe#readme">WP Loupe</a> ⭐ 80</h3>
+<p>WP Loupe is a powerful search enhancement plugin for WordPress that delivers fast, accurate, and typo-tolerant search results. WP Loupe exposes a developer-friendly API so you can build your own search UI.</p>
 
 <hr>
 </td>
@@ -98,8 +98,8 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install, and
 </td>
 <td valign="top" width="50%">
 <dl>
-<dt><a href="https://github.com/soderlind/wp-loupe#readme">WP Loupe</a> ⭐ 80</dt>
-<dd>WP Loupe is a powerful search enhancement plugin for WordPress that delivers fast, accurate, and typo-tolerant search results.</dd>
+<dt><a href="https://github.com/soderlind/passwp-posts#readme">PassWP Posts</a> ⭐ 1</dt>
+<dd>A simple password protection plugin for WordPress—no usernames, no accounts, just one shared password. Share the password with those who need access and they're in. Perfect for situations where you need quick, hassle-free access control without user management.</dd>
 </dl>
 </td>
 </tr>

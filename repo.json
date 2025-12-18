@@ -45,7 +45,8 @@
 	},
 	{
 		"url": "https://github.com/soderlind/wp-loupe",
-		"description": ""
+		"description": "",
+		"promoted": true
 	},
 	{
 		"url": "https://github.com/soderlind/passwp-posts",
