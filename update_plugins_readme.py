@@ -107,6 +107,9 @@ def generate_html_table(repos):
         else:
             other_repos.append(repo)
 
+    # Sort all non-promoted repos alphabetically (display name), case-insensitive.
+    other_repos.sort(key=lambda r: (r.get("name") or "").casefold())
+
     # Helper to build cell HTML for regular repos
     def build_cell(repo):
         stars = repo.get("stars", 0)
