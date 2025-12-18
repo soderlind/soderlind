@@ -93,17 +93,17 @@ def format_repo_name(repo_name):
 
 def generate_html_table(repos):
     """Generate HTML table with two columns of dl/dt/dd elements.
-    Newest repo (is_new) is promoted to a top row spanning both columns with enhanced styling.
-    Adds ⭐ star count (if >0) and 🚀 rocket for the newest repo.
+    Promoted repo (is_promoted) is promoted to a top row spanning both columns with enhanced styling.
+    Adds ⭐ star count (if >0) and 🚀 rocket for the promoted repo.
     """
     rows = []
 
-    # Separate newest repo from the rest
-    newest_repo = None
+    # Separate promoted repo from the rest
+    promoted_repo = None
     other_repos = []
     for repo in repos:
-        if repo.get("is_new"):
-            newest_repo = repo
+        if repo.get("is_promoted"):
+            promoted_repo = repo
         else:
             other_repos.append(repo)
 
@@ -118,13 +118,13 @@ def generate_html_table(repos):
             f'</dl>'
         )
 
-    # Enhanced promo row for newest repo with bold heading, rocket, and separator
-    if newest_repo:
-        stars = newest_repo.get("stars", 0)
+    # Enhanced promo row for promoted repo with bold heading, rocket, and separator
+    if promoted_repo:
+        stars = promoted_repo.get("stars", 0)
         stars_text = f" ⭐ {stars}" if stars > 0 else ""
         promo_html = (
-            f'<h3>🚀 <a href="{newest_repo["url"]}#readme">{newest_repo["name"]}</a>{stars_text}</h3>\n'
-            f'<p>{newest_repo["description"]}</p>'
+            f'<h3>🚀 <a href="{promoted_repo["url"]}#readme">{promoted_repo["name"]}</a>{stars_text}</h3>\n'
+            f'<p>{promoted_repo["description"]}</p>'
         )
         rows.append(
             f'<tr>\n<td colspan="2">\n\n{promo_html}\n\n<hr>\n</td>\n</tr>'
@@ -153,7 +153,13 @@ def main():
     
     # Process each repo
     repos = []
-    created_dates = []
+    promoted_url = None
+    for item in repo_data:
+        # Allow either key name; keep it simple for hand-editing.
+        if item.get("promoted") is True or item.get("promote") is True:
+            promoted_url = item.get("url")
+            break
+
     for item in repo_data:
         url = item["url"]
         owner, repo_name = extract_repo_info(url)
@@ -167,45 +173,49 @@ def main():
         if not description:
             description = repo_info["description"]
         
-        # Compute age to decide if new (<30 days)
+        # Read created_at (used only for fallback promotion when no repo.json flag is set)
         created_at = repo_info.get("created_at", "")
-        is_new = False
         created_dt = None
         if created_at:
             # created_at example: 2025-11-05T12:34:56Z
             try:
                 from datetime import datetime, timezone
                 created_dt = datetime.strptime(created_at, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
-                created_dates.append(created_dt)
             except Exception:
-                is_new = False
+                created_dt = None
 
         repos.append({
             "url": url,
             "name": format_repo_name(repo_info["name"]),
             "description": description or "No description available.",
             "stars": repo_info["stars"],
-            "is_new": is_new,
+            "is_promoted": False,
             "_created_dt": created_dt,
         })
 
-    # Mark only the single newest repo with rocket
-    try:
-        newest_dt = None
+    # Mark a single promoted repo.
+    # Priority:
+    # 1) repo.json item marked with { "promoted": true } (or "promote": true)
+    # 2) fallback: newest repo by created_at
+    if promoted_url:
         for r in repos:
-            if r.get("_created_dt") is not None:
-                if newest_dt is None or r["_created_dt"] > newest_dt:
-                    newest_dt = r["_created_dt"]
-        if newest_dt is not None:
-            # Clear all is_new flags, then set only the newest
+            if r.get("url") == promoted_url:
+                r["is_promoted"] = True
+                break
+    else:
+        try:
+            newest_dt = None
             for r in repos:
-                r["is_new"] = False
-            for r in repos:
-                if r.get("_created_dt") == newest_dt:
-                    r["is_new"] = True
-                    break
-    except Exception:
-        pass
+                if r.get("_created_dt") is not None:
+                    if newest_dt is None or r["_created_dt"] > newest_dt:
+                        newest_dt = r["_created_dt"]
+            if newest_dt is not None:
+                for r in repos:
+                    if r.get("_created_dt") == newest_dt:
+                        r["is_promoted"] = True
+                        break
+        except Exception:
+            pass
     
     # Generate HTML table
     html_table = generate_html_table(repos)

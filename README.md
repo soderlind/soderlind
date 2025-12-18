@@ -13,8 +13,8 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install, and
 <tr>
 <td colspan="2">
 
-<h3>🚀 <a href="https://github.com/soderlind/passwp-posts#readme">PassWP Posts</a> ⭐ 1</h3>
-<p>A simple password protection plugin for WordPress—no usernames, no accounts, just one shared password. Share the password with those who need access and they're in. Perfect for situations where you need quick, hassle-free access control without user management.</p>
+<h3>🚀 <a href="https://github.com/soderlind/wp-loupe#readme">WP Loupe</a> ⭐ 80</h3>
+<p>WP Loupe is a powerful search enhancement plugin for WordPress that delivers fast, accurate, and typo-tolerant search results. WP Loupe exposes a developer-friendly API so you can build your own search UI.</p>
 
 <hr>
 </td>
@@ -93,13 +93,13 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install, and
 <td valign="top" width="50%">
 <dl>
 <dt><a href="https://github.com/soderlind/virtual-media-folders#readme">Virtual Media Folders</a> ⭐ 8</dt>
-<dd>Virtual Media Folders brings virtual folder organization to your WordPress Media Library. Organize your media files into hierarchical folders without moving files on disk—folders are virtual, so your URLs never change.</dd>
+<dd>Organize your  WordPress  Media Library with virtual folders. No file moves, no broken URLs. Clean structure, faster workflows, happier editors.  </dd>
 </dl>
 </td>
 <td valign="top" width="50%">
 <dl>
-<dt><a href="https://github.com/soderlind/wp-loupe#readme">WP Loupe</a> ⭐ 80</dt>
-<dd>WP Loupe is a powerful search enhancement plugin for WordPress that delivers fast, accurate, and typo-tolerant search results.</dd>
+<dt><a href="https://github.com/soderlind/passwp-posts#readme">PassWP Posts</a> ⭐ 1</dt>
+<dd>A simple password protection plugin for WordPress—no usernames, no accounts, just one shared password. Share the password with those who need access and they're in. Perfect for situations where you need quick, hassle-free access control without user management.</dd>
 </dl>
 </td>
 </tr>
