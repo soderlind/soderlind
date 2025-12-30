@@ -171,6 +171,11 @@ def main():
         print(f"Fetching info for {owner}/{repo_name}...")
         repo_info = fetch_repo_info(owner, repo_name, TOKEN)
         
+        # Use title from JSON if provided, otherwise format the repo name
+        title = item.get("title", "").strip()
+        if not title:
+            title = format_repo_name(repo_info["name"])
+        
         # Use description from JSON if provided, otherwise use API response
         description = item.get("description", "").strip()
         if not description:
@@ -189,7 +194,7 @@ def main():
 
         repos.append({
             "url": url,
-            "name": format_repo_name(repo_info["name"]),
+            "name": title,
             "description": description or "No description available.",
             "stars": repo_info["stars"],
             "is_promoted": False,
