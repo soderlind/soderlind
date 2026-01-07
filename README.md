@@ -123,7 +123,7 @@ I made the [WordPress Development — Copilot Instructions](https://github.com/g
 **Spec-Driven WordPress Development**, clearly stated. Everything flows from the [**Constitution**](https://github.com/soderlind/wordpress-sdd).
 
 <table border="0">
-<tr><td valign="top" width="20%" ><img src="ralph-luv-wp-header.png"></td>
+<tr><td valign="top" width="20%" ><a href="https://github.com/soderlind/ralph-wp"><img src="ralph-luv-wp-header.png"></a></td>
   <td valign="top">
     <dl>
       <dt><a href="https://github.com/soderlind/ralph-wp">Ralph  for WordPress projects</a></dt>
