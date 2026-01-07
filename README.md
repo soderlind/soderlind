@@ -64,7 +64,7 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install, and
 <tr>
 <td valign="top" width="50%">
 <dl>
-<dt><a href="https://github.com/soderlind/multisite-exporter#readme">Multisite Exporter</a> ⭐ 5</dt>
+<dt><a href="https://github.com/soderlind/multisite-exporter#readme">Multisite Exporter</a> ⭐ 6</dt>
 <dd>Multisite Exporter is a WordPress plugin that allows you to export content from all subsites in a WordPress multisite installation. The plugin generates WordPress XML (WXR) files by running the WordPress exporter on each subsite in the background using the Action Scheduler library, making it efficient even for large multisite networks.</dd>
 </dl>
 </td>
