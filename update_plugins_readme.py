@@ -28,25 +28,116 @@ def extract_repo_info(url):
     return parts[-2], parts[-1]
 
 
+def _parse_first_int(text):
+    if not text:
+        return None
+    m = re.search(r"(\d[\d,]*)", text)
+    if not m:
+        return None
+    try:
+        return int(m.group(1).replace(",", ""))
+    except Exception:
+        return None
+
+
+def fetch_repo_info_from_html(owner, repo):
+    """Best-effort fallback using the public GitHub HTML page."""
+    url = f"https://github.com/{owner}/{repo}"
+    try:
+        response = httpx.get(url, headers={"User-Agent": "soderlind-readme-updater"}, timeout=10.0)
+        if response.status_code != 200:
+            return {"description": "", "stars": 0, "issues": 0}
+
+        html = response.text
+
+        # Description
+        description = ""
+        m = re.search(r'<meta\s+property="og:description"\s+content="([^"]*)"\s*/?>', html)
+        if m:
+            description = m.group(1).strip()
+
+        # Stars (try a couple of common patterns)
+        stars = 0
+        m = re.search(r'href="/' + re.escape(owner) + r'/' + re.escape(repo) + r'/stargazers"[^>]*>\s*([\d,]+)\s*<', html)
+        if m:
+            stars = _parse_first_int(m.group(1)) or 0
+        else:
+            m = re.search(r'aria-label="([\d,]+)\s+users?\s+starred\s+this\s+repository"', html)
+            if m:
+                stars = _parse_first_int(m.group(1)) or 0
+
+        # Issues (issues only, displayed on the Issues tab)
+        issues = 0
+        m = re.search(
+            r'href="/' + re.escape(owner) + r'/' + re.escape(repo) + r'/issues"[^>]*>\s*Issues\s*<span[^>]*class="Counter"[^>]*>\s*([\d,]+)\s*</span>',
+            html,
+        )
+        if m:
+            issues = _parse_first_int(m.group(1)) or 0
+
+        return {"description": description or "", "stars": stars, "issues": issues}
+    except Exception:
+        return {"description": "", "stars": 0, "issues": 0}
+
+
 def fetch_repo_info(owner, repo, token):
     """Fetch repository name, description, stars and creation date from GitHub API."""
     headers = {}
     if token:
         headers["Authorization"] = f"Bearer {token}"
     headers["Accept"] = "application/vnd.github.v3+json"
+    headers["User-Agent"] = "soderlind-readme-updater"
     
     url = f"https://api.github.com/repos/{owner}/{repo}"
-    response = httpx.get(url, headers=headers)
+    response = httpx.get(url, headers=headers, timeout=10.0)
     
     if response.status_code == 200:
         data = response.json()
+
+        # `open_issues_count` includes PRs. We use Search API to get issues-only when
+        # authenticated; otherwise (or on failure), fall back to this number.
+        issues_fallback = int(data.get("open_issues_count", 0) or 0)
+        issues = issues_fallback
+        if token:
+            issues = fetch_open_issue_count(owner, repo, token, fallback=issues_fallback)
+
         return {
             "name": data.get("name", repo),
             "description": data.get("description", "") or "",
             "stars": data.get("stargazers_count", 0),
-            "created_at": data.get("created_at", "")
+            "created_at": data.get("created_at", ""),
+            "issues": issues,
         }
-    return {"name": repo, "description": "", "stars": 0, "created_at": ""}
+    # Fall back to scraping public HTML (useful when unauthenticated + rate-limited).
+    html_info = fetch_repo_info_from_html(owner, repo)
+    return {
+        "name": repo,
+        "description": html_info.get("description", "") or "",
+        "stars": int(html_info.get("stars", 0) or 0),
+        "created_at": "",
+        "issues": int(html_info.get("issues", 0) or 0),
+    }
+
+
+def fetch_open_issue_count(owner, repo, token, fallback=0):
+    """Fetch open issue count (issues only, excludes PRs) via GitHub Search API."""
+    headers = {}
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+    headers["Accept"] = "application/vnd.github.v3+json"
+    headers["User-Agent"] = "soderlind-readme-updater"
+
+    # Search API supports filtering PRs out by using `type:issue`.
+    q = f"repo:{owner}/{repo} type:issue state:open"
+    url = "https://api.github.com/search/issues"
+    try:
+        response = httpx.get(url, headers=headers, params={"q": q}, timeout=10.0)
+        if response.status_code == 200:
+            data = response.json()
+            return int(data.get("total_count", 0) or 0)
+    except Exception:
+        pass
+    return int(fallback or 0)
 
 
 def format_repo_name(repo_name):
@@ -114,9 +205,11 @@ def generate_html_table(repos):
     def build_cell(repo):
         stars = repo.get("stars", 0)
         stars_text = f" ⭐ {stars}" if stars > 0 else ""
+        issues = repo.get("issues", 0)
+        issues_text = f" 🐛 {issues}" if issues and issues > 0 else ""
         return (
             f'<dl>\n'
-            f'<dt><a href="{repo["url"]}#readme">{repo["name"]}</a>{stars_text}</dt>\n'
+            f'<dt><a href="{repo["url"]}#readme">{repo["name"]}</a>{stars_text}{issues_text}</dt>\n'
             f'<dd>{repo["description"]}</dd>\n'
             f'</dl>'
         )
@@ -125,8 +218,10 @@ def generate_html_table(repos):
     if promoted_repo:
         stars = promoted_repo.get("stars", 0)
         stars_text = f" ⭐ {stars}" if stars > 0 else ""
+        issues = promoted_repo.get("issues", 0)
+        issues_text = f" 🐛 {issues}" if issues and issues > 0 else ""
         promo_html = (
-            f'<h3>🚀 <a href="{promoted_repo["url"]}#readme">{promoted_repo["name"]}</a>{stars_text}</h3>\n'
+            f'<h3>🚀 <a href="{promoted_repo["url"]}#readme">{promoted_repo["name"]}</a>{stars_text}{issues_text}</h3>\n'
             f'<p>{promoted_repo["description"]}</p>'
         )
         rows.append(
