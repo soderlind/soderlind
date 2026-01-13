@@ -123,10 +123,12 @@ I made the [WordPress Development — Copilot Instructions](https://github.com/g
 **Spec-Driven WordPress Development**, clearly stated. Everything flows from the [**Constitution**](https://github.com/soderlind/wordpress-sdd).
 
 <table border="0">
-<tr><td valign="top" width="20%" ><a href="https://github.com/soderlind/ralph-wp"><img src="ralph-luv-wp-header.png"></a></td>
+<tr><td xvalign="top" width="20%" ><a href="https://github.com/soderlind/ralph-wp"><img src="ralph-luv-wp-header.png"></a></td>
   <td valign="top">
     <dl>
       <dt><a href="https://github.com/soderlind/ralph-wp">Ralph  for WordPress projects</a></dt>
       <dd>A tiny runner around GitHub Copilot CLI that loops in small, clean iterations—1 feature per run + commit, progress log, and a PRD checklist.</dd>
+      <dt><a href="https://github.com/soderlind/ralph-wp-testing">Ralph WP Testing</a></dt>
+      <dd>Shows how to build an end-to-end WordPress plugin testing setup with complete PHPUnit coverage, built for automated runs with Ralph.</dd>
     </dl>  
   </td></tr>
