@@ -110,7 +110,12 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install, and
 <dd>AI-powered media organization add-on for the Virtual Media Folders plugin. Uses vision-capable AI models to analyze actual image content and automatically organize your media library into virtual folders.</dd>
 </dl>
 </td>
-<td></td>
+<td valign="top" width="50%">
+<dl>
+<dt><a href="https://github.com/soderlind/vmfa-rules-engine#readme">Virtual Media Folders Rules Engine</a></dt>
+<dd>Rule-based automatic folder assignment for media uploads. Add-on plugin for Virtual Media Folders.</dd>
+</dl>
+</td>
 </tr>
 </table>
 <!-- plugins ends -->
