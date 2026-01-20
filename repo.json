@@ -61,5 +61,10 @@
 		"url": "https://github.com/soderlind/vmfa-rules-engine",
 		"title": "Virtual Media Folders Rules Engine",
 		"description": ""
+	},
+	{
+		"url": "https://github.com/soderlind/gf-html-area-editor",
+		"title": "Gravity Forms HTML Area Editor",
+		"description": ""
 	}
 ]
