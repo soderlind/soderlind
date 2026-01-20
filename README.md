@@ -64,58 +64,67 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install, and
 <tr>
 <td valign="top" width="50%">
 <dl>
+<dt><a href="https://github.com/soderlind/gf-html-area-editor#readme">Gravity Forms HTML Area Editor</a> ⭐ 1</dt>
+<dd>Adds a rich text editor (TinyMCE) to the Gravity Forms HTML field content setting, replacing the default plain textarea.</dd>
+</dl>
+</td>
+<td valign="top" width="50%">
+<dl>
 <dt><a href="https://github.com/soderlind/multisite-exporter#readme">Multisite Exporter</a> ⭐ 6</dt>
 <dd>Multisite Exporter is a WordPress plugin that allows you to export content from all subsites in a WordPress multisite installation. The plugin generates WordPress XML (WXR) files by running the WordPress exporter on each subsite in the background using the Action Scheduler library, making it efficient even for large multisite networks.</dd>
 </dl>
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 <dl>
 <dt><a href="https://github.com/soderlind/passwp-posts#readme">PassWP Posts</a> ⭐ 1</dt>
 <dd>A simple password protection plugin for WordPress—no usernames, no accounts, just one shared password. Share the password with those who need access and they're in. Perfect for situations where you need quick, hassle-free access control without user management.</dd>
 </dl>
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 <dl>
 <dt><a href="https://github.com/soderlind/read-offline#readme">Read Offline</a> ⭐ 33</dt>
 <dd>Read Offline allows you to download posts and pages. You can download the post as PDF, ePub and markdown</dd>
 </dl>
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 <dl>
 <dt><a href="https://github.com/soderlind/redis-queue#readme">Redis Queue</a> ⭐ 1</dt>
 <dd>Robust Redis-backed background job processing for WordPress. Provides prioritized, delayed, and retryable jobs with an admin UI, REST API, token-based auth (scopes + rate limiting), and extensibility for custom job types.</dd>
 </dl>
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 <dl>
 <dt><a href="https://github.com/soderlind/super-admin-switch-to-admin#readme">Super Admin Switch To Admin</a> ⭐ 7</dt>
 <dd>If you are logged in as a super admin, this plugin allows you to switch to a regular admin account on the current site.</dd>
 </dl>
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 <dl>
 <dt><a href="https://github.com/soderlind/virtual-media-folders#readme">Virtual Media Folders</a> ⭐ 8</dt>
 <dd>Organize your  WordPress  Media Library with virtual folders. No file moves, no broken URLs. Clean structure, faster workflows, happier editors.  </dd>
 </dl>
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 <dl>
 <dt><a href="https://github.com/soderlind/vmfa-ai-organizer#readme">Virtual Media Folders AI Organizer</a> ⭐ 2</dt>
 <dd>AI-powered media organization add-on for the Virtual Media Folders plugin. Uses vision-capable AI models to analyze actual image content and automatically organize your media library into virtual folders.</dd>
 </dl>
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 <dl>
 <dt><a href="https://github.com/soderlind/vmfa-rules-engine#readme">Virtual Media Folders Rules Engine</a></dt>
 <dd>Rule-based automatic folder assignment for media uploads. Add-on plugin for Virtual Media Folders.</dd>
 </dl>
 </td>
+<td></td>
 </tr>
 </table>
 <!-- plugins ends -->
