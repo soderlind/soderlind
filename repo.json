@@ -54,12 +54,17 @@
 	},
 	{
 		"url": "https://github.com/soderlind/vmfa-ai-organizer",
-		"title": "Virtual Media Folders AI Organizer",
+		"title": "Virtual Media Folders - AI Organizer",
 		"description": ""
 	},
 	{
 		"url": "https://github.com/soderlind/vmfa-rules-engine",
-		"title": "Virtual Media Folders Rules Engine",
+		"title": "Virtual Media Folders - Rules Engine",
+		"description": ""
+	},
+	{
+		"url": "https://github.com/soderlind/vmfa-editorial-workflow",
+		"title": "Virtual Media Folders - Editorial Workflow",
 		"description": ""
 	},
 	{
