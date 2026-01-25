@@ -114,7 +114,7 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install, and
 </td>
 <td valign="top" width="50%">
 <dl>
-<dt><a href="https://github.com/soderlind/vmfa-ai-organizer#readme">Virtual Media Folders AI Organizer</a> ⭐ 2</dt>
+<dt><a href="https://github.com/soderlind/vmfa-ai-organizer#readme">Virtual Media Folders AI Organizer</a> ⭐ 3</dt>
 <dd>AI-powered media organization add-on for the Virtual Media Folders plugin. Uses vision-capable AI models to analyze actual image content and automatically organize your media library into virtual folders.</dd>
 </dl>
 </td>
