@@ -51,7 +51,7 @@ Rule-based automatic folder assignment for media uploads. Add-on plugin for Virt
 <tr>
 <td colspan="2">
 
-### Miscellaneous Plugins
+### Miscellaneous WordPress Plugins
 
 </td>
 </tr>
