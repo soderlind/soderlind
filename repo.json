@@ -24,14 +24,13 @@
 	{
 		"title": "Miscellaneous Plugins",
 		"description": "",
-		"children": []
-	},
-	{
-		"url": "https://github.com/soderlind/wp-loupe",
-		"description": "",
 		"children": [
 			{
 				"url": "https://github.com/soderlind/read-offline",
+				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/wp-loupe",
 				"description": ""
 			},
 			{

@@ -56,15 +56,6 @@ Rule-based automatic folder assignment for media uploads. Add-on plugin for Virt
 </td>
 </tr>
 <tr>
-<td colspan="2">
-
-### <a href="https://github.com/soderlind/wp-loupe#readme">Wp Loupe</a> ⭐ 81
-
-WP Loupe is a powerful search enhancement plugin for WordPress that delivers fast, accurate, and typo-tolerant search results. WP Loupe exposes a developer-friendly API so you can build your own search UI.
-
-</td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/additional-javascript#readme">Additional Javascript</a>** ⭐ 4
@@ -159,6 +150,16 @@ Robust Redis-backed background job processing for WordPress. Provides prioritize
 If you are logged in as a super admin, this plugin allows you to switch to a regular admin account on the current site.
 
 </td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**<a href="https://github.com/soderlind/wp-loupe#readme">Wp Loupe</a>** ⭐ 81
+
+WP Loupe is a powerful search enhancement plugin for WordPress that delivers fast, accurate, and typo-tolerant search results. WP Loupe exposes a developer-friendly API so you can build your own search UI.
+
+</td>
+<td valign="top" width="50%"></td>
 </tr>
 </table>
 
