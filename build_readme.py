@@ -58,7 +58,9 @@ def load_plugins():
 
 def build_markdown(plugins):
 	"""Build the markdown table with parent/child structure."""
-	md_parts = ["<table>"]
+	md_parts = []
+	md_parts.append("")
+	md_parts.append("<table>")
 	
 	for parent in plugins:
 		# Get parent repo info
@@ -71,10 +73,14 @@ def build_markdown(plugins):
 		stars_display = f" ⭐ {parent_stars}" if parent_stars > 0 else ""
 		md_parts.append("<tr>")
 		md_parts.append('<td colspan="2">')
-		md_parts.append(f'<h3>🚀 <a href="{parent["url"]}#readme">{parent_title}</a>{stars_display}</h3>')
+		md_parts.append("")
+		md_parts.append(f'### 🚀 <a href="{parent["url"]}#readme">{parent_title}</a>{stars_display}')
+		md_parts.append("")
 		if parent_desc:
-			md_parts.append(f"<p>{parent_desc}</p>")
-		md_parts.append("<hr>")
+			md_parts.append(f"{parent_desc}")
+			md_parts.append("")
+		md_parts.append("---")
+		md_parts.append("")
 		md_parts.append("</td>")
 		md_parts.append("</tr>")
 		
@@ -93,11 +99,12 @@ def build_markdown(plugins):
 			stars_display = f" ⭐ {child_stars}" if child_stars > 0 else ""
 			
 			md_parts.append('<td valign="top" width="50%">')
-			md_parts.append("<dl>")
-			md_parts.append(f'<dt><a href="{child["url"]}#readme">{child_title}</a>{stars_display}</dt>')
+			md_parts.append("")
+			md_parts.append(f'**<a href="{child["url"]}#readme">{child_title}</a>**{stars_display}')
+			md_parts.append("")
 			if child_desc:
-				md_parts.append(f"<dd>{child_desc}</dd>")
-			md_parts.append("</dl>")
+				md_parts.append(f"{child_desc}")
+				md_parts.append("")
 			md_parts.append("</td>")
 			
 			# Right column (if exists)
@@ -110,11 +117,12 @@ def build_markdown(plugins):
 				stars_display = f" ⭐ {child_stars}" if child_stars > 0 else ""
 				
 				md_parts.append('<td valign="top" width="50%">')
-				md_parts.append("<dl>")
-				md_parts.append(f'<dt><a href="{child["url"]}#readme">{child_title}</a>{stars_display}</dt>')
+				md_parts.append("")
+				md_parts.append(f'**<a href="{child["url"]}#readme">{child_title}</a>**{stars_display}')
+				md_parts.append("")
 				if child_desc:
-					md_parts.append(f"<dd>{child_desc}</dd>")
-				md_parts.append("</dl>")
+					md_parts.append(f"{child_desc}")
+					md_parts.append("")
 				md_parts.append("</td>")
 			else:
 				md_parts.append('<td valign="top" width="50%"></td>')
@@ -122,6 +130,7 @@ def build_markdown(plugins):
 			md_parts.append("</tr>")
 	
 	md_parts.append("</table>")
+	md_parts.append("")
 	return "\n".join(md_parts)
 
 
