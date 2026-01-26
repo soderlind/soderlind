@@ -51,16 +51,16 @@ Rule-based automatic folder assignment for media uploads. Add-on plugin for Virt
 <tr>
 <td colspan="2">
 
-### <a href="https://github.com/soderlind/wp-loupe#readme">Wp Loupe</a> ⭐ 81
-
-WP Loupe is a powerful search enhancement plugin for WordPress that delivers fast, accurate, and typo-tolerant search results. WP Loupe exposes a developer-friendly API so you can build your own search UI.
+### Miscellaneous Plugins
 
 </td>
 </tr>
 <tr>
 <td colspan="2">
 
-### Miscellaneous Plugins
+### <a href="https://github.com/soderlind/wp-loupe#readme">Wp Loupe</a> ⭐ 81
+
+WP Loupe is a powerful search enhancement plugin for WordPress that delivers fast, accurate, and typo-tolerant search results. WP Loupe exposes a developer-friendly API so you can build your own search UI.
 
 </td>
 </tr>

@@ -22,12 +22,12 @@
 		]
 	},
 	{
-		"url": "https://github.com/soderlind/wp-loupe",
+		"title": "Miscellaneous Plugins",
 		"description": "",
 		"children": []
 	},
 	{
-		"title": "Miscellaneous Plugins",
+		"url": "https://github.com/soderlind/wp-loupe",
 		"description": "",
 		"children": [
 			{
