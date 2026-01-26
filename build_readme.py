@@ -1,18 +1,9 @@
-from python_graphql_client import GraphqlClient
-import feedparser
-import tweepy
-import time
 import httpx
 import json
 import pathlib
 import re
-import os
 
 root = pathlib.Path(__file__).parent.resolve()
-client = GraphqlClient(endpoint="https://api.github.com/graphql")
-
-
-TOKEN = os.environ.get("SODERLIND_TOKEN", "")
 
 
 def replace_chunk(content, marker, chunk, inline=False):
@@ -27,75 +18,119 @@ def replace_chunk(content, marker, chunk, inline=False):
 	return r.sub(chunk, content)
 
 
-def make_query(after_cursor=None):
-	return """
-query {
-  viewer {
-	repositories(first: 100, orderBy: {field:PUSHED_AT, direction:DESC}, privacy: PUBLIC, isFork: false,after:AFTER) {
-	  pageInfo {hasNextPage, endCursor}
-	  nodes {
-		name
-		description
-		pushedAt
-		url
-		forkCount
-	  }
-	}
-  }
-}
-""".replace(
-		"AFTER", '"{}"'.format(after_cursor) if after_cursor else "null"
-	)
+def get_repo_info(url):
+	"""Fetch repo info from GitHub API (stars, description)."""
+	# Extract owner/repo from URL
+	parts = url.rstrip('/').split('/')
+	owner, repo = parts[-2], parts[-1]
+	api_url = f"https://api.github.com/repos/{owner}/{repo}"
+	
+	try:
+		response = httpx.get(api_url, timeout=10)
+		if response.status_code == 200:
+			data = response.json()
+			return {
+				"stars": data.get("stargazers_count", 0),
+				"description": data.get("description", ""),
+				"name": data.get("name", repo),
+			}
+	except Exception:
+		pass
+	
+	return {"stars": 0, "description": "", "name": repo}
 
 
-def fetch_plugins(oauth_token):
-	plugins = []
-	has_next_page = True
-	after_cursor = None
+def get_title_from_repo(url, custom_title=None):
+	"""Get display title from custom title or repo name."""
+	if custom_title:
+		return custom_title
+	# Extract repo name and convert to title case
+	repo_name = url.rstrip('/').split('/')[-1]
+	return repo_name.replace('-', ' ').title()
 
-	while has_next_page:
-		data = client.execute(
-			query=make_query(after_cursor),
-			headers={"Authorization": "Bearer {}".format(oauth_token)},
-		)
-		print()
-		print(json.dumps(data, indent=4))
-		print()
-		i = 0
-		# for i, repo in enumerate(data["data"]["viewer"]["repositories"]["nodes"]):
-		for repo in data["data"]["viewer"]["repositories"]["nodes"]:
-			plugin_url = repo["url"] + "/blob/master/" + repo["name"] + ".php"
-			if len(str(repo["description"])) > 4 and httpx.get(plugin_url).status_code == 200:
-				plugins.append(
-					{
-						"repo": repo["name"],
-						"url": repo["url"],
-						"font_format": "**" if i % 2 == 0 else "*",
-						"description": repo["description"].strip(),
-						"pushed_at": repo["pushedAt"],
-						"fork_count": repo["forkCount"],
-					}
-				)
-				i = i+1
-		has_next_page = data["data"]["viewer"]["repositories"]["pageInfo"][
-			"hasNextPage"
-		]
-		after_cursor = data["data"]["viewer"]["repositories"]["pageInfo"]["endCursor"]
-	return plugins
+
+def load_plugins():
+	"""Load plugins from repo.json."""
+	repo_json = root / "repo.json"
+	with repo_json.open() as f:
+		return json.load(f)
+
+
+def build_markdown(plugins):
+	"""Build the markdown table with parent/child structure."""
+	md_parts = ["<table>"]
+	
+	for parent in plugins:
+		# Get parent repo info
+		parent_info = get_repo_info(parent["url"])
+		parent_title = get_title_from_repo(parent["url"], parent.get("title"))
+		parent_desc = parent.get("description") or parent_info["description"]
+		parent_stars = parent_info["stars"]
+		
+		# Parent row (full width)
+		stars_display = f" ⭐ {parent_stars}" if parent_stars > 0 else ""
+		md_parts.append("<tr>")
+		md_parts.append('<td colspan="2">')
+		md_parts.append(f'<h3>🚀 <a href="{parent["url"]}#readme">{parent_title}</a>{stars_display}</h3>')
+		if parent_desc:
+			md_parts.append(f"<p>{parent_desc}</p>")
+		md_parts.append("<hr>")
+		md_parts.append("</td>")
+		md_parts.append("</tr>")
+		
+		# Children in two columns (sorted alphabetically by title)
+		children = parent.get("children", [])
+		children = sorted(children, key=lambda c: get_title_from_repo(c["url"], c.get("title")).lower())
+		for i in range(0, len(children), 2):
+			md_parts.append("<tr>")
+			
+			# Left column
+			child = children[i]
+			child_info = get_repo_info(child["url"])
+			child_title = get_title_from_repo(child["url"], child.get("title"))
+			child_desc = child.get("description") or child_info["description"]
+			child_stars = child_info["stars"]
+			stars_display = f" ⭐ {child_stars}" if child_stars > 0 else ""
+			
+			md_parts.append('<td valign="top" width="50%">')
+			md_parts.append("<dl>")
+			md_parts.append(f'<dt><a href="{child["url"]}#readme">{child_title}</a>{stars_display}</dt>')
+			if child_desc:
+				md_parts.append(f"<dd>{child_desc}</dd>")
+			md_parts.append("</dl>")
+			md_parts.append("</td>")
+			
+			# Right column (if exists)
+			if i + 1 < len(children):
+				child = children[i + 1]
+				child_info = get_repo_info(child["url"])
+				child_title = get_title_from_repo(child["url"], child.get("title"))
+				child_desc = child.get("description") or child_info["description"]
+				child_stars = child_info["stars"]
+				stars_display = f" ⭐ {child_stars}" if child_stars > 0 else ""
+				
+				md_parts.append('<td valign="top" width="50%">')
+				md_parts.append("<dl>")
+				md_parts.append(f'<dt><a href="{child["url"]}#readme">{child_title}</a>{stars_display}</dt>')
+				if child_desc:
+					md_parts.append(f"<dd>{child_desc}</dd>")
+				md_parts.append("</dl>")
+				md_parts.append("</td>")
+			else:
+				md_parts.append('<td valign="top" width="50%"></td>')
+			
+			md_parts.append("</tr>")
+	
+	md_parts.append("</table>")
+	return "\n".join(md_parts)
 
 
 if __name__ == "__main__":
 	readme = root / "README.md"
-	plugins = fetch_plugins(TOKEN)
-	plugins.sort(key=lambda r: r["pushed_at"], reverse=True)
-	md = "\n".join(
-		[
-			"[{font_format}{description}{font_format}]({url}) &nbsp;&nbsp;&nbsp;".format(
-				**plugin)
-			for plugin in plugins[:20]
-		]
-	)
+	plugins = load_plugins()
+	md = build_markdown(plugins)
 	readme_contents = readme.open().read()
 	rewritten = replace_chunk(readme_contents, "plugins", md)
+	readme.open("w").write(rewritten)
 
 	readme.open("w").write(rewritten)

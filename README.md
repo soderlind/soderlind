@@ -14,10 +14,38 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install, and
 <table>
 <tr>
 <td colspan="2">
-
-<h3>🚀 <a href="https://github.com/soderlind/wp-loupe#readme">WP Loupe</a> ⭐ 81</h3>
+<h3>🚀 <a href="https://github.com/soderlind/virtual-media-folders#readme">Virtual Media Folders</a> ⭐ 9</h3>
+<p>Organize your  WordPress  Media Library with virtual folders. No file moves, no broken URLs. Clean structure, faster workflows, happier editors.  </p>
+<hr>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+<dl>
+<dt><a href="https://github.com/soderlind/vmfa-ai-organizer#readme">Virtual Media Folders - AI Organizer</a> ⭐ 4</dt>
+<dd>AI-powered media organization add-on for the Virtual Media Folders plugin. Uses vision-capable AI models to analyze actual image content and automatically organize your media library into virtual folders.</dd>
+</dl>
+</td>
+<td valign="top" width="50%">
+<dl>
+<dt><a href="https://github.com/soderlind/vmfa-editorial-workflow#readme">Virtual Media Folders - Editorial Workflow</a></dt>
+<dd>Role-based folder access, move restrictions, and Inbox workflow for Virtual Media Folders.</dd>
+</dl>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+<dl>
+<dt><a href="https://github.com/soderlind/vmfa-rules-engine#readme">Virtual Media Folders - Rules Engine</a></dt>
+<dd>Rule-based automatic folder assignment for media uploads. Add-on plugin for Virtual Media Folders.</dd>
+</dl>
+</td>
+<td valign="top" width="50%"></td>
+</tr>
+<tr>
+<td colspan="2">
+<h3>🚀 <a href="https://github.com/soderlind/wp-loupe#readme">Wp Loupe</a> ⭐ 81</h3>
 <p>WP Loupe is a powerful search enhancement plugin for WordPress that delivers fast, accurate, and typo-tolerant search results. WP Loupe exposes a developer-friendly API so you can build your own search UI.</p>
-
 <hr>
 </td>
 </tr>
@@ -30,7 +58,7 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install, and
 </td>
 <td valign="top" width="50%">
 <dl>
-<dt><a href="https://github.com/soderlind/ai-alt-text#readme">AI Alt Text</a> ⭐ 1</dt>
+<dt><a href="https://github.com/soderlind/ai-alt-text#readme">Ai Alt Text</a> ⭐ 1</dt>
 <dd>Generate alt text for images using AI. Supports multiple AI providers including OpenAI, Claude, Gemini, Ollama, Azure OpenAI, and Grok.</dd>
 </dl>
 </td>
@@ -80,7 +108,7 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install, and
 <tr>
 <td valign="top" width="50%">
 <dl>
-<dt><a href="https://github.com/soderlind/passwp-posts#readme">PassWP Posts</a> ⭐ 1</dt>
+<dt><a href="https://github.com/soderlind/passwp-posts#readme">Passwp Posts</a> ⭐ 1</dt>
 <dd>A simple password protection plugin for WordPress—no usernames, no accounts, just one shared password. Share the password with those who need access and they're in. Perfect for situations where you need quick, hassle-free access control without user management.</dd>
 </dl>
 </td>
@@ -102,34 +130,6 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install, and
 <dl>
 <dt><a href="https://github.com/soderlind/super-admin-switch-to-admin#readme">Super Admin Switch To Admin</a> ⭐ 7</dt>
 <dd>If you are logged in as a super admin, this plugin allows you to switch to a regular admin account on the current site.</dd>
-</dl>
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-<dl>
-<dt><a href="https://github.com/soderlind/virtual-media-folders#readme">Virtual Media Folders</a> ⭐ 9</dt>
-<dd>Organize your  WordPress  Media Library with virtual folders. No file moves, no broken URLs. Clean structure, faster workflows, happier editors.  </dd>
-</dl>
-</td>
-<td valign="top" width="50%">
-<dl>
-<dt><a href="https://github.com/soderlind/vmfa-ai-organizer#readme">Virtual Media Folders - AI Organizer</a> ⭐ 4</dt>
-<dd>AI-powered media organization add-on for the Virtual Media Folders plugin. Uses vision-capable AI models to analyze actual image content and automatically organize your media library into virtual folders.</dd>
-</dl>
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-<dl>
-<dt><a href="https://github.com/soderlind/vmfa-editorial-workflow#readme">Virtual Media Folders - Editorial Workflow</a></dt>
-<dd>Role-based folder access, move restrictions, and Inbox workflow for Virtual Media Folders.</dd>
-</dl>
-</td>
-<td valign="top" width="50%">
-<dl>
-<dt><a href="https://github.com/soderlind/vmfa-rules-engine#readme">Virtual Media Folders - Rules Engine</a></dt>
-<dd>Rule-based automatic folder assignment for media uploads. Add-on plugin for Virtual Media Folders.</dd>
 </dl>
 </td>
 </tr>

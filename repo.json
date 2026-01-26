@@ -1,75 +1,79 @@
 [
 	{
-		"url": "https://github.com/soderlind/additional-javascript",
-		"description": ""
-	},
-	{
-		"url": "https://github.com/soderlind/ai-alt-text",
-		"description": ""
-	},
-	{
-		"url": "https://github.com/soderlind/all-sites-cron",
-		"description": ""
-	},
-	{
-		"url": "https://github.com/soderlind/content-poll",
-		"description": ""
-	},
-	{
-		"url": "https://github.com/soderlind/custom-document-folder",
-		"description": ""
-	},
-	{
-		"url": "https://github.com/soderlind/editor-can-manage-privacy-options",
-		"description": ""
-	},
-	{
-		"url": "https://github.com/soderlind/multisite-exporter",
-		"description": ""
-	},
-	{
-		"url": "https://github.com/soderlind/read-offline",
-		"description": ""
-	},
-	{
-		"url": "https://github.com/soderlind/redis-queue",
-		"description": ""
-	},
-	{
-		"url": "https://github.com/soderlind/super-admin-switch-to-admin",
-		"description": ""
-	},
-	{
 		"url": "https://github.com/soderlind/virtual-media-folders",
-		"description": ""
+		"title": "Virtual Media Folders",
+		"description": "",
+		"children": [
+			{
+				"url": "https://github.com/soderlind/vmfa-ai-organizer",
+				"title": "Virtual Media Folders - AI Organizer",
+				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/vmfa-rules-engine",
+				"title": "Virtual Media Folders - Rules Engine",
+				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/vmfa-editorial-workflow",
+				"title": "Virtual Media Folders - Editorial Workflow",
+				"description": ""
+			}
+		]
 	},
 	{
 		"url": "https://github.com/soderlind/wp-loupe",
 		"description": "",
-		"promoted": true
-	},
-	{
-		"url": "https://github.com/soderlind/passwp-posts",
-		"description": ""
-	},
-	{
-		"url": "https://github.com/soderlind/vmfa-ai-organizer",
-		"title": "Virtual Media Folders - AI Organizer",
-		"description": ""
-	},
-	{
-		"url": "https://github.com/soderlind/vmfa-rules-engine",
-		"title": "Virtual Media Folders - Rules Engine",
-		"description": ""
-	},
-	{
-		"url": "https://github.com/soderlind/vmfa-editorial-workflow",
-		"title": "Virtual Media Folders - Editorial Workflow",
-		"description": ""
-	},
-	{
-		"url": "https://github.com/soderlind/gf-html-area-editor",
-		"title": "Gravity Forms HTML Area Editor",
-		"description": ""
+		"children": [
+			{
+				"url": "https://github.com/soderlind/read-offline",
+				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/gf-html-area-editor",
+				"title": "Gravity Forms HTML Area Editor",
+				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/super-admin-switch-to-admin",
+				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/all-sites-cron",
+				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/ai-alt-text",
+				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/content-poll",
+				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/custom-document-folder",
+				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/editor-can-manage-privacy-options",
+				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/redis-queue",
+				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/passwp-posts",
+				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/multisite-exporter",
+				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/additional-javascript",
+				"description": ""
+			}
+		]
 	}
 ]
