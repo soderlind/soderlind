@@ -1,9 +1,12 @@
 [
 	{
-		"url": "https://github.com/soderlind/virtual-media-folders",
 		"title": "Virtual Media Folders",
-		"description": "",
+		"description": "Virtual Media Folders brings folder organization to your WordPress Media Library. Organize your media files into hierarchical folders <strong>without moving files on disk</strong>. Folders are virtual, so your URLs never change.",
 		"children": [
+			{
+				"url": "https://github.com/soderlind/virtual-media-folders",
+				"title": "Virtual Media Folders"
+			},
 			{
 				"url": "https://github.com/soderlind/vmfa-ai-organizer",
 				"title": "Virtual Media Folders - AI Organizer",

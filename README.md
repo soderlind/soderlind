@@ -16,13 +16,20 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install, and
 <tr>
 <td colspan="2">
 
-### <a href="https://github.com/soderlind/virtual-media-folders#readme">Virtual Media Folders</a> ⭐ 9
+### Virtual Media Folders
 
-Organize your  WordPress  Media Library with virtual folders. No file moves, no broken URLs. Clean structure, faster workflows, happier editors.  
+Virtual Media Folders brings folder organization to your WordPress Media Library. Organize your media files into hierarchical folders <strong>without moving files on disk</strong>. Folders are virtual, so your URLs never change.
 
 </td>
 </tr>
 <tr>
+<td valign="top" width="50%">
+
+**<a href="https://github.com/soderlind/virtual-media-folders#readme">Virtual Media Folders</a>** ⭐ 9
+
+Organize your  WordPress  Media Library with virtual folders. No file moves, no broken URLs. Clean structure, faster workflows, happier editors.  
+
+</td>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/vmfa-ai-organizer#readme">Virtual Media Folders - AI Organizer</a>** ⭐ 4
@@ -30,6 +37,8 @@ Organize your  WordPress  Media Library with virtual folders. No file moves, no 
 AI-powered media organization add-on for the Virtual Media Folders plugin. Uses vision-capable AI models to analyze actual image content and automatically organize your media library into virtual folders.
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/vmfa-editorial-workflow#readme">Virtual Media Folders - Editorial Workflow</a>**
@@ -37,8 +46,6 @@ AI-powered media organization add-on for the Virtual Media Folders plugin. Uses 
 Role-based folder access, move restrictions, and Inbox workflow for Virtual Media Folders.
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/vmfa-rules-engine#readme">Virtual Media Folders - Rules Engine</a>**
@@ -46,7 +53,6 @@ Role-based folder access, move restrictions, and Inbox workflow for Virtual Medi
 Rule-based automatic folder assignment for media uploads. Add-on plugin for Virtual Media Folders.
 
 </td>
-<td valign="top" width="50%"></td>
 </tr>
 <tr>
 <td colspan="2">
