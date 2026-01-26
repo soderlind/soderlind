@@ -16,11 +16,9 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install, and
 <tr>
 <td colspan="2">
 
-### 🚀 <a href="https://github.com/soderlind/virtual-media-folders#readme">Virtual Media Folders</a> ⭐ 9
+### <a href="https://github.com/soderlind/virtual-media-folders#readme">Virtual Media Folders</a> ⭐ 9
 
 Organize your  WordPress  Media Library with virtual folders. No file moves, no broken URLs. Clean structure, faster workflows, happier editors.  
-
----
 
 </td>
 </tr>
@@ -53,11 +51,16 @@ Rule-based automatic folder assignment for media uploads. Add-on plugin for Virt
 <tr>
 <td colspan="2">
 
-### 🚀 <a href="https://github.com/soderlind/wp-loupe#readme">Wp Loupe</a> ⭐ 81
+### <a href="https://github.com/soderlind/wp-loupe#readme">Wp Loupe</a> ⭐ 81
 
 WP Loupe is a powerful search enhancement plugin for WordPress that delivers fast, accurate, and typo-tolerant search results. WP Loupe exposes a developer-friendly API so you can build your own search UI.
 
----
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### Miscellaneous Plugins
 
 </td>
 </tr>

@@ -2,8 +2,10 @@ import httpx
 import json
 import pathlib
 import re
+import os
 
 root = pathlib.Path(__file__).parent.resolve()
+TOKEN = os.environ.get("SODERLIND_TOKEN", "")
 
 
 def replace_chunk(content, marker, chunk, inline=False):
@@ -25,8 +27,12 @@ def get_repo_info(url):
 	owner, repo = parts[-2], parts[-1]
 	api_url = f"https://api.github.com/repos/{owner}/{repo}"
 	
+	headers = {}
+	if TOKEN:
+		headers["Authorization"] = f"Bearer {TOKEN}"
+	
 	try:
-		response = httpx.get(api_url, timeout=10)
+		response = httpx.get(api_url, timeout=10, headers=headers)
 		if response.status_code == 200:
 			data = response.json()
 			return {
@@ -63,24 +69,31 @@ def build_markdown(plugins):
 	md_parts.append("<table>")
 	
 	for parent in plugins:
-		# Get parent repo info
-		parent_info = get_repo_info(parent["url"])
-		parent_title = get_title_from_repo(parent["url"], parent.get("title"))
-		parent_desc = parent.get("description") or parent_info["description"]
-		parent_stars = parent_info["stars"]
+		# Get parent repo info (only if URL exists)
+		parent_url = parent.get("url")
+		if parent_url:
+			parent_info = get_repo_info(parent_url)
+			parent_title = get_title_from_repo(parent_url, parent.get("title"))
+			parent_desc = parent.get("description") or parent_info["description"]
+			parent_stars = parent_info["stars"]
+		else:
+			parent_title = parent.get("title", "Plugins")
+			parent_desc = parent.get("description", "")
+			parent_stars = 0
 		
 		# Parent row (full width)
 		stars_display = f" ⭐ {parent_stars}" if parent_stars > 0 else ""
 		md_parts.append("<tr>")
 		md_parts.append('<td colspan="2">')
 		md_parts.append("")
-		md_parts.append(f'### 🚀 <a href="{parent["url"]}#readme">{parent_title}</a>{stars_display}')
+		if parent_url:
+			md_parts.append(f'### <a href="{parent_url}#readme">{parent_title}</a>{stars_display}')
+		else:
+			md_parts.append(f'### {parent_title}')
 		md_parts.append("")
 		if parent_desc:
 			md_parts.append(f"{parent_desc}")
 			md_parts.append("")
-		md_parts.append("---")
-		md_parts.append("")
 		md_parts.append("</td>")
 		md_parts.append("</tr>")
 		
