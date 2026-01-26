@@ -26,8 +26,8 @@ jobs:
 
       - name: Update README
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python update_plugins_readme.py
+          SODERLIND_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python build_readme.py
 
       - name: Commit & Push
         run: |
