@@ -159,7 +159,7 @@ If you are logged in as a super admin, this plugin allows you to switch to a reg
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/wp-loupe#readme">Wp Loupe</a>** ⭐ 81
+**<a href="https://github.com/soderlind/wp-loupe#readme">WP Loupe</a>** ⭐ 81
 
 WP Loupe is a powerful search enhancement plugin for WordPress that delivers fast, accurate, and typo-tolerant search results. WP Loupe exposes a developer-friendly API so you can build your own search UI.
 
