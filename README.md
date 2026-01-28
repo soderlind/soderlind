@@ -26,7 +26,7 @@ Virtual Media Folders brings folder organization to your WordPress Media Library
 
 **<a href="https://github.com/soderlind/virtual-media-folders#readme">Virtual Media Folders</a>** ⭐ 9
 
-Organize your  WordPress  Media Library with virtual folders. No file moves, no broken URLs. Clean structure, faster workflows, happier editors.  
+Also available on <a href="https://wordpress.org/plugins/virtual-media-folders/" target="_blank">WordPress.org</a>.
 
 </td>
 <td valign="top" width="50%">

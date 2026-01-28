@@ -5,7 +5,8 @@
 		"children": [
 			{
 				"url": "https://github.com/soderlind/virtual-media-folders",
-				"title": "Virtual Media Folders"
+				"title": "Virtual Media Folders",
+				"description": "Also available on <a href=\"https://wordpress.org/plugins/virtual-media-folders/\" target=\"_blank\">WordPress.org</a>."
 			},
 			{
 				"url": "https://github.com/soderlind/vmfa-ai-organizer",
