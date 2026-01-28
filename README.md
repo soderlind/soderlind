@@ -192,7 +192,7 @@ I made the [WordPress Development — Copilot Instructions](https://github.com/g
   <td valign="top">
 	<dl>
 	  <dt><a href="https://github.com/soderlind/wp-fotokopilot">WP FotoKopilot</a></dt>
-	  <dd><i>I did this as a PoC, testing GitHub Copilot SDK</i>. WP FotoKopilot is a cross-platform Electron desktop app that connects to WordPress sites via the REST API, scans the media library, and generates missing (or improved) alt text using the GitHub Copilot SDK. Optionally organizes media into Virtual Media Folders (VMF).</dd>
+	  <dd>(<i>I did this as a PoC, testing GitHub Copilot SDK</i>). WP FotoKopilot is a cross-platform Electron desktop app that connects to WordPress sites via the REST API, scans the media library, and generates missing (or improved) alt text using the GitHub Copilot SDK. Optionally organizes media into Virtual Media Folders (VMF).</dd>
 	</dl>  
   </td>
   </tr>
