@@ -84,5 +84,19 @@
 				"description": ""
 			}
 		]
+	},
+	{
+		"title": "AI Experiments",
+		"description": "Very beta projects exploring the use of AI in WordPress.",
+		"children": [
+			{
+				"url": "https://github.com/soderlind/admin-coach-tours",
+				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/ps-design-system",
+				"description": ""
+			}
+		]
 	}
 ]

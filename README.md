@@ -166,6 +166,31 @@ WP Loupe is a powerful search enhancement plugin for WordPress that delivers fas
 </td>
 <td valign="top" width="50%"></td>
 </tr>
+<tr>
+<td colspan="2">
+
+### AI Experiments
+
+Very beta projects exploring the use of AI in WordPress.
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**<a href="https://github.com/soderlind/admin-coach-tours#readme">Admin Coach Tours</a>**
+
+AI-powered interactive tutorials for the WordPress block editor.
+
+</td>
+<td valign="top" width="50%">
+
+**<a href="https://github.com/soderlind/ps-design-system#readme">Ps Design System</a>**
+
+Extract design systems from WordPress themes using deterministic parsing and AI synthesis.
+
+</td>
+</tr>
 </table>
 
 <!-- plugins ends -->
