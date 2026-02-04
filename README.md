@@ -70,7 +70,7 @@ Use WordPress Customizer to add JavaScript
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/ai-alt-text#readme">Ai Alt Text</a>** ⭐ 1
+**<a href="https://github.com/soderlind/ai-alt-text#readme">AI Alt Text</a>** ⭐ 1
 
 Generate alt text for images using AI. Supports multiple AI providers including OpenAI, Claude, Gemini, Ollama, Azure OpenAI, and Grok.
 
