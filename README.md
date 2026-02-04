@@ -169,7 +169,7 @@ WP Loupe is a powerful search enhancement plugin for WordPress that delivers fas
 <tr>
 <td colspan="2">
 
-### AI Experiments
+### :construction: AI Experiments
 
 Very beta projects exploring the use of AI in WordPress.
 
