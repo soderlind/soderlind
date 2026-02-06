@@ -22,6 +22,11 @@
 				"url": "https://github.com/soderlind/vmfa-editorial-workflow",
 				"title": "Virtual Media Folders - Editorial Workflow",
 				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/vmfa-media-cleanup",
+				"title": "Virtual Media Folders - Media Cleanup",
+				"description": ""
 			}
 		]
 	},
