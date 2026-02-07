@@ -47,7 +47,7 @@ Role-based folder access, move restrictions, and Inbox workflow for Virtual Medi
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/vmfa-media-cleanup#readme">Virtual Media Folders - Media Cleanup</a>**
+**<a href="https://github.com/soderlind/vmfa-media-cleanup#readme">Virtual Media Folders - Media Cleanup</a>** ⭐ 1
 
 Add-on for Virtual Media Folders that helps you find and manage unused, duplicate, and oversized media in your WordPress library.
 
