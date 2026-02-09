@@ -188,7 +188,7 @@ Very beta projects exploring the use of AI in WordPress.
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/admin-coach-tours#readme">Admin Coach Tours</a>**
+**<a href="https://github.com/soderlind/admin-coach-tours#readme">Admin Coach Tours</a>** ⭐ 2
 
 AI-powered interactive tutorials for the WordPress block editor.
 
