@@ -137,7 +137,7 @@ Multisite Exporter is a WordPress plugin that allows you to export content from 
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/passwp-posts#readme">Passwp Posts</a>** ⭐ 1
+**<a href="https://github.com/soderlind/passwp-posts#readme">PassWP - Posts</a>** ⭐ 1
 
 A simple password protection plugin for WordPress—no usernames, no accounts, just one shared password. Share the password with those who need access and they're in. Perfect for situations where you need quick, hassle-free access control without user management.
 
