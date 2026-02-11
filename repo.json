@@ -31,7 +31,7 @@
 			{
 				"url": "https://github.com/soderlind/vmfa-folder-exporter",
 				"title": "Virtual Media Folders - Folder Exporter",
-				"description": ""
+				"description": "Export folders (or subtrees) as ZIP archives with optional CSV manifests."
 			}
 		]
 	},

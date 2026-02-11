@@ -49,7 +49,7 @@ Role-based folder access, move restrictions, and Inbox workflow for Virtual Medi
 
 **<a href="https://github.com/soderlind/vmfa-folder-exporter#readme">Virtual Media Folders - Folder Exporter</a>**
 
-Add-on for Virtual Media Folders that lets you export folders (or subtrees) as ZIP archives with optional CSV manifests.
+Export folders (or subtrees) as ZIP archives with optional CSV manifests.
 
 </td>
 </tr>
