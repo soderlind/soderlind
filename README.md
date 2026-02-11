@@ -47,13 +47,20 @@ Role-based folder access, move restrictions, and Inbox workflow for Virtual Medi
 </td>
 <td valign="top" width="50%">
 
+**<a href="https://github.com/soderlind/vmfa-folder-exporter#readme">Virtual Media Folders - Folder Exporter</a>**
+
+Add-on for Virtual Media Folders that lets you export folders (or subtrees) as ZIP archives with optional CSV manifests.
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
 **<a href="https://github.com/soderlind/vmfa-media-cleanup#readme">Virtual Media Folders - Media Cleanup</a>** ⭐ 1
 
 Add-on for Virtual Media Folders that helps you find and manage unused, duplicate, and oversized media in your WordPress library.
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/vmfa-rules-engine#readme">Virtual Media Folders - Rules Engine</a>**
@@ -61,7 +68,6 @@ Add-on for Virtual Media Folders that helps you find and manage unused, duplicat
 Rule-based automatic folder assignment for media uploads. Add-on plugin for Virtual Media Folders.
 
 </td>
-<td valign="top" width="50%"></td>
 </tr>
 <tr>
 <td colspan="2">

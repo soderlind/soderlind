@@ -27,6 +27,11 @@
 				"url": "https://github.com/soderlind/vmfa-media-cleanup",
 				"title": "Virtual Media Folders - Media Cleanup",
 				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/vmfa-folder-exporter",
+				"title": "Virtual Media Folders - Folder Exporter",
+				"description": ""
 			}
 		]
 	},
