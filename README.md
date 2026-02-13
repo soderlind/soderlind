@@ -24,20 +24,27 @@ Virtual Media Folders brings folder organization to your WordPress Media Library
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/virtual-media-folders#readme">Virtual Media Folders</a>** ⭐ 9
+**<a href="https://github.com/soderlind/virtual-media-folders#readme">Virtual Media Folders</a>**
 
 Also available on <a href="https://wordpress.org/plugins/virtual-media-folders/" target="_blank">WordPress.org</a>.
 
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/vmfa-ai-organizer#readme">Virtual Media Folders - AI Organizer</a>** ⭐ 4
+**<a href="https://github.com/soderlind/vmfa#readme">Virtual Media Folders - Add-On Manager</a>**
 
-Uses vision-capable AI models to analyze actual image content and automatically organize your media library into virtual folders. This is add-on functionality requiring an API key from a supported AI service provider, or a local LLM.
+🚀 Install and manage add-ons that extend Virtual Media Folders.
 
 </td>
 </tr>
 <tr>
+<td valign="top" width="50%">
+
+**<a href="https://github.com/soderlind/vmfa-ai-organizer#readme">Virtual Media Folders - AI Organizer</a>**
+
+Uses vision-capable AI models to analyze actual image content and automatically organize your media library into virtual folders. This is add-on functionality requiring an API key from a supported AI service provider, or a local LLM.
+
+</td>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/vmfa-editorial-workflow#readme">Virtual Media Folders - Editorial Workflow</a>**
@@ -45,6 +52,8 @@ Uses vision-capable AI models to analyze actual image content and automatically 
 Role-based folder access, move restrictions, and Inbox workflow for Virtual Media Folders.
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/vmfa-folder-exporter#readme">Virtual Media Folders - Folder Exporter</a>**
@@ -52,29 +61,20 @@ Role-based folder access, move restrictions, and Inbox workflow for Virtual Medi
 Export folders (or subtrees) as ZIP archives with optional CSV manifests.
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/vmfa-media-cleanup#readme">Virtual Media Folders - Media Cleanup</a>** ⭐ 1
+**<a href="https://github.com/soderlind/vmfa-media-cleanup#readme">Virtual Media Folders - Media Cleanup</a>**
 
 Tools to identify and clean up unused or duplicate media files.
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/vmfa-rules-engine#readme">Virtual Media Folders - Rules Engine</a>**
 
 Rule-based automatic folder assignment for media uploads, based on metadata, file type, or other criteria. 
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**<a href="https://github.com/soderlind/vmfa#readme">🚀 Virtual Media Folders - Add-On Manager</a>**
-
-Install and manage add-ons that extend Virtual Media Folders. 
 
 </td>
 <td valign="top" width="50%"></td>
@@ -89,64 +89,48 @@ Install and manage add-ons that extend Virtual Media Folders.
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/additional-javascript#readme">Additional Javascript</a>** ⭐ 4
-
-Use WordPress Customizer to add JavaScript
+**<a href="https://github.com/soderlind/additional-javascript#readme">Additional Javascript</a>**
 
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/ai-alt-text#readme">AI Alt Text</a>** ⭐ 1
-
-Generate alt text for images using AI. Supports multiple AI providers including OpenAI, Claude, Gemini, Ollama, Azure OpenAI, and Grok.
+**<a href="https://github.com/soderlind/ai-alt-text#readme">AI Alt Text</a>**
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/all-sites-cron#readme">All Sites Cron</a>** ⭐ 7
-
-Run wp-cron on all public sites in a multisite network
+**<a href="https://github.com/soderlind/all-sites-cron#readme">All Sites Cron</a>**
 
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/content-poll#readme">Content Poll</a>** ⭐ 2
-
-A modern, accessible polling block that lets visitors vote on questions about your content. Generate the poll using AI. Supports multiple AI providers including OpenAI, Claude, Gemini, Ollama, Azure OpenAI, and Grok.
+**<a href="https://github.com/soderlind/content-poll#readme">Content Poll</a>**
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/custom-document-folder#readme">Custom Document Folder</a>** ⭐ 3
-
-Organize document uploads by automatically directing specific file types to custom folders based on their extensions.
+**<a href="https://github.com/soderlind/custom-document-folder#readme">Custom Document Folder</a>**
 
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/editor-can-manage-privacy-options#readme">Editor Can Manage Privacy Options</a>** ⭐ 1
-
-A lightweight WordPress plugin that grants the Editor role access to manage site Privacy Settings — capabilities normally restricted to Administrators.
+**<a href="https://github.com/soderlind/editor-can-manage-privacy-options#readme">Editor Can Manage Privacy Options</a>**
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/gf-html-area-editor#readme">Gravity Forms HTML Area Editor</a>** ⭐ 1
-
-Adds a rich text editor (TinyMCE) to the Gravity Forms HTML field content setting, replacing the default plain textarea.
+**<a href="https://github.com/soderlind/gf-html-area-editor#readme">Gravity Forms HTML Area Editor</a>**
 
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/multisite-exporter#readme">Multisite Exporter</a>** ⭐ 6
-
-Multisite Exporter is a WordPress plugin that allows you to export content from all subsites in a WordPress multisite installation. The plugin generates WordPress XML (WXR) files by running the WordPress exporter on each subsite in the background using the Action Scheduler library, making it efficient even for large multisite networks.
+**<a href="https://github.com/soderlind/multisite-exporter#readme">Multisite Exporter</a>**
 
 </td>
 </tr>
