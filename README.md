@@ -153,31 +153,41 @@ Multisite Exporter is a WordPress plugin that allows you to export content from 
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/passwp-posts#readme">PassWP - Posts</a>**
+**<a href="https://github.com/soderlind/passwp-posts#readme">PassWP - Posts</a>** ⭐ 1
+
+A simple password protection plugin for WordPress—no usernames, no accounts, just one shared password. Share the password with those who need access and they're in. Perfect for situations where you need quick, hassle-free access control without user management.
 
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/read-offline#readme">Read Offline</a>**
+**<a href="https://github.com/soderlind/read-offline#readme">Read Offline</a>** ⭐ 33
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**<a href="https://github.com/soderlind/redis-queue#readme">Redis Queue</a>**
-
-</td>
-<td valign="top" width="50%">
-
-**<a href="https://github.com/soderlind/super-admin-switch-to-admin#readme">Super Admin Switch To Admin</a>**
+Read Offline allows you to download posts and pages. You can download the post as PDF, ePub and markdown
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/wp-loupe#readme">WP Loupe</a>**
+**<a href="https://github.com/soderlind/redis-queue#readme">Redis Queue</a>** ⭐ 1
+
+Robust Redis-backed background job processing for WordPress. Provides prioritized, delayed, and retryable jobs with an admin UI, REST API, token-based auth (scopes + rate limiting), and extensibility for custom job types.
+
+</td>
+<td valign="top" width="50%">
+
+**<a href="https://github.com/soderlind/super-admin-switch-to-admin#readme">Super Admin Switch To Admin</a>** ⭐ 7
+
+If you are logged in as a super admin, this plugin allows you to switch to a regular admin account on the current site.
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**<a href="https://github.com/soderlind/wp-loupe#readme">WP Loupe</a>** ⭐ 81
+
+WP Loupe is a powerful search enhancement plugin for WordPress that delivers fast, accurate, and typo-tolerant search results. WP Loupe exposes a developer-friendly API so you can build your own search UI.
 
 </td>
 <td valign="top" width="50%"></td>
@@ -194,12 +204,16 @@ Very beta projects exploring the use of AI in WordPress.
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/admin-coach-tours#readme">Admin Coach Tours</a>**
+**<a href="https://github.com/soderlind/admin-coach-tours#readme">Admin Coach Tours</a>** ⭐ 3
+
+AI-powered interactive tutorials for the WordPress block editor.
 
 </td>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/ps-design-system#readme">PS Design System</a>**
+
+Extract design systems from WordPress themes using deterministic parsing and AI synthesis.
 
 </td>
 </tr>
