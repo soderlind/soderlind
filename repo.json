@@ -9,6 +9,11 @@
 				"description": "Also available on <a href=\"https://wordpress.org/plugins/virtual-media-folders/\" target=\"_blank\">WordPress.org</a>."
 			},
 			{
+				"url": "https://github.com/soderlind/vmfa",
+				"title": "Virtual Media Folders - Add-On Manager",
+				"description": ""
+			},
+			{
 				"url": "https://github.com/soderlind/vmfa-ai-organizer",
 				"title": "Virtual Media Folders - AI Organizer",
 				"description": "Uses vision-capable AI models to analyze actual image content and automatically organize your media library into virtual folders. This is add-on functionality requiring an API key from a supported AI service provider, or a local LLM."
