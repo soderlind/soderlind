@@ -24,14 +24,14 @@ Virtual Media Folders brings folder organization to your WordPress Media Library
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/virtual-media-folders#readme">Virtual Media Folders</a>** ⭐ 9
+**<a href="https://github.com/soderlind/virtual-media-folders#readme">Virtual Media Folders</a>** ⭐ 10
 
 Also available on <a href="https://wordpress.org/plugins/virtual-media-folders/" target="_blank">WordPress.org</a>.
 
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/vmfa#readme">Virtual Media Folders - Add-On Manager</a>**
+**<a href="https://github.com/soderlind/vmfa#readme">Virtual Media Folders - Add-On Manager</a>** ⭐ 2
 
 🚀 <b>Install and manage add-ons that extend Virtual Media Folders.</b>
 
