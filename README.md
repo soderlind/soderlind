@@ -217,6 +217,16 @@ Extract design systems from WordPress themes using deterministic parsing and AI 
 
 </td>
 </tr>
+<tr>
+<td valign="top" width="50%">
+
+**<a href="https://github.com/soderlind/talking-head#readme">Talking Head</a>**
+
+Talking Head lets you write multi-speaker conversations in the WordPress block editor, then generate podcast-quality audio using AI text-to-speech. Each speaker ("head") gets their own voice, and the plugin stitches the segments together into a single audio file with configurable silence gaps.
+
+</td>
+<td valign="top" width="50%"></td>
+</tr>
 </table>
 
 <!-- plugins ends -->
