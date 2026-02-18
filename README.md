@@ -185,7 +185,7 @@ If you are logged in as a super admin, this plugin allows you to switch to a reg
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/talking-head#readme">Talking Head</a>**
+**<a href="https://github.com/soderlind/talking-head#readme">Talking Head 🗣️</a>**
 
 Talking Head lets you write multi-speaker conversations in the WordPress block editor, then generate podcast-quality audio using AI text-to-speech. Each speaker ("head") gets their own voice, and the plugin stitches the segments together into a single audio file with configurable silence gaps.
 
