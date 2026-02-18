@@ -185,12 +185,18 @@ If you are logged in as a super admin, this plugin allows you to switch to a reg
 <tr>
 <td valign="top" width="50%">
 
+**<a href="https://github.com/soderlind/talking-head#readme">Talking Head</a>**
+
+Talking Head lets you write multi-speaker conversations in the WordPress block editor, then generate podcast-quality audio using AI text-to-speech. Each speaker ("head") gets their own voice, and the plugin stitches the segments together into a single audio file with configurable silence gaps.
+
+</td>
+<td valign="top" width="50%">
+
 **<a href="https://github.com/soderlind/wp-loupe#readme">WP Loupe</a>** ⭐ 82
 
 WP Loupe is a powerful search enhancement plugin for WordPress that delivers fast, accurate, and typo-tolerant search results. WP Loupe exposes a developer-friendly API so you can build your own search UI.
 
 </td>
-<td valign="top" width="50%"></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -216,16 +222,6 @@ AI-powered interactive tutorials for the WordPress block editor.
 Extract design systems from WordPress themes using deterministic parsing and AI synthesis.
 
 </td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**<a href="https://github.com/soderlind/talking-head#readme">Talking Head</a>**
-
-Talking Head lets you write multi-speaker conversations in the WordPress block editor, then generate podcast-quality audio using AI text-to-speech. Each speaker ("head") gets their own voice, and the plugin stitches the segments together into a single audio file with configurable silence gaps.
-
-</td>
-<td valign="top" width="50%"></td>
 </tr>
 </table>
 

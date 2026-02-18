@@ -99,6 +99,11 @@
 			{
 				"url": "https://github.com/soderlind/additional-javascript",
 				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/talking-head",
+				"title": "Talking Head",
+				"description": ""
 			}
 		]
 	},
@@ -113,11 +118,6 @@
 			{
 				"url": "https://github.com/soderlind/ps-design-system",
 				"title": "PS Design System",
-				"description": ""
-			},
-			{
-				"url": "https://github.com/soderlind/talking-head",
-				"title": "Talking Head",
 				"description": ""
 			}
 		]
