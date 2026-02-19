@@ -112,7 +112,7 @@ Run wp-cron on all public sites in a multisite network
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/cm-beautiful#readme">Cm Beautiful</a>**
+**<a href="https://github.com/soderlind/cm-beautiful#readme">Color Me Beautiful</a>**
 
 Personalise the WordPress admin with your own accent colour.
 
