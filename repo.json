@@ -41,6 +41,24 @@
 		]
 	},
 	{
+		"title": "WordPress Multisite Plugins",
+		"description": "",
+		"children": [
+			{
+				"url": "https://github.com/soderlind/super-admin-switch-to-admin",
+				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/all-sites-cron",
+				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/multisite-exporter",
+				"description": ""
+			}
+		]
+	},
+	{
 		"title": "Miscellaneous WordPress Plugins",
 		"description": "",
 		"children": [
@@ -56,14 +74,6 @@
 			{
 				"url": "https://github.com/soderlind/gf-html-area-editor",
 				"title": "Gravity Forms HTML Area Editor",
-				"description": ""
-			},
-			{
-				"url": "https://github.com/soderlind/super-admin-switch-to-admin",
-				"description": ""
-			},
-			{
-				"url": "https://github.com/soderlind/all-sites-cron",
 				"description": ""
 			},
 			{
@@ -90,10 +100,6 @@
 			{
 				"url": "https://github.com/soderlind/passwp-posts",
 				"title": "PassWP - Posts",
-				"description": ""
-			},
-			{
-				"url": "https://github.com/soderlind/multisite-exporter",
 				"description": ""
 			},
 			{

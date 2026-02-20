@@ -24,14 +24,14 @@ Virtual Media Folders brings folder organization to your WordPress Media Library
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/virtual-media-folders#readme">Virtual Media Folders</a>** ⭐ 11
+**<a href="https://github.com/soderlind/virtual-media-folders#readme">Virtual Media Folders</a>** ⭐ 12
 
 Also available on <a href="https://wordpress.org/plugins/virtual-media-folders/" target="_blank">WordPress.org</a>.
 
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/vmfa#readme">Virtual Media Folders - Add-On Manager</a>** ⭐ 2
+**<a href="https://github.com/soderlind/vmfa#readme">Virtual Media Folders - Add-On Manager</a>** ⭐ 3
 
 🚀 <b>Install and manage add-ons that extend Virtual Media Folders.</b>
 
@@ -63,7 +63,7 @@ Export folders (or subtrees) as ZIP archives with optional CSV manifests.
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/vmfa-media-cleanup#readme">Virtual Media Folders - Media Cleanup</a>** ⭐ 1
+**<a href="https://github.com/soderlind/vmfa-media-cleanup#readme">Virtual Media Folders - Media Cleanup</a>** ⭐ 2
 
 Tools to identify and clean up unused or duplicate media files.
 
@@ -75,6 +75,39 @@ Tools to identify and clean up unused or duplicate media files.
 **<a href="https://github.com/soderlind/vmfa-rules-engine#readme">Virtual Media Folders - Rules Engine</a>**
 
 Rule-based automatic folder assignment for media uploads, based on metadata, file type, or other criteria. 
+
+</td>
+<td valign="top" width="50%"></td>
+</tr>
+<tr>
+<td colspan="2">
+
+### WordPress Multisite Plugins
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**<a href="https://github.com/soderlind/all-sites-cron#readme">All Sites Cron</a>** ⭐ 7
+
+Run wp-cron on all public sites in a multisite network
+
+</td>
+<td valign="top" width="50%">
+
+**<a href="https://github.com/soderlind/multisite-exporter#readme">Multisite Exporter</a>** ⭐ 6
+
+Multisite Exporter is a WordPress plugin that allows you to export content from all subsites in a WordPress multisite installation. The plugin generates WordPress XML (WXR) files by running the WordPress exporter on each subsite in the background using the Action Scheduler library, making it efficient even for large multisite networks.
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**<a href="https://github.com/soderlind/super-admin-switch-to-admin#readme">Super Admin Switch To Admin</a>** ⭐ 7
+
+If you are logged in as a super admin, this User Switching companion allows you to switch to a regular admin account on the current site.
 
 </td>
 <td valign="top" width="50%"></td>
@@ -105,20 +138,11 @@ Generate alt text for images using AI. Supports multiple AI providers including 
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/all-sites-cron#readme">All Sites Cron</a>** ⭐ 7
-
-Run wp-cron on all public sites in a multisite network
-
-</td>
-<td valign="top" width="50%">
-
-**<a href="https://github.com/soderlind/cm-beautiful#readme">Color Me Beautiful</a>**
+**<a href="https://github.com/soderlind/cm-beautiful#readme">Color Me Beautiful</a>** ⭐ 1
 
 Personalise the WordPress admin with your own accent colour.
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/content-poll#readme">Content Poll</a>** ⭐ 2
@@ -126,6 +150,8 @@ Personalise the WordPress admin with your own accent colour.
 A modern, accessible polling block that lets visitors vote on questions about your content. Generate the poll using AI. Supports multiple AI providers including OpenAI, Claude, Gemini, Ollama, Azure OpenAI, and Grok.
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/custom-document-folder#readme">Custom Document Folder</a>** ⭐ 3
@@ -133,8 +159,6 @@ A modern, accessible polling block that lets visitors vote on questions about yo
 Organize document uploads by automatically directing specific file types to custom folders based on their extensions.
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/editor-can-manage-privacy-options#readme">Editor Can Manage Privacy Options</a>** ⭐ 1
@@ -142,20 +166,13 @@ Organize document uploads by automatically directing specific file types to cust
 A lightweight WordPress plugin that grants the Editor role access to manage site Privacy Settings — capabilities normally restricted to Administrators.
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/gf-html-area-editor#readme">Gravity Forms HTML Area Editor</a>** ⭐ 1
 
 Adds a rich text editor (TinyMCE) to the Gravity Forms HTML field content setting, replacing the default plain textarea.
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**<a href="https://github.com/soderlind/multisite-exporter#readme">Multisite Exporter</a>** ⭐ 6
-
-Multisite Exporter is a WordPress plugin that allows you to export content from all subsites in a WordPress multisite installation. The plugin generates WordPress XML (WXR) files by running the WordPress exporter on each subsite in the background using the Action Scheduler library, making it efficient even for large multisite networks.
 
 </td>
 <td valign="top" width="50%">
@@ -185,28 +202,18 @@ Robust Redis-backed background job processing for WordPress. Provides prioritize
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/super-admin-switch-to-admin#readme">Super Admin Switch To Admin</a>** ⭐ 7
-
-If you are logged in as a super admin, this plugin allows you to switch to a regular admin account on the current site.
-
-</td>
-<td valign="top" width="50%">
-
 **<a href="https://github.com/soderlind/talking-head#readme">Talking Head 💬</a>** ⭐ 1
 
 Talking Head lets you write multi-speaker conversations in the WordPress block editor, then generate podcast-quality audio using AI text-to-speech. Each speaker ("head") gets their own voice, and the plugin stitches the segments together into a single audio file with configurable silence gaps.
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/wp-loupe#readme">WP Loupe</a>** ⭐ 82
+**<a href="https://github.com/soderlind/wp-loupe#readme">WP Loupe</a>** ⭐ 83
 
 WP Loupe is a powerful search enhancement plugin for WordPress that delivers fast, accurate, and typo-tolerant search results. WP Loupe exposes a developer-friendly API so you can build your own search UI.
 
 </td>
-<td valign="top" width="50%"></td>
 </tr>
 <tr>
 <td colspan="2">
