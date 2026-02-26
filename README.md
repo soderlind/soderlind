@@ -211,7 +211,7 @@ Talking Head lets you write multi-speaker conversations in the WordPress block e
 
 **<a href="https://github.com/soderlind/wp-loupe#readme">WP Loupe</a>** ⭐ 84
 
-WP Loupe is a powerful search enhancement plugin for WordPress that delivers fast, accurate, and typo-tolerant search results. WP Loupe exposes a developer-friendly API so you can build your own search UI.
+WP Loupe is a powerful search enhancement plugin for WordPress that delivers fast, accurate, and typo-tolerant search results. WP Loupe exposes a developer-friendly API so you can build your own search UI. WP Loupe works out of the box with WordPress’s standard search.
 
 </td>
 </tr>
