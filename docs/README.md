@@ -102,6 +102,25 @@ python build_readme.py
 
 The script modifies `README.md` **in place** — only the region between the `<!-- plugins starts -->` / `<!-- plugins ends -->` markers is rewritten.
 
+## GitHub Actions Automation
+
+The README is rebuilt automatically by a GitHub Actions workflow defined in [`.github/workflows/update-plugins.yml`](../.github/workflows/update-plugins.yml). It runs in three situations:
+
+| Trigger              | When                                                        |
+|----------------------|-------------------------------------------------------------|
+| **Push**             | Any commit that changes `repo.json`                         |
+| **Schedule (cron)**  | Every day at 07:00 UTC — keeps star counts fresh            |
+| **Manual**           | On-demand via the "Run workflow" button in the Actions tab   |
+
+### What the workflow does
+
+1. Checks out the repo.
+2. Sets up Python and installs `httpx`.
+3. Runs `python build_readme.py` with `GITHUB_TOKEN` so API calls are authenticated.
+4. If the README changed, commits and pushes automatically (as `github-actions` bot).
+
+Because of this automation, you typically only need to **edit `repo.json` and push** — the workflow takes care of the rest.
+
 ## Tips
 
 - **Empty description** (`""`) → the script fetches the description from the GitHub API.
