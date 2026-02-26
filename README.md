@@ -278,3 +278,5 @@ I made the [WordPress Development — Copilot Instructions](https://github.com/g
   </td>
   </tr>
   </table>
+
+<div align="right"><sub><a href="docs/README.md">How this README is built</a></sub></div>
