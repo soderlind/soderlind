@@ -202,25 +202,19 @@ Robust Redis-backed background job processing for WordPress. Provides prioritize
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/talking-head#readme">Talking Head 💬</a>** ⭐ 1
-
-Talking Head lets you write multi-speaker conversations in the WordPress block editor, then generate podcast-quality audio using AI text-to-speech. Each speaker ("head") gets their own voice, and the plugin stitches the segments together into a single audio file with configurable silence gaps.
-
-</td>
-<td valign="top" width="50%">
-
 **<a href="https://github.com/soderlind/wp-loupe#readme">WP Loupe</a>** ⭐ 84
 
 WP Loupe is a powerful search enhancement plugin for WordPress that delivers fast, accurate, and typo-tolerant search results. WP Loupe exposes a developer-friendly API so you can build your own search UI. WP Loupe works out of the box with WordPress’s standard search.
 
 </td>
+<td valign="top" width="50%"></td>
 </tr>
 <tr>
 <td colspan="2">
 
 ### :construction: AI Experiments :construction:
 
-Very beta projects exploring the use of AI in WordPress.
+Some very beta other production ready projects,  exploring the use of AI in WordPress.
 
 </td>
 </tr>
@@ -248,7 +242,13 @@ This plugin provides Azure OpenAI integration for the WordPress AI Client, enabl
 Extract design systems from WordPress themes using deterministic parsing and AI synthesis.
 
 </td>
-<td valign="top" width="50%"></td>
+<td valign="top" width="50%">
+
+**<a href="https://github.com/soderlind/talking-head#readme">Talking Head</a>** ⭐ 1
+
+Talking Head lets you write multi-speaker conversations in the WordPress block editor, then generate podcast-quality audio using AI text-to-speech. Each speaker ("head") gets their own voice, and the plugin stitches the segments together into a single audio file with configurable silence gaps.
+
+</td>
 </tr>
 </table>
 

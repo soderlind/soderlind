@@ -107,11 +107,6 @@
 				"description": ""
 			},
 			{
-				"url": "https://github.com/soderlind/talking-head",
-				"title": "Talking Head 💬",
-				"description": ""
-			},
-			{
 				"url": "https://github.com/soderlind/cm-beautiful",
 				"title": "Color Me Beautiful",
 				"description": ""
@@ -120,7 +115,7 @@
 	},
 	{
 		"title": ":construction: AI Experiments :construction:",
-		"description": "Very beta projects exploring the use of AI in WordPress.",
+		"description": "Some very beta other production ready projects,  exploring the use of AI in WordPress.",
 		"children": [
 			{
 				"url": "https://github.com/soderlind/admin-coach-tours",
@@ -129,6 +124,11 @@
 			{
 				"url": "https://github.com/soderlind/ps-design-system",
 				"title": "PS Design System",
+				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/talking-head",
+				"title": "Talking Head",
 				"description": ""
 			},
 			{
