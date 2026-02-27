@@ -41,24 +41,6 @@
 		]
 	},
 	{
-		"title": "WordPress Multisite Plugins",
-		"description": "",
-		"children": [
-			{
-				"url": "https://github.com/soderlind/super-admin-switch-to-admin",
-				"description": ""
-			},
-			{
-				"url": "https://github.com/soderlind/all-sites-cron",
-				"description": ""
-			},
-			{
-				"url": "https://github.com/soderlind/multisite-exporter",
-				"description": ""
-			}
-		]
-	},
-	{
 		"title": ":construction: AI Experiments :construction:",
 		"description": "Some are in early beta, while others are production ready, and all explore how AI can be used in WordPress.",
 		"children": [
@@ -79,6 +61,24 @@
 			{
 				"url": "https://github.com/soderlind/ai-provider-for-azure-openai",
 				"title": "AI Provider for Azure OpenAI",
+				"description": ""
+			}
+		]
+	},
+	{
+		"title": "WordPress Multisite Plugins",
+		"description": "",
+		"children": [
+			{
+				"url": "https://github.com/soderlind/super-admin-switch-to-admin",
+				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/all-sites-cron",
+				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/multisite-exporter",
 				"description": ""
 			}
 		]
