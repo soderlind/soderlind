@@ -130,6 +130,11 @@
 				"url": "https://github.com/soderlind/ps-design-system",
 				"title": "PS Design System",
 				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/ai-provider-for-azure-openai",
+				"title": "AI Provider for Azure OpenAI",
+				"description": ""
 			}
 		]
 	}

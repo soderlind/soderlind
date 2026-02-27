@@ -234,11 +234,21 @@ AI-powered interactive tutorials for the WordPress block editor.
 </td>
 <td valign="top" width="50%">
 
+**<a href="https://github.com/soderlind/ai-provider-for-azure-openai#readme">AI Provider for Azure OpenAI</a>**
+
+This plugin provides Azure OpenAI integration for the WordPress AI Client, enabling text generation, image generation, embedding generation, and text-to-speech using Azure's hosted OpenAI models.
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
 **<a href="https://github.com/soderlind/ps-design-system#readme">PS Design System</a>**
 
 Extract design systems from WordPress themes using deterministic parsing and AI synthesis.
 
 </td>
+<td valign="top" width="50%"></td>
 </tr>
 </table>
 
