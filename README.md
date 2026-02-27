@@ -115,6 +115,47 @@ If you are logged in as a super admin, this User Switching companion allows you 
 <tr>
 <td colspan="2">
 
+### :construction: AI Experiments :construction:
+
+Some are in early beta, while others are production ready, and all explore how AI can be used in WordPress.
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**<a href="https://github.com/soderlind/admin-coach-tours#readme">Admin Coach Tours</a>** ⭐ 3
+
+AI-powered interactive tutorials for the WordPress block editor.
+
+</td>
+<td valign="top" width="50%">
+
+**<a href="https://github.com/soderlind/ai-provider-for-azure-openai#readme">AI Provider for Azure OpenAI</a>**
+
+This plugin provides Azure OpenAI integration for the WordPress AI Client, enabling text generation, image generation, embedding generation, and text-to-speech using Azure's hosted OpenAI models.
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**<a href="https://github.com/soderlind/ps-design-system#readme">PS Design System</a>**
+
+Extract design systems from WordPress themes using deterministic parsing and AI synthesis.
+
+</td>
+<td valign="top" width="50%">
+
+**<a href="https://github.com/soderlind/talking-head#readme">Talking Head</a>** ⭐ 1
+
+Talking Head lets you write multi-speaker conversations in the WordPress block editor, then generate podcast-quality audio using AI text-to-speech. Each speaker ("head") gets their own voice, and the plugin stitches the segments together into a single audio file with configurable silence gaps.
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
 ### Miscellaneous WordPress Plugins
 
 </td>
@@ -208,47 +249,6 @@ WP Loupe is a powerful search enhancement plugin for WordPress that delivers fas
 
 </td>
 <td valign="top" width="50%"></td>
-</tr>
-<tr>
-<td colspan="2">
-
-### :construction: AI Experiments :construction:
-
-Some very beta other production ready projects,  exploring the use of AI in WordPress.
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**<a href="https://github.com/soderlind/admin-coach-tours#readme">Admin Coach Tours</a>** ⭐ 3
-
-AI-powered interactive tutorials for the WordPress block editor.
-
-</td>
-<td valign="top" width="50%">
-
-**<a href="https://github.com/soderlind/ai-provider-for-azure-openai#readme">AI Provider for Azure OpenAI</a>**
-
-This plugin provides Azure OpenAI integration for the WordPress AI Client, enabling text generation, image generation, embedding generation, and text-to-speech using Azure's hosted OpenAI models.
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**<a href="https://github.com/soderlind/ps-design-system#readme">PS Design System</a>**
-
-Extract design systems from WordPress themes using deterministic parsing and AI synthesis.
-
-</td>
-<td valign="top" width="50%">
-
-**<a href="https://github.com/soderlind/talking-head#readme">Talking Head</a>** ⭐ 1
-
-Talking Head lets you write multi-speaker conversations in the WordPress block editor, then generate podcast-quality audio using AI text-to-speech. Each speaker ("head") gets their own voice, and the plugin stitches the segments together into a single audio file with configurable silence gaps.
-
-</td>
 </tr>
 </table>
 

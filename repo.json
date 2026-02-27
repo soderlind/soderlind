@@ -59,6 +59,31 @@
 		]
 	},
 	{
+		"title": ":construction: AI Experiments :construction:",
+		"description": "Some are in early beta, while others are production ready, and all explore how AI can be used in WordPress.",
+		"children": [
+			{
+				"url": "https://github.com/soderlind/admin-coach-tours",
+				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/ps-design-system",
+				"title": "PS Design System",
+				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/talking-head",
+				"title": "Talking Head",
+				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/ai-provider-for-azure-openai",
+				"title": "AI Provider for Azure OpenAI",
+				"description": ""
+			}
+		]
+	},
+	{
 		"title": "Miscellaneous WordPress Plugins",
 		"description": "",
 		"children": [
@@ -109,31 +134,6 @@
 			{
 				"url": "https://github.com/soderlind/cm-beautiful",
 				"title": "Color Me Beautiful",
-				"description": ""
-			}
-		]
-	},
-	{
-		"title": ":construction: AI Experiments :construction:",
-		"description": "Some very beta other production ready projects,  exploring the use of AI in WordPress.",
-		"children": [
-			{
-				"url": "https://github.com/soderlind/admin-coach-tours",
-				"description": ""
-			},
-			{
-				"url": "https://github.com/soderlind/ps-design-system",
-				"title": "PS Design System",
-				"description": ""
-			},
-			{
-				"url": "https://github.com/soderlind/talking-head",
-				"title": "Talking Head",
-				"description": ""
-			},
-			{
-				"url": "https://github.com/soderlind/ai-provider-for-azure-openai",
-				"title": "AI Provider for Azure OpenAI",
 				"description": ""
 			}
 		]
