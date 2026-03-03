@@ -98,7 +98,7 @@ AI-powered interactive tutorials for the WordPress block editor.
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/ai-provider-for-azure-openai#readme">AI Provider for Azure OpenAI</a>** ⭐ 1
+**<a href="https://github.com/soderlind/ai-provider-for-azure-openai#readme">AI Provider for Azure OpenAI</a>** ⭐ 2
 
 This plugin provides Azure OpenAI integration for the WordPress AI Client, enabling text generation, image generation, embedding generation, and text-to-speech using Azure's hosted OpenAI models.
 
