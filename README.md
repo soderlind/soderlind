@@ -98,9 +98,25 @@ AI-powered interactive tutorials for the WordPress block editor.
 </td>
 <td valign="top" width="50%">
 
+**<a href="https://github.com/soderlind/ai-alt-text#readme">AI Alt Text</a>** ⭐ 1
+
+Generate alt text for images using AI. Supports multiple AI providers including OpenAI, Claude, Gemini, Ollama, Azure OpenAI, and Grok.
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
 **<a href="https://github.com/soderlind/ai-provider-for-azure-openai#readme">AI Provider for Azure OpenAI</a>** ⭐ 3
 
 This plugin provides Azure OpenAI integration for the WordPress AI Client, enabling text generation, image generation, embedding generation, and text-to-speech using Azure's hosted OpenAI models.
+
+</td>
+<td valign="top" width="50%">
+
+**<a href="https://github.com/soderlind/content-poll#readme">Content Poll</a>** ⭐ 2
+
+A modern, accessible polling block that lets visitors vote on questions about your content. Generate the poll using AI. Supports multiple AI providers including OpenAI, Claude, Gemini, Ollama, Azure OpenAI, and Grok.
 
 </td>
 </tr>
@@ -170,25 +186,9 @@ Use WordPress Customizer to add JavaScript
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/ai-alt-text#readme">AI Alt Text</a>** ⭐ 1
-
-Generate alt text for images using AI. Supports multiple AI providers including OpenAI, Claude, Gemini, Ollama, Azure OpenAI, and Grok.
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
 **<a href="https://github.com/soderlind/cm-beautiful#readme">Color Me Beautiful</a>** ⭐ 1
 
 Personalise the WordPress admin with your own accent colour.
-
-</td>
-<td valign="top" width="50%">
-
-**<a href="https://github.com/soderlind/content-poll#readme">Content Poll</a>** ⭐ 2
-
-A modern, accessible polling block that lets visitors vote on questions about your content. Generate the poll using AI. Supports multiple AI providers including OpenAI, Claude, Gemini, Ollama, Azure OpenAI, and Grok.
 
 </td>
 </tr>
