@@ -59,6 +59,15 @@
 				"description": ""
 			},
 			{
+				"url": "https://github.com/soderlind/ai-alt-text",
+				"title": "AI Alt Text",
+				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/content-poll",
+				"description": ""
+			},
+			{
 				"url": "https://github.com/soderlind/ai-provider-for-azure-openai",
 				"title": "AI Provider for Azure OpenAI",
 				"description": ""
@@ -99,15 +108,6 @@
 			{
 				"url": "https://github.com/soderlind/gf-html-area-editor",
 				"title": "Gravity Forms HTML Area Editor",
-				"description": ""
-			},
-			{
-				"url": "https://github.com/soderlind/ai-alt-text",
-				"title": "AI Alt Text",
-				"description": ""
-			},
-			{
-				"url": "https://github.com/soderlind/content-poll",
 				"description": ""
 			},
 			{
