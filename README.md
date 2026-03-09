@@ -82,7 +82,7 @@ Rule-based automatic folder assignment for media uploads, based on metadata, fil
 <tr>
 <td colspan="2">
 
-### :construction: AI Experiments :construction:
+### :robot: AI Experiments :robot:
 
 Some are in early beta, while others are production ready, and all explore how AI can be used in WordPress.
 
