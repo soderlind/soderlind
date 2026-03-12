@@ -262,6 +262,21 @@ I made the [WordPress Development — Copilot Instructions](https://github.com/g
 **Spec-Driven WordPress Development**, clearly stated. Everything flows from the [**Constitution**](https://github.com/soderlind/wordpress-sdd).
 
 <table border="0">
+<tr><td xvalign="top" width="20%" ><img src="wp-skills.jpg"></a></td>
+  <td valign="top">
+    <dl>
+      <dt><a href="https://github.com/soderlind/prepare-wordpress">prepare-wordpress</a></dt>
+      <dd>An agent skill that scaffolds (or updates) a WordPress project with dev tooling, coding standards, testing, git hooks, and i18n support.</dd>
+      <dt><a href="https://github.com/soderlind/ralph-wp-testing">wp-cli-local</a></dt>
+      <dd>An AI agent skill that runs WP-CLI commands against Local (by Flywheel) sites on macOS.</dd>
+	  <dd><ul>
+	  <li>"List all plugins on my Local site"</li>
+	  <li>"Activate the woocommerce plugin"</li>
+	  <li>"What version of WordPress is running?"</li>
+	  <li>"Export wp_options"</li>
+	  </ul></dd>
+    </dl>  
+  </td></tr>
 <tr><td xvalign="top" width="20%" ><a href="https://github.com/soderlind/ralph-wp"><img src="ralph-luv-wp-header.png"></a></td>
   <td valign="top">
     <dl>
