@@ -267,7 +267,7 @@ I made the [WordPress Development — Copilot Instructions](https://github.com/g
     <dl>
       <dt><a href="https://github.com/soderlind/prepare-wordpress">prepare-wordpress</a></dt>
       <dd>An agent skill that scaffolds (or updates) a WordPress project with dev tooling, coding standards, testing, git hooks, and i18n support.</dd>
-      <dt><a href="https://github.com/soderlind/ralph-wp-testing">wp-cli-local</a></dt>
+      <dt><a href="https://github.com/soderlind/wp-cli-local">wp-cli-local</a></dt>
       <dd>An AI agent skill that runs WP-CLI commands against Local (by Flywheel) sites on macOS.</dd>
 	  <dd><ul>
 	  <li>"List all plugins on my Local site"</li>
