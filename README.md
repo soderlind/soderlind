@@ -162,12 +162,18 @@ Multisite Exporter is a WordPress plugin that allows you to export content from 
 <tr>
 <td valign="top" width="50%">
 
+**<a href="https://github.com/soderlind/super-admin-all-sites-menu#readme">Super Admin All Sites Menu</a>** ⭐ 32
+
+Also available on <a href="https://wordpress.org/plugins/super-admin-all-sites-menu/" target="_blank">WordPress.org</a>.
+
+</td>
+<td valign="top" width="50%">
+
 **<a href="https://github.com/soderlind/super-admin-switch-to-admin#readme">Super Admin Switch To Admin</a>** ⭐ 7
 
 If you are logged in as a super admin, this User Switching companion allows you to switch to a regular admin account on the current site.
 
 </td>
-<td valign="top" width="50%"></td>
 </tr>
 <tr>
 <td colspan="2">

@@ -89,6 +89,11 @@
 			{
 				"url": "https://github.com/soderlind/multisite-exporter",
 				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/super-admin-all-sites-menu",
+				"title": "Super Admin All Sites Menu",
+				"description": "Also available on <a href=\"https://wordpress.org/plugins/super-admin-all-sites-menu/\" target=\"_blank\">WordPress.org</a>."
 			}
 		]
 	},
