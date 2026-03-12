@@ -93,7 +93,7 @@
 			{
 				"url": "https://github.com/soderlind/super-admin-all-sites-menu",
 				"title": "Super Admin All Sites Menu",
-				"description": "Also available on <a href=\"https://wordpress.org/plugins/super-admin-all-sites-menu/\" target=\"_blank\">WordPress.org</a>."
+				"description": "<p>For the super admin, replace WP Admin Bar My Sites menu with an All Sites menu.</p><p>Also available on <a href=\"https://wordpress.org/plugins/super-admin-all-sites-menu/\" target=\"_blank\">WordPress.org</a>.</p>"
 			}
 		]
 	},
