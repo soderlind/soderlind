@@ -283,6 +283,15 @@ I made the [WordPress Development — Copilot Instructions](https://github.com/g
 	  </ul></dd>
     </dl>  
   </td></tr>
+<tr><td xvalign="top" width="20%" ><img src="vscode.jpg"></a></td>
+  <td valign="top">
+    <dl>
+	  <dt><a href="https://github.com/soderlind/vs-local-wp">LocalWP Assistant — VS Code Chat Participant</a></dt>
+      <dd>A GitHub Copilot Chat participant (@localwp) that lets you query and manage your Local by Flywheel WordPress sites directly from VS Code.</dd>
+      <dt><a href="https://github.com/soderlind/wordpress-readme-preview">WordPress Readme</a></dt>
+      <dd>A Visual Studio Code extension that provides syntax highlighting, IntelliSense, live preview and validation for WordPress plugin readme.txt files with pixel-perfect WordPress.org rendering and comprehensive compliance checking.</dd>
+    </dl>  
+  </td></tr>
 <tr><td xvalign="top" width="20%" ><a href="https://github.com/soderlind/ralph-wp"><img src="ralph-luv-wp-header.png"></a></td>
   <td valign="top">
     <dl>
