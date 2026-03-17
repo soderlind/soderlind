@@ -24,7 +24,7 @@ Virtual Media Folders brings folder organization to your WordPress Media Library
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/virtual-media-folders#readme">Virtual Media Folders</a>** ⭐ 13
+**<a href="https://github.com/soderlind/virtual-media-folders#readme">Virtual Media Folders</a>** ⭐ 14
 
 Also available on <a href="https://wordpress.org/plugins/virtual-media-folders/" target="_blank">WordPress.org</a>.
 
@@ -217,7 +217,7 @@ A lightweight WordPress plugin that grants the Editor role access to manage site
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/gf-html-area-editor#readme">Gravity Forms HTML Area Editor</a>** ⭐ 1
+**<a href="https://github.com/soderlind/gf-html-area-editor#readme">Gravity Forms HTML Area Editor</a>** ⭐ 2
 
 Adds a rich text editor (TinyMCE) to the Gravity Forms HTML field content setting, replacing the default plain textarea.
 
