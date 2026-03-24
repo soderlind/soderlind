@@ -114,13 +114,20 @@ This plugin provides Azure OpenAI integration for the WordPress AI Client, enabl
 </td>
 <td valign="top" width="50%">
 
+**<a href="https://github.com/soderlind/ai-valve#readme">AI Valve</a>**
+
+Control, meter, and permission-gate AI usage from plugins that connect through the WordPress 7 AI connector.
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
 **<a href="https://github.com/soderlind/content-poll#readme">Content Poll</a>** ⭐ 2
 
 A modern, accessible polling block that lets visitors vote on questions about your content. Generate the poll using AI. Supports multiple AI providers including OpenAI, Claude, Gemini, Ollama, Azure OpenAI, and Grok.
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/ps-design-system#readme">PS Design System</a>**
@@ -128,6 +135,8 @@ A modern, accessible polling block that lets visitors vote on questions about yo
 Extract design systems from WordPress themes using deterministic parsing and AI synthesis.
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/talking-head#readme">Talking Head</a>** ⭐ 1
@@ -135,6 +144,7 @@ Extract design systems from WordPress themes using deterministic parsing and AI 
 Talking Head lets you write multi-speaker conversations in the WordPress block editor, then generate podcast-quality audio using AI text-to-speech. Each speaker ("head") gets their own voice, and the plugin stitches the segments together into a single audio file with configurable silence gaps.
 
 </td>
+<td valign="top" width="50%"></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -254,7 +264,13 @@ Robust Redis-backed background job processing for WordPress. Provides prioritize
 WP Loupe is a powerful search enhancement plugin for WordPress that delivers fast, accurate, and typo-tolerant search results. WP Loupe exposes a developer-friendly API so you can build your own search UI. WP Loupe works out of the box with WordPress’s standard search.
 
 </td>
-<td valign="top" width="50%"></td>
+<td valign="top" width="50%">
+
+**<a href="https://github.com/soderlind/wp-loupe-admin-search#readme">WP Loupe - Admin Search Add-On</a>** ⭐ 2
+
+A faster, smarter search experience for the WordPress admin. This add-on replaces the default admin search with WP Loupe-powered typo-tolerant, relevance-ranked results.
+
+</td>
 </tr>
 </table>
 
