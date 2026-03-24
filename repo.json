@@ -71,6 +71,11 @@
 				"url": "https://github.com/soderlind/ai-provider-for-azure-openai",
 				"title": "AI Provider for Azure OpenAI",
 				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/ai-valve",
+				"title": "AI Valve",
+				"description": ""
 			}
 		]
 	},
