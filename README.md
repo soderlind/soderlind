@@ -114,7 +114,7 @@ This plugin provides Azure OpenAI integration for the WordPress AI Client, enabl
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/ai-valve#readme">AI Valve</a>** ⭐ 1
+**<a href="https://github.com/soderlind/ai-valve#readme">AI Valve</a>** ⭐ 4
 
 Control, meter, and permission-gate AI usage from plugins that connect through the WordPress 7 AI connector.
 
