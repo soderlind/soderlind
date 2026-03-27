@@ -114,7 +114,7 @@ This plugin provides Azure OpenAI integration for the WordPress AI Client, enabl
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/ai-router#readme">AI Router</a>** ⭐ 1
+**<a href="https://github.com/soderlind/ai-router#readme">AI Router</a>** ⭐ 2
 
 Route AI requests to different provider configurations based on capability. Configure multiple instances of the same AI provider (e.g., GPT-4o for text, gpt-image-1 for images) and let AI Router automatically select the right one.
 
