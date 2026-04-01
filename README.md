@@ -123,7 +123,7 @@ Route AI requests to different provider configurations based on capability. Conf
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/ai-valve#readme">AI Valve</a>** ⭐ 9
+**<a href="https://github.com/soderlind/ai-valve#readme">AI Valve</a>** ⭐ 12
 
 Control, meter, and permission-gate AI usage from plugins that connect through the WordPress 7 AI connector.
 
