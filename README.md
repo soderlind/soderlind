@@ -24,7 +24,7 @@ Virtual Media Folders brings folder organization to your WordPress Media Library
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/virtual-media-folders#readme">Virtual Media Folders</a>** ⭐ 15
+**<a href="https://github.com/soderlind/virtual-media-folders#readme">Virtual Media Folders</a>** ⭐ 16
 
 Also available on <a href="https://wordpress.org/plugins/virtual-media-folders/" target="_blank">WordPress.org</a>.
 
@@ -56,7 +56,7 @@ Role-based folder access, move restrictions, and Inbox workflow for Virtual Medi
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/vmfa-folder-exporter#readme">Virtual Media Folders - Folder Exporter</a>**
+**<a href="https://github.com/soderlind/vmfa-folder-exporter#readme">Virtual Media Folders - Folder Exporter</a>** ⭐ 1
 
 Export folders (or subtrees) as ZIP archives with optional CSV manifests.
 
@@ -114,7 +114,7 @@ This plugin provides Azure OpenAI integration for the WordPress AI Client, enabl
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/ai-router#readme">AI Router</a>** ⭐ 3
+**<a href="https://github.com/soderlind/ai-router#readme">AI Router</a>** ⭐ 5
 
 Route AI requests to different provider configurations based on capability. Configure multiple instances of the same AI provider (e.g., GPT-4o for text, gpt-image-1 for images) and let AI Router automatically select the right one.
 
@@ -123,7 +123,7 @@ Route AI requests to different provider configurations based on capability. Conf
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/ai-valve#readme">AI Valve</a>** ⭐ 12
+**<a href="https://github.com/soderlind/ai-valve#readme">AI Valve</a>** ⭐ 14
 
 Control, meter, and permission-gate AI usage from plugins that connect through the WordPress 7 AI connector.
 
