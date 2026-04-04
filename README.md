@@ -74,7 +74,7 @@ Tools to identify and clean up unused or duplicate media files.
 
 **<a href="https://github.com/soderlind/vmfa-migrate#readme">Virtual Media Folders - Migrate</a>**
 
-Migration add-on for Virtual Media Folders. Import folders and file assignments from other media folder plugins.
+Import folders and file assignments from other media folder plugins. Supports FileBird, Enhanced Media Library, Real Media Library,HappyFiles, WP Media Folder, CatFolders and Media Library Assistant.
 
 </td>
 <td valign="top" width="50%">
