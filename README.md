@@ -72,12 +72,18 @@ Tools to identify and clean up unused or duplicate media files.
 <tr>
 <td valign="top" width="50%">
 
+**<a href="https://github.com/soderlind/vmfa-migrate#readme">Virtual Media Folders - Migrate</a>**
+
+Migration add-on for Virtual Media Folders. Import folders and file assignments from other media folder plugins.
+
+</td>
+<td valign="top" width="50%">
+
 **<a href="https://github.com/soderlind/vmfa-rules-engine#readme">Virtual Media Folders - Rules Engine</a>** ⭐ 1
 
 Rule-based automatic folder assignment for media uploads, based on metadata, file type, or other criteria. 
 
 </td>
-<td valign="top" width="50%"></td>
 </tr>
 <tr>
 <td colspan="2">
