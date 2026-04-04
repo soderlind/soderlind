@@ -10,37 +10,37 @@
 			},
 			{
 				"url": "https://github.com/soderlind/vmfa",
-				"title": "Virtual Media Folders - Add-On Manager",
+				"title": "Add-On Manager",
 				"description": "🚀 <b>Install and manage add-ons that extend Virtual Media Folders.</b>"
 			},
 			{
 				"url": "https://github.com/soderlind/vmfa-ai-organizer",
-				"title": "Virtual Media Folders - AI Organizer",
+				"title": "AI Organizer",
 				"description": "Uses vision-capable AI models to analyze actual image content and automatically organize your media library into virtual folders. This is add-on functionality requiring an API key from a supported AI service provider, or a local LLM."
 			},
 			{
 				"url": "https://github.com/soderlind/vmfa-rules-engine",
-				"title": "Virtual Media Folders - Rules Engine",
+				"title": "Rules Engine",
 				"description": "Rule-based automatic folder assignment for media uploads, based on metadata, file type, or other criteria. "
 			},
 			{
 				"url": "https://github.com/soderlind/vmfa-editorial-workflow",
-				"title": "Virtual Media Folders - Editorial Workflow",
+				"title": "Editorial Workflow",
 				"description": "Role-based folder access, move restrictions, and Inbox workflow for Virtual Media Folders."
 			},
 			{
 				"url": "https://github.com/soderlind/vmfa-media-cleanup",
-				"title": "Virtual Media Folders - Media Cleanup",
+				"title": "Media Cleanup",
 				"description": "Tools to identify and clean up unused or duplicate media files."
 			},
 			{
 				"url": "https://github.com/soderlind/vmfa-folder-exporter",
-				"title": "Virtual Media Folders - Folder Exporter",
+				"title": "Folder Exporter",
 				"description": "Export folders (or subtrees) as ZIP archives with optional CSV manifests."
 			},
 			{
 				"url": "https://github.com/soderlind/vmfa-migrate",
-				"title": "Virtual Media Folders - Migrate",
+				"title": "Migrate",
 				"description": "Import folders and file assignments from other media folder plugins. Supports FileBird, Enhanced Media Library, Real Media Library,HappyFiles, WP Media Folder, CatFolders and Media Library Assistant."
 			}
 		]
