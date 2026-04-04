@@ -24,64 +24,64 @@ Virtual Media Folders brings folder organization to your WordPress Media Library
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/virtual-media-folders#readme">Virtual Media Folders</a>** ⭐ 16
-
-Also available on <a href="https://wordpress.org/plugins/virtual-media-folders/" target="_blank">WordPress.org</a>.
-
-</td>
-<td valign="top" width="50%">
-
-**<a href="https://github.com/soderlind/vmfa#readme">Virtual Media Folders - Add-On Manager</a>** ⭐ 3
+**<a href="https://github.com/soderlind/vmfa#readme">Add-On Manager</a>** ⭐ 3
 
 🚀 <b>Install and manage add-ons that extend Virtual Media Folders.</b>
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/vmfa-ai-organizer#readme">Virtual Media Folders - AI Organizer</a>** ⭐ 4
+**<a href="https://github.com/soderlind/vmfa-ai-organizer#readme">AI Organizer</a>** ⭐ 4
 
 Uses vision-capable AI models to analyze actual image content and automatically organize your media library into virtual folders. This is add-on functionality requiring an API key from a supported AI service provider, or a local LLM.
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/vmfa-editorial-workflow#readme">Virtual Media Folders - Editorial Workflow</a>** ⭐ 1
+**<a href="https://github.com/soderlind/vmfa-editorial-workflow#readme">Editorial Workflow</a>** ⭐ 1
 
 Role-based folder access, move restrictions, and Inbox workflow for Virtual Media Folders.
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/vmfa-folder-exporter#readme">Virtual Media Folders - Folder Exporter</a>** ⭐ 1
+**<a href="https://github.com/soderlind/vmfa-folder-exporter#readme">Folder Exporter</a>** ⭐ 1
 
 Export folders (or subtrees) as ZIP archives with optional CSV manifests.
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/vmfa-media-cleanup#readme">Virtual Media Folders - Media Cleanup</a>** ⭐ 2
+**<a href="https://github.com/soderlind/vmfa-media-cleanup#readme">Media Cleanup</a>** ⭐ 2
 
 Tools to identify and clean up unused or duplicate media files.
+
+</td>
+<td valign="top" width="50%">
+
+**<a href="https://github.com/soderlind/vmfa-migrate#readme">Migrate</a>**
+
+Import folders and file assignments from other media folder plugins. Supports FileBird, Enhanced Media Library, Real Media Library,HappyFiles, WP Media Folder, CatFolders and Media Library Assistant.
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/vmfa-migrate#readme">Virtual Media Folders - Migrate</a>**
+**<a href="https://github.com/soderlind/vmfa-rules-engine#readme">Rules Engine</a>** ⭐ 1
 
-Import folders and file assignments from other media folder plugins. Supports FileBird, Enhanced Media Library, Real Media Library,HappyFiles, WP Media Folder, CatFolders and Media Library Assistant.
+Rule-based automatic folder assignment for media uploads, based on metadata, file type, or other criteria. 
 
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/vmfa-rules-engine#readme">Virtual Media Folders - Rules Engine</a>** ⭐ 1
+**<a href="https://github.com/soderlind/virtual-media-folders#readme">Virtual Media Folders</a>** ⭐ 16
 
-Rule-based automatic folder assignment for media uploads, based on metadata, file type, or other criteria. 
+Also available on <a href="https://wordpress.org/plugins/virtual-media-folders/" target="_blank">WordPress.org</a>.
 
 </td>
 </tr>
