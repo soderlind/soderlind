@@ -41,7 +41,7 @@
 			{
 				"url": "https://github.com/soderlind/vmfa-migrate",
 				"title": "Virtual Media Folders - Migrate",
-				"description": ""
+				"description": "Import folders and file assignments from other media folder plugins. Supports FileBird, Enhanced Media Library, Real Media Library,HappyFiles, WP Media Folder, CatFolders and Media Library Assistant."
 			}
 		]
 	},
