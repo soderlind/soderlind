@@ -1,7 +1,7 @@
 [
 	{
 		"title": "Virtual Media Folders",
-		"description": "Virtual Media Folders brings folder organization to your WordPress Media Library. Organize your media files into hierarchical folders <strong>without moving files on disk</strong>. Folders are virtual, so your URLs never change.",
+		"description": "<a href='https://github.com/soderlind/virtual-media-folders'>Virtual Media Folders</a> brings folder organization to your WordPress Media Library. Organize your media files into hierarchical folders <strong>without moving files on disk</strong>. Folders are virtual, so your URLs never change.",
 		"children": [
 			{
 				"url": "https://github.com/soderlind/virtual-media-folders",
