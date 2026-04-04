@@ -17,7 +17,7 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install. [Pl
 
 ### Virtual Media Folders
 
-Virtual Media Folders brings folder organization to your WordPress Media Library. Organize your media files into hierarchical folders <strong>without moving files on disk</strong>. Folders are virtual, so your URLs never change.
+<a href='https://github.com/soderlind/virtual-media-folders'>Virtual Media Folders</a> brings folder organization to your WordPress Media Library. Organize your media files into hierarchical folders <strong>without moving files on disk</strong>. Folders are virtual, so your URLs never change.
 
 </td>
 </tr>
