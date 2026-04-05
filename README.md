@@ -63,7 +63,7 @@ Tools to identify and clean up unused or duplicate media files.
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/vmfa-migrate#readme">Migrate</a>** ⭐ 1
+**<a href="https://github.com/soderlind/vmfa-migrate#readme">Migrate</a>** ⭐ 2
 
 Import folders and file assignments from other media folder plugins. Supports FileBird, Enhanced Media Library, Real Media Library,HappyFiles, WP Media Folder, CatFolders and Media Library Assistant.
 
@@ -130,7 +130,7 @@ Control, meter, and permission-gate AI usage from plugins that connect through t
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/azure-ai-foundry#readme">Azure AI Foundry</a>** ⭐ 1
+**<a href="https://github.com/soderlind/ai-provider-for-azure-ai-foundry#readme">Azure AI Foundry</a>** ⭐ 1
 
 Connect WordPress 7.0+ to Azure AI Foundry for text generation, image generation, embeddings, and more.
 
