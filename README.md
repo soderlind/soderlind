@@ -107,25 +107,25 @@ Generate alt text for images using AI. Supports multiple AI providers including 
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/ai-router#readme">AI Router</a>** ⭐ 5
+**<a href="https://github.com/soderlind/ai-provider-for-azure-ai-foundry#readme">AI Provider forAzure AI Foundry</a>** ⭐ 1
 
-Route AI requests to different provider configurations based on capability. Configure multiple instances of the same AI provider (e.g., GPT-4o for text, gpt-image-1 for images) and let AI Router automatically select the right one.
+Connect WordPress 7.0+ to Azure AI Foundry for text generation, image generation, embeddings, and more.
 
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/ai-valve#readme">AI Valve</a>** ⭐ 14
+**<a href="https://github.com/soderlind/ai-router#readme">AI Router</a>** ⭐ 5
 
-Control, meter, and permission-gate AI usage from plugins that connect through the WordPress 7 AI connector.
+Route AI requests to different provider configurations based on capability. Configure multiple instances of the same AI provider (e.g., GPT-4o for text, gpt-image-1 for images) and let AI Router automatically select the right one.
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/ai-provider-for-azure-ai-foundry#readme">Azure AI Foundry</a>** ⭐ 1
+**<a href="https://github.com/soderlind/ai-valve#readme">AI Valve</a>** ⭐ 14
 
-Connect WordPress 7.0+ to Azure AI Foundry for text generation, image generation, embeddings, and more.
+Control, meter, and permission-gate AI usage from plugins that connect through the WordPress 7 AI connector.
 
 </td>
 <td valign="top" width="50%">
