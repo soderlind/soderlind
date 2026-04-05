@@ -107,20 +107,11 @@ Generate alt text for images using AI. Supports multiple AI providers including 
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/ai-provider-for-azure-openai#readme">AI Provider for Azure OpenAI</a>** ⭐ 3
-
-This plugin provides Azure OpenAI integration for the WordPress AI Client, enabling text generation, image generation, embedding generation, and text-to-speech using Azure's hosted OpenAI models.
-
-</td>
-<td valign="top" width="50%">
-
 **<a href="https://github.com/soderlind/ai-router#readme">AI Router</a>** ⭐ 5
 
 Route AI requests to different provider configurations based on capability. Configure multiple instances of the same AI provider (e.g., GPT-4o for text, gpt-image-1 for images) and let AI Router automatically select the right one.
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/ai-valve#readme">AI Valve</a>** ⭐ 14
@@ -128,6 +119,8 @@ Route AI requests to different provider configurations based on capability. Conf
 Control, meter, and permission-gate AI usage from plugins that connect through the WordPress 7 AI connector.
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/ai-provider-for-azure-ai-foundry#readme">Azure AI Foundry</a>** ⭐ 1
@@ -135,8 +128,6 @@ Control, meter, and permission-gate AI usage from plugins that connect through t
 Connect WordPress 7.0+ to Azure AI Foundry for text generation, image generation, embeddings, and more.
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/content-poll#readme">Content Poll</a>** ⭐ 2
@@ -144,6 +135,8 @@ Connect WordPress 7.0+ to Azure AI Foundry for text generation, image generation
 A modern, accessible polling block that lets visitors vote on questions about your content. Generate the poll using AI. Supports multiple AI providers including OpenAI, Claude, Gemini, Ollama, Azure OpenAI, and Grok.
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/ps-design-system#readme">PS Design System</a>**
@@ -151,8 +144,6 @@ A modern, accessible polling block that lets visitors vote on questions about yo
 Extract design systems from WordPress themes using deterministic parsing and AI synthesis.
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/talking-head#readme">Talking Head</a>** ⭐ 1
@@ -160,7 +151,6 @@ Extract design systems from WordPress themes using deterministic parsing and AI 
 Talking Head lets you write multi-speaker conversations in the WordPress block editor, then generate podcast-quality audio using AI text-to-speech. Each speaker ("head") gets their own voice, and the plugin stitches the segments together into a single audio file with configurable silence gaps.
 
 </td>
-<td valign="top" width="50%"></td>
 </tr>
 <tr>
 <td colspan="2">
