@@ -107,7 +107,7 @@ Generate alt text for images using AI. Supports multiple AI providers including 
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/ai-provider-for-azure-ai-foundry#readme">AI Provider forAzure AI Foundry</a>** ⭐ 1
+**<a href="https://github.com/soderlind/ai-provider-for-azure-ai-foundry#readme">AI Provider for Azure AI Foundry</a>** ⭐ 1
 
 Connect WordPress 7.0+ to Azure AI Foundry for text generation, image generation, embeddings, and more.
 
