@@ -178,7 +178,7 @@ Multisite Exporter is a WordPress plugin that allows you to export content from 
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/super-admin-all-sites-menu#readme">Super Admin All Sites Menu</a>** ⭐ 33
+**<a href="https://github.com/soderlind/super-admin-all-sites-menu#readme">Super Admin All Sites Menu</a>** ⭐ 34
 
 <p>For the super admin, replace WP Admin Bar My Sites menu with an All Sites menu.</p><p>Also available on <a href="https://wordpress.org/plugins/super-admin-all-sites-menu/" target="_blank">WordPress.org</a>.</p>
 
