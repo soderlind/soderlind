@@ -75,7 +75,7 @@
 			{
 				"url": "https://github.com/soderlind/ai-provider-for-azure-ai-foundry",
 				"title": "AI Provider for Azure AI Foundry",
-				"description": ""
+				"description": "<p>Connect WordPress 7.0+ to Azure AI Foundry for text generation, image generation, embeddings, and more.</p><p>Also available on <a href=\"https://wordpress.org/plugins/ai-provider-for-azure-ai-foundry/\" target=\"_blank\">WordPress.org</a>.</p>"
 			},
 			{
 				"url": "https://github.com/soderlind/ai-router",
