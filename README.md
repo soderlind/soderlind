@@ -109,7 +109,7 @@ Generate alt text for images using AI. Supports multiple AI providers including 
 
 **<a href="https://github.com/soderlind/ai-provider-for-azure-ai-foundry#readme">AI Provider for Azure AI Foundry</a>** ⭐ 2
 
-Connect WordPress 7.0+ to Azure AI Foundry for text generation, image generation, embeddings, and more.
+<p>Connect WordPress 7.0+ to Azure AI Foundry for text generation, image generation, embeddings, and more.</p><p>Also available on <a href="https://wordpress.org/plugins/ai-provider-for-azure-ai-foundry/" target="_blank">WordPress.org</a>.</p>
 
 </td>
 <td valign="top" width="50%">
@@ -123,7 +123,7 @@ Route AI requests to different provider configurations based on capability. Conf
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/ai-valve#readme">AI Valve</a>** ⭐ 14
+**<a href="https://github.com/soderlind/ai-valve#readme">AI Valve</a>** ⭐ 15
 
 Control, meter, and permission-gate AI usage from plugins that connect through the WordPress 7 AI connector.
 
