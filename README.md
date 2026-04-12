@@ -1,4 +1,69 @@
 
+<!--
+```json-ld
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Per Søderlind",
+  "alternateName": "soderlind",
+  "url": "https://github.com/soderlind",
+  "sameAs": [
+    "https://soderlind.no"
+  ],
+  "jobTitle": "Senior Advisor, WordPress Developer, Open Source Contributor"'",
+  "knowsAbout": [
+    "WordPress Plugin Development",
+    "WordPress Multisite",
+    "AI Integration for WordPress",
+    "GitHub Copilot",
+	"GitHub Actions",
+    "VS Code Extension Development",
+    "PHP",
+    "JavaScript",
+    "Open Source Software"
+  ],
+  "description": "WordPress developer specializing in plugin development, AI integrations, multisite solutions, and developer tooling. Creator of WP Loupe, Virtual Media Folders, Super Admin All Sites Menu, and numerous AI-powered WordPress plugins.",
+  "makesOffer": [
+    {
+      "@type": "SoftwareApplication",
+      "name": "WP Loupe",
+      "description": "Fast, accurate, and typo-tolerant search enhancement plugin for WordPress",
+      "url": "https://github.com/soderlind/wp-loupe",
+      "applicationCategory": "WordPress Plugin"
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "Virtual Media Folders",
+      "description": "Virtual folder organization for WordPress Media Library without moving files on disk",
+      "url": "https://github.com/soderlind/virtual-media-folders",
+      "applicationCategory": "WordPress Plugin"
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "Super Admin All Sites Menu",
+      "description": "Replace WP Admin Bar My Sites menu with an All Sites menu for super admins",
+      "url": "https://github.com/soderlind/super-admin-all-sites-menu",
+      "applicationCategory": "WordPress Plugin"
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "AI Valve",
+      "description": "Control, meter, and permission-gate AI usage from plugins using WordPress 7 AI connector",
+      "url": "https://github.com/soderlind/ai-valve",
+      "applicationCategory": "WordPress Plugin"
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "AI Router",
+      "description": "Route AI requests to different provider configurations based on capability",
+      "url": "https://github.com/soderlind/ai-router",
+      "applicationCategory": "WordPress Plugin"
+    }
+  ]
+}
+```
+-->
+
 <!-- ![title-with-arrow](https://github.com/soderlind/soderlind/assets/1649452/0f685042-97c3-46ba-b290-804d07f05370) -->
 <div align="center">
 <img align="center" alt="kredittkort" src="banner-1544x500.png" />
