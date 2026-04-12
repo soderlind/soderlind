@@ -160,6 +160,11 @@
 				"url": "https://github.com/soderlind/cm-beautiful",
 				"title": "Color Me Beautiful",
 				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/wp-portable-text",
+				"title": "WP Portable Text",
+				"description": ""
 			}
 		]
 	}
