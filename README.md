@@ -288,6 +288,16 @@ A faster, smarter search experience for the WordPress admin. This add-on replace
 
 </td>
 </tr>
+<tr>
+<td valign="top" width="50%">
+
+**<a href="https://github.com/soderlind/wp-portable-text#readme">WP Portable Text</a>** ⭐ 6
+
+A WordPress plugin that replaces the Gutenberg block editor with a Portable Text editor. Content is stored as structured JSON in post_content and rendered to HTML via PHP on the front end.
+
+</td>
+<td valign="top" width="50%"></td>
+</tr>
 </table>
 
 <!-- plugins ends -->
