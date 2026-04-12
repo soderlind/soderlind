@@ -63,7 +63,7 @@ Tools to identify and clean up unused or duplicate media files.
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/vmfa-migrate#readme">Migrate</a>** ⭐ 2
+**<a href="https://github.com/soderlind/vmfa-migrate#readme">Migrate</a>** ⭐ 3
 
 Import folders and file assignments from other media folder plugins. Supports FileBird, Enhanced Media Library, Real Media Library,HappyFiles, WP Media Folder, CatFolders and Media Library Assistant.
 
@@ -114,20 +114,29 @@ Generate alt text for images using AI. Supports multiple AI providers including 
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/ai-router#readme">AI Router</a>** ⭐ 5
+**<a href="https://github.com/soderlind/ai-provider-for-exo#readme">AI Provider for exo</a>**
 
-Route AI requests to different provider configurations based on capability. Configure multiple instances of the same AI provider (e.g., GPT-4o for text, gpt-image-1 for images) and let AI Router automatically select the right one.
+Connect WordPress to exo — run frontier AI models locally on your device cluster.
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/ai-valve#readme">AI Valve</a>** ⭐ 15
+**<a href="https://github.com/soderlind/ai-router#readme">AI Router</a>** ⭐ 5
+
+Route AI requests to different provider configurations based on capability. Configure multiple instances of the same AI provider (e.g., GPT-4o for text, gpt-image-1 for images) and let AI Router automatically select the right one.
+
+</td>
+<td valign="top" width="50%">
+
+**<a href="https://github.com/soderlind/ai-valve#readme">AI Valve</a>** ⭐ 16
 
 Control, meter, and permission-gate AI usage from plugins that connect through the WordPress 7 AI connector.
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/content-poll#readme">Content Poll</a>** ⭐ 2
@@ -135,8 +144,6 @@ Control, meter, and permission-gate AI usage from plugins that connect through t
 A modern, accessible polling block that lets visitors vote on questions about your content. Generate the poll using AI. Supports multiple AI providers including OpenAI, Claude, Gemini, Ollama, Azure OpenAI, and Grok.
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/ps-design-system#readme">PS Design System</a>**
@@ -144,6 +151,8 @@ A modern, accessible polling block that lets visitors vote on questions about yo
 Extract design systems from WordPress themes using deterministic parsing and AI synthesis.
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/talking-head#readme">Talking Head</a>** ⭐ 1
@@ -151,6 +160,7 @@ Extract design systems from WordPress themes using deterministic parsing and AI 
 Talking Head lets you write multi-speaker conversations in the WordPress block editor, then generate podcast-quality audio using AI text-to-speech. Each speaker ("head") gets their own voice, and the plugin stitches the segments together into a single audio file with configurable silence gaps.
 
 </td>
+<td valign="top" width="50%"></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -272,7 +282,7 @@ WP Loupe is a powerful search enhancement plugin for WordPress that delivers fas
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/wp-loupe-admin-search#readme">WP Loupe - Admin Search Add-On</a>** ⭐ 2
+**<a href="https://github.com/soderlind/wp-loupe-admin-search#readme">WP Loupe - Admin Search Add-On</a>** ⭐ 3
 
 A faster, smarter search experience for the WordPress admin. This add-on replaces the default admin search with WP Loupe-powered typo-tolerant, relevance-ranked results.
 
