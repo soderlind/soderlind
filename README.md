@@ -96,7 +96,7 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install. [Pl
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/vmfa-ai-organizer#readme">AI Organizer</a>** ⭐ 4
+**<a href="https://github.com/soderlind/vmfa-ai-organizer#readme">AI Organizer</a>** ⭐ 5
 
 Uses vision-capable AI models to analyze actual image content and automatically organize your media library into virtual folders. This is add-on functionality requiring an API key from a supported AI service provider, or a local LLM.
 
