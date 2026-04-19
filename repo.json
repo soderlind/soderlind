@@ -37,6 +37,11 @@
 				"url": "https://github.com/soderlind/vmfa-migrate",
 				"title": "Migrate",
 				"description": "Import folders and file assignments from other media folder plugins. Supports FileBird, Enhanced Media Library, Real Media Library,HappyFiles, WP Media Folder, CatFolders and Media Library Assistant."
+			},
+			{
+				"url": "https://github.com/soderlind/vmfa-ai-ability",
+				"title": "AI Ability",
+				"description": ""
 			}
 		]
 	},
