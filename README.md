@@ -96,13 +96,20 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install. [Pl
 </td>
 <td valign="top" width="50%">
 
+**<a href="https://github.com/soderlind/vmfa-ai-ability#readme">AI Ability</a>**
+
+Exposes Virtual Media Folders operations as WordPress Abilities API tools for AI agents and MCP adapters.
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
 **<a href="https://github.com/soderlind/vmfa-ai-organizer#readme">AI Organizer</a>** ⭐ 5
 
 Uses vision-capable AI models to analyze actual image content and automatically organize your media library into virtual folders. This is add-on functionality requiring an API key from a supported AI service provider, or a local LLM.
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/vmfa-editorial-workflow#readme">Editorial Workflow</a>** ⭐ 1
@@ -110,6 +117,8 @@ Uses vision-capable AI models to analyze actual image content and automatically 
 Role-based folder access, move restrictions, and Inbox workflow for Virtual Media Folders.
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/vmfa-folder-exporter#readme">Folder Exporter</a>** ⭐ 1
@@ -117,8 +126,6 @@ Role-based folder access, move restrictions, and Inbox workflow for Virtual Medi
 Export folders (or subtrees) as ZIP archives with optional CSV manifests.
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/vmfa-media-cleanup#readme">Media Cleanup</a>** ⭐ 2
@@ -126,6 +133,8 @@ Export folders (or subtrees) as ZIP archives with optional CSV manifests.
 Tools to identify and clean up unused or duplicate media files.
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/vmfa-migrate#readme">Migrate</a>** ⭐ 3
@@ -133,8 +142,6 @@ Tools to identify and clean up unused or duplicate media files.
 Import folders and file assignments from other media folder plugins. Supports FileBird, Enhanced Media Library, Real Media Library,HappyFiles, WP Media Folder, CatFolders and Media Library Assistant.
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/vmfa-rules-engine#readme">Rules Engine</a>** ⭐ 1
@@ -142,7 +149,6 @@ Import folders and file assignments from other media folder plugins. Supports Fi
 Rule-based automatic folder assignment for media uploads, based on metadata, file type, or other criteria. 
 
 </td>
-<td valign="top" width="50%"></td>
 </tr>
 <tr>
 <td colspan="2">
