@@ -96,7 +96,7 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install. [Pl
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/vmfa-ai-ability#readme">AI Ability</a>**
+**<a href="https://github.com/soderlind/vmfa-ai-ability#readme">AI Ability</a>** ⭐ 1
 
 Exposes Virtual Media Folders operations as WordPress Abilities API tools for AI agents and MCP adapters.
 
