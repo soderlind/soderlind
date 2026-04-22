@@ -96,7 +96,7 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install. [Pl
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/vmfa-ai-ability#readme">AI Ability</a>**
+**<a href="https://github.com/soderlind/vmfa-ai-ability#readme">AI Ability</a>** ⭐ 1
 
 Exposes Virtual Media Folders operations as WordPress Abilities API tools for AI agents and MCP adapters.
 
@@ -226,7 +226,7 @@ Extract design systems from WordPress themes using deterministic parsing and AI 
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/talking-head#readme">Talking Head</a>** ⭐ 1
+**<a href="https://github.com/soderlind/talking-head#readme">Talking Head</a>** ⭐ 2
 
 Talking Head lets you write multi-speaker conversations in the WordPress block editor, then generate podcast-quality audio using AI text-to-speech. Each speaker ("head") gets their own voice, and the plugin stitches the segments together into a single audio file with configurable silence gaps.
 
