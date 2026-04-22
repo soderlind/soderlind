@@ -187,7 +187,7 @@ Generate alt text for images using AI. Supports multiple AI providers including 
 
 **<a href="https://github.com/soderlind/ai-provider-for-exo#readme">AI Provider for exo</a>**
 
-Connect WordPress to exo — run frontier AI models locally on your device cluster.
+<p>Connect WordPress to exo, run frontier AI models locally on your device cluster.</p><p>Also available on <a href="https://wordpress.org/plugins/ai-provider-for-exo/" target="_blank">WordPress.org</a>.</p>
 
 </td>
 </tr>
