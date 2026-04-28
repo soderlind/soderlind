@@ -346,11 +346,18 @@ Robust Redis-backed background job processing for WordPress. Provides prioritize
 <tr>
 <td valign="top" width="50%">
 
+**<a href="https://github.com/soderlind/tec-sort-by-end-date#readme">TEC Sort by End Date</a>**
+
+</td>
+<td valign="top" width="50%">
+
 **<a href="https://github.com/soderlind/wp-loupe#readme">WP Loupe</a>** ⭐ 84
 
 WP Loupe is a powerful search enhancement plugin for WordPress that delivers fast, accurate, and typo-tolerant search results. WP Loupe exposes a developer-friendly API so you can build your own search UI. WP Loupe works out of the box with WordPress’s standard search.
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/wp-loupe-admin-search#readme">WP Loupe - Admin Search Add-On</a>** ⭐ 3
@@ -358,8 +365,6 @@ WP Loupe is a powerful search enhancement plugin for WordPress that delivers fas
 A faster, smarter search experience for the WordPress admin. This add-on replaces the default admin search with WP Loupe-powered typo-tolerant, relevance-ranked results.
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/wp-portable-text#readme">WP Portable Text</a>** ⭐ 6
@@ -367,7 +372,6 @@ A faster, smarter search experience for the WordPress admin. This add-on replace
 A WordPress plugin that replaces the Gutenberg block editor with a Portable Text editor. Content is stored as structured JSON in post_content and rendered to HTML via PHP on the front end.
 
 </td>
-<td valign="top" width="50%"></td>
 </tr>
 </table>
 
