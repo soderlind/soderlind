@@ -348,6 +348,8 @@ Robust Redis-backed background job processing for WordPress. Provides prioritize
 
 **<a href="https://github.com/soderlind/tec-sort-by-end-date#readme">TEC Sort by End Date</a>**
 
+Sort The Events Calendar events by end date instead of start date.
+
 </td>
 <td valign="top" width="50%">
 
