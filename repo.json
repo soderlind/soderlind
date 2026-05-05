@@ -175,6 +175,11 @@
 				"url": "https://github.com/soderlind/tec-sort-by-end-date",
 				"title": "TEC Sort by End Date",
 				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/ps-hyphenate",
+				"title": "PS Hyphenate",
+				"description": ""
 			}
 		]
 	}
