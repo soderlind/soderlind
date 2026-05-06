@@ -330,7 +330,7 @@ A simple password protection plugin for WordPress—no usernames, no accounts, j
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/ps-hyphenate#readme">PS Hyphenate</a>**
+**<a href="https://github.com/soderlind/ps-hyphenate#readme">PS Hyphenate</a>** ⭐ 2
 
 WordPress plugin that improves text wrapping for long compound words in languages like German, Norwegian, Swedish, and Dutch.
 
