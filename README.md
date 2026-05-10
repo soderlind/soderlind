@@ -362,7 +362,7 @@ Sort The Events Calendar events by end date instead of start date.
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/wp-loupe#readme">WP Loupe</a>** ⭐ 84
+**<a href="https://github.com/soderlind/wp-loupe#readme">WP Loupe</a>** ⭐ 85
 
 WP Loupe is a powerful search enhancement plugin for WordPress that delivers fast, accurate, and typo-tolerant search results. WP Loupe exposes a developer-friendly API so you can build your own search UI. WP Loupe works out of the box with WordPress’s standard search.
 
