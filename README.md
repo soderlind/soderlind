@@ -424,10 +424,7 @@ I made the [WordPress Development — Copilot Instructions](https://github.com/g
     </tr>
   </tbody>
 </table>
-	
-
-
-  </td></tr>
+</td></tr>
 <tr><td xvalign="top" width="20%" ><img src="vscode.jpg"></a></td>
   <td valign="top">
     <dl>
