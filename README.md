@@ -394,23 +394,39 @@ A WordPress plugin that replaces the Gutenberg block editor with a Portable Text
 I made the [WordPress Development — Copilot Instructions](https://github.com/github/awesome-copilot/blob/main/instructions/wordpress.instructions.md) (please improve them) at [Awesome GitHub Copilot Customizations](https://github.com/github/awesome-copilot). You can install them by clicking: <br/> [![Install in VS Code](https://img.shields.io/badge/VS_Code-Install-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://aka.ms/awesome-copilot/install/instructions?url=vscode%3Achat-instructions%2Finstall%3Furl%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Fgithub%2Fawesome-copilot%2Fmain%2Finstructions%2Fwordpress.instructions.md) [![Install in VS Code Insiders](https://img.shields.io/badge/VS_Code_Insiders-Install-24bfa5?style=flat-square&logo=visualstudiocode&logoColor=white)](https://aka.ms/awesome-copilot/install/instructions?url=vscode-insiders%3Achat-instructions%2Finstall%3Furl%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Fgithub%2Fawesome-copilot%2Fmain%2Finstructions%2Fwordpress.instructions.md) 
 
 
+
 **Spec-Driven WordPress Development**, clearly stated. Everything flows from the [**Constitution**](https://github.com/soderlind/wordpress-sdd).
 
 <table border="0">
 <tr><td xvalign="top" width="20%" ><img src="wp-skills.jpg"></a></td>
   <td valign="top">
-    <dl>
-      <dt><a href="https://github.com/soderlind/prepare-wordpress">prepare-wordpress</a></dt>
-      <dd>An agent skill that scaffolds (or updates) a WordPress project with dev tooling, coding standards, testing, git hooks, and i18n support.</dd>
-      <dt><a href="https://github.com/soderlind/wp-cli-local">wp-cli-local</a></dt>
-      <dd>An AI agent skill that runs WP-CLI commands against Local (by Flywheel) sites on macOS.</dd>
-	  <dd><ul>
-	  <li>"List all plugins on my Local site"</li>
-	  <li>"Activate the woocommerce plugin"</li>
-	  <li>"What version of WordPress is running?"</li>
-	  <li>"Export wp_options"</li>
-	  </ul></dd>
-    </dl>  
+
+<h2>Available Skills</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Skill</th>
+      <th>Purpose</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://skills.sh/soderlind/skills/wp-cli-local"><code>wp-cli-local</code></a></td>
+      <td>Run WP-CLI commands against Local by Flywheel sites on macOS.</td>
+    </tr>
+    <tr>
+      <td><a href="https://skills.sh/soderlind/skills/prepare-wordpress"><code>prepare-wordpress</code></a></td>
+      <td>Scaffold or update a WordPress project with dev tooling, coding standards, testing, and i18n support.</td>
+    </tr>
+    <tr>
+      <td><a href="https://skills.sh/soderlind/skills/wp-bump"><code>wp-bump</code></a></td>
+      <td>Bump a WordPress plugin version and update related release metadata.</td>
+    </tr>
+  </tbody>
+</table>
+	
+
+
   </td></tr>
 <tr><td xvalign="top" width="20%" ><img src="vscode.jpg"></a></td>
   <td valign="top">
