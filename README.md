@@ -194,7 +194,7 @@ Generate alt text for images using AI. Supports multiple AI providers including 
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/ai-router#readme">AI Router</a>** ⭐ 5
+**<a href="https://github.com/soderlind/ai-router#readme">AI Router</a>** ⭐ 6
 
 Route AI requests to different provider configurations based on capability. Configure multiple instances of the same AI provider (e.g., GPT-4o for text, gpt-image-1 for images) and let AI Router automatically select the right one.
 
@@ -378,7 +378,7 @@ A faster, smarter search experience for the WordPress admin. This add-on replace
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/wp-portable-text#readme">WP Portable Text</a>** ⭐ 6
+**<a href="https://github.com/soderlind/wp-portable-text#readme">WP Portable Text</a>** ⭐ 7
 
 A WordPress plugin that replaces the Gutenberg block editor with a Portable Text editor. Content is stored as structured JSON in post_content and rendered to HTML via PHP on the front end.
 
