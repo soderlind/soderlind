@@ -89,7 +89,7 @@ Repos below are my WordPress plugins hosted here at GitHub. Easy to install. [Pl
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/vmfa#readme">Add-On Manager</a>** ⭐ 3
+**<a href="https://github.com/soderlind/vmfa#readme">Add-On Manager</a>** ⭐ 4
 
 🚀 <b>Install and manage add-ons that extend Virtual Media Folders.</b>
 
