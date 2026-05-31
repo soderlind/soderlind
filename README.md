@@ -369,7 +369,7 @@ WP Loupe is a powerful search enhancement plugin for WordPress that delivers fas
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/wp-loupe-admin-search#readme">WP Loupe - Admin Search Add-On</a>** ⭐ 3
+**<a href="https://github.com/soderlind/wp-loupe-admin-search#readme">WP Loupe - Admin Search Add-On</a>** ⭐ 4
 
 A faster, smarter search experience for the WordPress admin. This add-on replaces the default admin search with WP Loupe-powered typo-tolerant, relevance-ranked results.
 
