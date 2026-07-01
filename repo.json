@@ -121,8 +121,8 @@
 				"description": "<p>For the super admin, replace WP Admin Bar My Sites menu with an All Sites menu.</p><p>Also available on <a href=\"https://wordpress.org/plugins/super-admin-all-sites-menu/\" target=\"_blank\">WordPress.org</a>.</p>"
 			},
 			{
-				"url": "https://github.com/soderlind/multisite-override-style",
-				"title": "Multisite Override Style",
+				"url": "https://github.com/soderlind/network-style-override",
+				"title": "Network Style Override",
 				"description": ""
 			}
 		]
