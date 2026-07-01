@@ -265,7 +265,9 @@ Multisite Exporter is a WordPress plugin that allows you to export content from 
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/multisite-override-style#readme">Multisite Override Style</a>**
+**<a href="https://github.com/soderlind/network-style-override#readme">Network Style Override</a>**
+
+Network-wide CSS and theme.json overrides for WordPress Multisite. Enforce brand consistency across all subsites from a single admin panel.
 
 </td>
 <td valign="top" width="50%">
@@ -376,7 +378,7 @@ Sort The Events Calendar events by end date instead of start date.
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/wp-loupe#readme">WP Loupe</a>** ⭐ 87
+**<a href="https://github.com/soderlind/wp-loupe#readme">WP Loupe</a>** ⭐ 88
 
 WP Loupe is a powerful search enhancement plugin for WordPress that delivers fast, accurate, and typo-tolerant search results. WP Loupe exposes a developer-friendly API so you can build your own search UI. WP Loupe works out of the box with WordPress’s standard search.
 
