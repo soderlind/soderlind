@@ -267,8 +267,6 @@ Multisite Exporter is a WordPress plugin that allows you to export content from 
 
 **<a href="https://github.com/soderlind/multisite-override-style#readme">Multisite Override Style</a>**
 
-Network-wide CSS and theme.json overrides for WordPress Multisite. Enforce brand consistency across all subsites from a single admin panel.
-
 </td>
 <td valign="top" width="50%">
 
