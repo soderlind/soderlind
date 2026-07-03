@@ -190,6 +190,11 @@
 				"url": "https://github.com/soderlind/ps-hyphenate",
 				"title": "PS Hyphenate",
 				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/wp-trigv",
+				"title": "WP Trigv",
+				"description": ""
 			}
 		]
 	}
