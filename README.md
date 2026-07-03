@@ -399,7 +399,13 @@ A faster, smarter search experience for the WordPress admin. This add-on replace
 A WordPress plugin that replaces the Gutenberg block editor with a Portable Text editor. Content is stored as structured JSON in post_content and rendered to HTML via PHP on the front end.
 
 </td>
-<td valign="top" width="50%"></td>
+<td valign="top" width="50%">
+
+**<a href="https://github.com/soderlind/wp-trigv#readme">WP Trigv</a>** ⭐ 1
+
+Turns WordPress events into Trigv push notifications: posts, comments, failed logins, updates, new users, or your own custom events.
+
+</td>
 </tr>
 </table>
 
