@@ -362,7 +362,7 @@ Read Offline allows you to download posts and pages. You can download the post a
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/redis-queue#readme">Redis Queue</a>** ⭐ 1
+**<a href="https://github.com/soderlind/redis-queue#readme">Redis Queue</a>** ⭐ 2
 
 Robust Redis-backed background job processing for WordPress. Provides prioritized, delayed, and retryable jobs with an admin UI, REST API, token-based auth (scopes + rate limiting), and extensibility for custom job types.
 
@@ -401,7 +401,7 @@ A WordPress plugin that replaces the Gutenberg block editor with a Portable Text
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/wp-trigv#readme">WP Trigv</a>** ⭐ 1
+**<a href="https://github.com/soderlind/wp-trigv#readme">WP Trigv</a>** ⭐ 2
 
 Turns WordPress events into Trigv push notifications: posts, comments, failed logins, updates, new users, or your own custom events.
 
