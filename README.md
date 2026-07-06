@@ -401,7 +401,7 @@ A WordPress plugin that replaces the Gutenberg block editor with a Portable Text
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/wp-trigv#readme">WP Trigv</a>** ⭐ 2
+**<a href="https://github.com/soderlind/wp-trigv#readme">WP Trigv</a>** ⭐ 3
 
 Turns WordPress events into Trigv push notifications: posts, comments, failed logins, updates, new users, or your own custom events.
 
