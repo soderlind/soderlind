@@ -307,7 +307,7 @@ Use WordPress Customizer to add JavaScript
 
 **<a href="https://github.com/soderlind/cache-tags-for-cloudflare#readme">Cache Tags for Cloudflare</a>**
 
-Precise Cloudflare cache purging for WordPress using Cache-Tag headers.
+Precise Cloudflare cache purging for WordPress: adds Cache-Tag headers and purges only affected posts, pages, and terms.
 
 </td>
 </tr>
