@@ -195,6 +195,11 @@
 				"url": "https://github.com/soderlind/wp-trigv",
 				"title": "WP Trigv",
 				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/cache-tags-for-cloudflare",
+				"title": "Cache Tags for Cloudflare",
+				"description": ""
 			}
 		]
 	}
