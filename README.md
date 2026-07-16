@@ -305,7 +305,7 @@ Use WordPress Customizer to add JavaScript
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/cache-tags-for-cloudflare#readme">Cache Tags for Cloudflare</a>**
+**<a href="https://github.com/soderlind/cache-tags-for-cloudflare#readme">Cache Tags for Cloudflare</a>** ⭐ 1
 
 Precise Cloudflare cache purging for WordPress: adds Cache-Tag headers and purges only affected posts, pages, and terms.
 
@@ -369,7 +369,7 @@ Read Offline allows you to download posts and pages. You can download the post a
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/redis-queue#readme">Redis Queue</a>** ⭐ 2
+**<a href="https://github.com/soderlind/redis-queue#readme">Redis Queue</a>** ⭐ 3
 
 Robust Redis-backed background job processing for WordPress. Provides prioritized, delayed, and retryable jobs with an admin UI, REST API, token-based auth (scopes + rate limiting), and extensibility for custom job types.
 
