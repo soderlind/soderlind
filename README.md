@@ -362,11 +362,20 @@ WordPress plugin that improves text wrapping for long compound words in language
 <tr>
 <td valign="top" width="50%">
 
+**<a href="https://github.com/soderlind/push-notifications-for-trigv#readme">Push Notifications for Trigv</a>** ⭐ 3
+
+Turns WordPress events into Trigv push notifications: posts, comments, failed logins, updates, new users, or your own custom events.
+
+</td>
+<td valign="top" width="50%">
+
 **<a href="https://github.com/soderlind/read-offline#readme">Read Offline</a>** ⭐ 33
 
 Read Offline allows you to download posts and pages. You can download the post as PDF, ePub and markdown
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/redis-queue#readme">Redis Queue</a>** ⭐ 3
@@ -374,8 +383,6 @@ Read Offline allows you to download posts and pages. You can download the post a
 Robust Redis-backed background job processing for WordPress. Provides prioritized, delayed, and retryable jobs with an admin UI, REST API, token-based auth (scopes + rate limiting), and extensibility for custom job types.
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/tec-sort-by-end-date#readme">TEC Sort by End Date</a>**
@@ -383,6 +390,8 @@ Robust Redis-backed background job processing for WordPress. Provides prioritize
 Sort The Events Calendar events by end date instead of start date.
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/wp-loupe#readme">WP Loupe</a>** ⭐ 88
@@ -390,8 +399,6 @@ Sort The Events Calendar events by end date instead of start date.
 WP Loupe is a powerful search enhancement plugin for WordPress that delivers fast, accurate, and typo-tolerant search results. WP Loupe exposes a developer-friendly API so you can build your own search UI. WP Loupe works out of the box with WordPress’s standard search.
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/wp-loupe-admin-search#readme">WP Loupe - Admin Search Add-On</a>** ⭐ 4
@@ -399,18 +406,13 @@ WP Loupe is a powerful search enhancement plugin for WordPress that delivers fas
 A faster, smarter search experience for the WordPress admin. This add-on replaces the default admin search with WP Loupe-powered typo-tolerant, relevance-ranked results.
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/wp-portable-text#readme">WP Portable Text</a>** ⭐ 8
 
 A WordPress plugin that replaces the Gutenberg block editor with a Portable Text editor. Content is stored as structured JSON in post_content and rendered to HTML via PHP on the front end.
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**<a href="https://github.com/soderlind/wp-trigv#readme">WP Trigv</a>**
 
 </td>
 <td valign="top" width="50%"></td>
