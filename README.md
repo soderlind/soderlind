@@ -2,8 +2,18 @@
 
 <!-- ![title-with-arrow](https://github.com/soderlind/soderlind/assets/1649452/0f685042-97c3-46ba-b290-804d07f05370) -->
 <div align="center">
-<img align="center" alt="kredittkort" src="banner-1544x500.png" />
+<img align="center" alt="Per Søderlind — WordPress developer specializing in plugin development, AI integrations, and multisite solutions" src="banner-1544x500.png" />
 </div>
+
+# Per Søderlind — WordPress Developer & Plugin Author
+
+I'm a Senior Advisor and open source **WordPress developer** from Norway, focused on **plugin development**, **AI integrations for WordPress**, **WordPress Multisite** solutions, and **developer tooling** for GitHub Copilot and VS Code.
+
+I build and maintain popular open source WordPress plugins including [WP Loupe](https://github.com/soderlind/wp-loupe) (fast, typo-tolerant search), [Virtual Media Folders](https://github.com/soderlind/virtual-media-folders) (media library organization), and [Super Admin All Sites Menu](https://github.com/soderlind/super-admin-all-sites-menu) (multisite management), alongside a growing collection of AI-powered plugins, VS Code extensions, and GitHub Copilot skills.
+
+- 🌐 Website: [soderlind.no](https://soderlind.no)
+- 🧩 Plugins on [WordPress.org](https://profiles.wordpress.org/pers/) and [GitHub](https://github.com/soderlind?tab=repositories)
+- 🛠️ Focus: WordPress, PHP, JavaScript, AI integration, GitHub Copilot, GitHub Actions
 
 ## WordPress Plugins
 
