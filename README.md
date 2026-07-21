@@ -9,7 +9,7 @@
 
 I'm a Senior Advisor and open source **WordPress developer** from Norway, focused on **plugin development**, **AI integrations for WordPress**, **WordPress Multisite** solutions, and **developer tooling** for GitHub Copilot and VS Code.
 
-I build and maintain popular open source WordPress plugins including [WP Loupe](https://github.com/soderlind/wp-loupe) (fast, typo-tolerant search), [Virtual Media Folders](https://github.com/soderlind/virtual-media-folders) (media library organization), and [Super Admin All Sites Menu](https://github.com/soderlind/super-admin-all-sites-menu) (multisite management), alongside a growing collection of AI-powered plugins, VS Code extensions, and GitHub Copilot skills.
+I build and maintain popular open source WordPress plugins including [WP Loupe](https://github.com/soderlind/wp-loupe) (fast, typo-tolerant search), [Virtual Media Folders](https://github.com/soderlind/virtual-media-folders) (media library organization), and [Super Admin All Sites Menu](https://github.com/soderlind/super-admin-all-sites-menu) (multisite management), alongside a growing collection of AI-powered plugins, VS Code extensions, and AI skills.
 
 - 🌐 Website: [soderlind.no](https://soderlind.no)
 - 🧩 Plugins on [WordPress.org](https://profiles.wordpress.org/pers/) and [GitHub](https://github.com/soderlind?tab=repositories)
