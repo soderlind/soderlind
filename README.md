@@ -10,7 +10,7 @@
   "sameAs": [
     "https://soderlind.no"
   ],
-  "jobTitle": "Senior Advisor, WordPress Developer, Open Source Contributor"'",
+  "jobTitle": "Senior Advisor, WordPress Developer, Open Source Contributor",
   "knowsAbout": [
     "WordPress Plugin Development",
     "WordPress Multisite",
@@ -430,7 +430,7 @@ I made the [WordPress Development — Copilot Instructions](https://github.com/g
 **Spec-Driven WordPress Development**, clearly stated. Everything flows from the [**Constitution**](https://github.com/soderlind/wordpress-sdd).
 
 <table border="0">
-<tr><td xvalign="top" width="20%" ><img src="wp-skills.jpg"></a></td>
+<tr><td width="20%" ><img src="wp-skills.jpg"></td>
   <td valign="top">
 
 <h2>Available Skills</h2>
@@ -469,7 +469,7 @@ I made the [WordPress Development — Copilot Instructions](https://github.com/g
   </tbody>
 </table>
 </td></tr>
-<tr><td xvalign="top" width="20%" ><img src="vscode.jpg"></a></td>
+<tr><td width="20%" ><img src="vscode.jpg"></td>
   <td valign="top">
     <dl>
 	  <dt><a href="https://github.com/soderlind/vs-local-wp">LocalWP Assistant — VS Code Chat Participant</a></dt>
@@ -481,7 +481,7 @@ I made the [WordPress Development — Copilot Instructions](https://github.com/g
 	  <p>Also available on the <a href="https://marketplace.visualstudio.com/items?itemName=persoderlind.wordpress-readme-preview">VS Code Marketplace</a></p>
     </dl>  
   </td></tr>
-<tr><td xvalign="top" width="20%" ><a href="https://github.com/soderlind/ralph-wp"><img src="ralph-luv-wp-header.png"></a></td>
+<tr><td width="20%" ><a href="https://github.com/soderlind/ralph-wp"><img src="ralph-luv-wp-header.png"></a></td>
   <td valign="top">
     <dl>
       <dt><a href="https://github.com/soderlind/ralph-wp">Ralph  for WordPress projects</a></dt>
