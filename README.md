@@ -429,83 +429,38 @@ I made the [WordPress Development — Copilot Instructions](https://github.com/g
 
 **Spec-Driven WordPress Development**, clearly stated. Everything flows from the [**Constitution**](https://github.com/soderlind/wordpress-sdd).
 
-<table border="0">
-<tr><td width="20%" ><img src="wp-skills.jpg"></td>
-  <td valign="top">
+### Available Skills
 
-<h2>Available Skills</h2>
-<table>
-  <thead>
-    <tr>
-      <th>Skill</th>
-      <th>Purpose</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://skills.sh/soderlind/skills/wp-cli-local"><code>wp-cli-local</code></a></td>
-      <td>Run WP-CLI commands against Local by Flywheel sites on macOS.</td>
-    </tr>
-    <tr>
-      <td><a href="https://skills.sh/soderlind/skills/wp-pcp-local"><code>wp-pcp-local</code></a></td>
-      <td>Run the WordPress Plugin Check (PCP) against Local by Flywheel sites on macOS.</td>
-    </tr>
-    <tr>
-      <td><a href="https://skills.sh/soderlind/skills/prepare-wordpress"><code>prepare-wordpress</code></a></td>
-      <td>Scaffold or update a WordPress project with dev tooling, coding standards, testing, and i18n support.</td>
-    </tr>
-    <tr>
-      <td><a href="https://skills.sh/soderlind/skills/wp-bump"><code>wp-bump</code></a></td>
-      <td>Bump a WordPress plugin version and update related release metadata.</td>
-    </tr>
-    <tr>
-      <td><a href="https://skills.sh/soderlind/skills/browser-native"><code>browser-native</code></a></td>
-      <td>Audit JavaScript dependencies and identify packages replaceable by modern browser/runtime native APIs.</td>
-    </tr>
-    <tr>
-      <td><a href="https://skills.sh/soderlind/skills/add-apim-api"><code>add-apim-api</code></a></td>
-      <td>Scaffold a new API in Azure API Management with Bicep infrastructure.</td>
-    </tr>
-  </tbody>
-</table>
-</td></tr>
-<tr><td width="20%" ><img src="vscode.jpg"></td>
-  <td valign="top">
-    <dl>
-	  <dt><a href="https://github.com/soderlind/vs-local-wp">LocalWP Assistant — VS Code Chat Participant</a></dt>
-      <dd>A GitHub Copilot Chat participant (@localwp) that lets you query and manage your Local by Flywheel WordPress sites directly from VS Code.
-	  <p>Also available on the <a href="https://marketplace.visualstudio.com/items?itemName=persoderlind.localwp-assistant">VS Code Marketplace</a></p>
-	  </dd>
-      <dt><a href="https://github.com/soderlind/wordpress-readme-preview">WordPress Readme</a></dt>
-      <dd>A Visual Studio Code extension that provides syntax highlighting, IntelliSense, live preview and validation for WordPress plugin readme.txt files with pixel-perfect WordPress.org rendering and comprehensive compliance checking.
-	  <p>Also available on the <a href="https://marketplace.visualstudio.com/items?itemName=persoderlind.wordpress-readme-preview">VS Code Marketplace</a></p>
-    </dl>  
-  </td></tr>
-<tr><td width="20%" ><a href="https://github.com/soderlind/ralph-wp"><img src="ralph-luv-wp-header.png"></a></td>
-  <td valign="top">
-    <dl>
-      <dt><a href="https://github.com/soderlind/ralph-wp">Ralph  for WordPress projects</a></dt>
-      <dd>A tiny runner around GitHub Copilot CLI that loops in small, clean iterations—1 feature per run + commit, progress log, and a PRD checklist.</dd>
-      <dt><a href="https://github.com/soderlind/ralph-wp-testing">Ralph WP Testing</a></dt>
-      <dd>Shows how to build an end-to-end WordPress plugin testing setup with complete PHPUnit coverage, built for automated runs with Ralph.</dd>
-    </dl>  
-  </td></tr>
-  <tr>
-  <td width="20%"><a href="https://github.com/soderlind/wp-fotokopilot"><img src="wp-fotokopilot-some.jpg"></a></td>
-  <td valign="top">
-	<dl>
-	  <dt><a href="https://github.com/soderlind/wp-fotokopilot">WP FotoKopilot</a></dt>
-	  <dd>
-	  <p>WP FotoKopilot is a cross-platform Electron desktop app that connects to WordPress sites via the REST API, scans the media library, and generates missing (or improved) alt text using the GitHub Copilot SDK. Optionally organizes media into <a href="https://github.com/soderlind/virtual-media-folders">Virtual Media Folders (VMF)</a>. 
-	  </p>
-	  <p>
-	  <i>I did this as a PoC, testing <a href="https://github.com/github/copilot-sdk?tab=readme-ov-file#github-copilot-cli-sdks">GitHub Copilot SDK</a>.
-	  Developer guide is available: <a href="https://github.com/soderlind/wp-fotokopilot/tree/main/docs#wp-fotokopilot-developer-documentation">WP FotoKopilot Developer Documentation</a></i>.
-	  </p>
-	  </dd>
-	</dl>  
-  </td>
-  </tr>
-  </table>
+| Skill | Purpose |
+| --- | --- |
+| [`wp-cli-local`](https://skills.sh/soderlind/skills/wp-cli-local) | Run WP-CLI commands against Local by Flywheel sites on macOS. |
+| [`wp-pcp-local`](https://skills.sh/soderlind/skills/wp-pcp-local) | Run the WordPress Plugin Check (PCP) against Local by Flywheel sites on macOS. |
+| [`prepare-wordpress`](https://skills.sh/soderlind/skills/prepare-wordpress) | Scaffold or update a WordPress project with dev tooling, coding standards, testing, and i18n support. |
+| [`wp-bump`](https://skills.sh/soderlind/skills/wp-bump) | Bump a WordPress plugin version and update related release metadata. |
+| [`browser-native`](https://skills.sh/soderlind/skills/browser-native) | Audit JavaScript dependencies and identify packages replaceable by modern browser/runtime native APIs. |
+| [`add-apim-api`](https://skills.sh/soderlind/skills/add-apim-api) | Scaffold a new API in Azure API Management with Bicep infrastructure. |
+
+### VS Code Extensions
+
+**[LocalWP Assistant — VS Code Chat Participant](https://github.com/soderlind/vs-local-wp)**
+A GitHub Copilot Chat participant (@localwp) that lets you query and manage your Local by Flywheel WordPress sites directly from VS Code. Also available on the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=persoderlind.localwp-assistant).
+
+**[WordPress Readme](https://github.com/soderlind/wordpress-readme-preview)**
+A Visual Studio Code extension that provides syntax highlighting, IntelliSense, live preview and validation for WordPress plugin readme.txt files with pixel-perfect WordPress.org rendering and comprehensive compliance checking. Also available on the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=persoderlind.wordpress-readme-preview).
+
+### Ralph
+
+**[Ralph for WordPress projects](https://github.com/soderlind/ralph-wp)**
+A tiny runner around GitHub Copilot CLI that loops in small, clean iterations—1 feature per run + commit, progress log, and a PRD checklist.
+
+**[Ralph WP Testing](https://github.com/soderlind/ralph-wp-testing)**
+Shows how to build an end-to-end WordPress plugin testing setup with complete PHPUnit coverage, built for automated runs with Ralph.
+
+### WP FotoKopilot
+
+**[WP FotoKopilot](https://github.com/soderlind/wp-fotokopilot)**
+WP FotoKopilot is a cross-platform Electron desktop app that connects to WordPress sites via the REST API, scans the media library, and generates missing (or improved) alt text using the GitHub Copilot SDK. Optionally organizes media into [Virtual Media Folders (VMF)](https://github.com/soderlind/virtual-media-folders).
+
+_I did this as a PoC, testing [GitHub Copilot SDK](https://github.com/github/copilot-sdk?tab=readme-ov-file#github-copilot-cli-sdks). Developer guide is available: [WP FotoKopilot Developer Documentation](https://github.com/soderlind/wp-fotokopilot/tree/main/docs#wp-fotokopilot-developer-documentation)._
 
 <div align="right"><sub><a href="docs/README.md">How this README is built</a></sub></div>
