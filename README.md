@@ -2,7 +2,7 @@
 
 <!-- ![title-with-arrow](https://github.com/soderlind/soderlind/assets/1649452/0f685042-97c3-46ba-b290-804d07f05370) -->
 <div align="center">
-<img align="center" alt="Per Søderlind — WordPress developer specializing in plugin development, AI integrations, and multisite solutions" src="banner-1544x500.png" />
+
 </div>
 
 # Per Søderlind — WordPress Developer & Plugin Author
@@ -19,7 +19,7 @@ I build and maintain popular open source WordPress plugins including [WP Loupe](
 
 Repos below are my WordPress plugins hosted here at GitHub. Easy to install. [Plugin updates are handled automatically](https://github.com/soderlind/wordpress-plugin-github-updater?tab=readme-ov-file#wordpress-plugin-github-updater) via GitHub. No need to manually download and install updates.
 
-
+<img align="center" alt="Virtual Media Folders - WordPress plugin for media library organization" src="banner-1544x500.png" />
 <!-- plugins starts -->
 
 <table>
