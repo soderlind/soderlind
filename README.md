@@ -431,6 +431,8 @@ I made the [WordPress Development — Copilot Instructions](https://github.com/g
 
 ### Available Skills
 
+`npx skills add soderlind/skills` will install all skills below. You can also install them individually with `npx skills add soderlind/skills --skill <skill-name>`.
+
 | Skill | Purpose |
 | --- | --- |
 | [`wp-cli-local`](https://skills.sh/soderlind/skills/wp-cli-local) | Run WP-CLI commands against Local by Flywheel sites on macOS. |
