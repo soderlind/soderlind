@@ -447,12 +447,24 @@ I made the [WordPress Development — Copilot Instructions](https://github.com/g
       <td>Run WP-CLI commands against Local by Flywheel sites on macOS.</td>
     </tr>
     <tr>
+      <td><a href="https://skills.sh/soderlind/skills/wp-pcp-local"><code>wp-pcp-local</code></a></td>
+      <td>Run the WordPress Plugin Check (PCP) against Local by Flywheel sites on macOS.</td>
+    </tr>
+    <tr>
       <td><a href="https://skills.sh/soderlind/skills/prepare-wordpress"><code>prepare-wordpress</code></a></td>
       <td>Scaffold or update a WordPress project with dev tooling, coding standards, testing, and i18n support.</td>
     </tr>
     <tr>
       <td><a href="https://skills.sh/soderlind/skills/wp-bump"><code>wp-bump</code></a></td>
       <td>Bump a WordPress plugin version and update related release metadata.</td>
+    </tr>
+    <tr>
+      <td><a href="https://skills.sh/soderlind/skills/browser-native"><code>browser-native</code></a></td>
+      <td>Audit JavaScript dependencies and identify packages replaceable by modern browser/runtime native APIs.</td>
+    </tr>
+    <tr>
+      <td><a href="https://skills.sh/soderlind/skills/add-apim-api"><code>add-apim-api</code></a></td>
+      <td>Scaffold a new API in Azure API Management with Bicep infrastructure.</td>
     </tr>
   </tbody>
 </table>
