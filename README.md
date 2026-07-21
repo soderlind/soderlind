@@ -13,7 +13,7 @@ I build and maintain popular open source WordPress plugins including [WP Loupe](
 
 - 🌐 Website: [soderlind.no](https://soderlind.no)
 - 🧩 Plugins on [WordPress.org](https://profiles.wordpress.org/pers/) and [GitHub](https://github.com/soderlind?tab=repositories)
-- 🛠️ Focus: WordPress, PHP, JavaScript, AI integration, GitHub Copilot, GitHub Actions
+- 🛠️ Focus: WordPress, PHP, JavaScript, AI integration, GitHub Copilot, GitHub Actions, IaC, DevSecOps
 
 ## WordPress Plugins
 
