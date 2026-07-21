@@ -431,7 +431,13 @@ I made the [WordPress Development — Copilot Instructions](https://github.com/g
 
 ### Available Skills
 
-`npx skills add soderlind/skills` will install all skills below. You can also install them individually with `npx skills add soderlind/skills --skill <skill-name>`.
+Install the skills with the following command, which lets you pick all of them or select individual ones:
+
+```bash
+npx skills add soderlind/skills
+```
+
+You can also install a specific skill directly with `npx skills add soderlind/skills --skill <skill-name>`.
 
 | Skill | Purpose |
 | --- | --- |
