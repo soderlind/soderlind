@@ -108,7 +108,7 @@ Some are in early beta, while others are production ready, and all explore how A
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/admin-coach-tours#readme">Admin Coach Tours</a>** ⭐ 3
+**<a href="https://github.com/soderlind/admin-coach-tours#readme">Admin Coach Tours</a>** ⭐ 4
 
 AI-powered interactive tutorials for the WordPress block editor.
 
