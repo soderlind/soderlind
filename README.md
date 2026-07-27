@@ -165,7 +165,7 @@ A modern, accessible polling block that lets visitors vote on questions about yo
 
 **<a href="https://github.com/soderlind/llms-md#readme">LLMS MD</a>**
 
-Publish an AI-generated /llms.md on your WordPress site so AI assistants and LLM tools can understand what your site is about.
+<p>Publish an AI-generated /llms.md on your WordPress site so AI assistants and LLM tools can understand what your site is about.</p><p>Also available on <a href="https://wordpress.org/plugins/llms-md/" target="_blank">WordPress.org</a>.</p>
 
 </td>
 </tr>
