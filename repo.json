@@ -136,9 +136,9 @@
 				"description": ""
 			},
 			{
-				"url": "https://github.com/soderlind/wp-loupe",
-				"title": "WP Loupe",
-				"description": ""
+				"url": "https://github.com/soderlind/loupe-search",
+				"title": "Loupe Search",
+				"description": "<p>Fast, typo-tolerant WordPress search backed by a dedicated index, with a developer REST API and native WordPress Abilities integration.</p><p>Also available on <a href=\"https://wordpress.org/plugins/loupe-search/\" target=\"_blank\">WordPress.org</a>.</p>"
 			},
 			{
 				"url": "https://github.com/soderlind/wp-loupe-admin-search",
