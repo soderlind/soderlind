@@ -141,6 +141,11 @@
 				"description": "<p>Fast, typo-tolerant WordPress search backed by a dedicated index, with a developer REST API and native WordPress Abilities integration.</p><p>Also available on <a href=\"https://wordpress.org/plugins/loupe-search/\" target=\"_blank\">WordPress.org</a>.</p>"
 			},
 			{
+				"url": "https://github.com/soderlind/loupe-cross-site-search",
+				"title": "Loupe Cross-Site Search",
+				"description": ""
+			},
+			{
 				"url": "https://github.com/soderlind/wp-loupe-admin-search",
 				"title": "WP Loupe - Admin Search Add-On",
 				"description": ""
