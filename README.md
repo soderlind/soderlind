@@ -202,7 +202,7 @@ Run wp-cron on all public sites in a multisite network
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/loupe-cross-site-search#readme">Loupe Cross-Site Search</a>**
+**<a href="https://github.com/soderlind/loupe-cross-site-search#readme">Loupe Cross-Site Search</a>** ⭐ 1
 
 Cross-site search for WordPress multisite, built as an add-on to Loupe Search.
 
