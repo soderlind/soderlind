@@ -97,6 +97,16 @@ Rule-based automatic folder assignment for media uploads, based on metadata, fil
 </td>
 </tr>
 <tr>
+<td valign="top" width="50%">
+
+**<a href="https://github.com/soderlind/vmfa-search#readme">Search</a>**
+
+Fast, typo-tolerant search for the WordPress Media Library
+
+</td>
+<td valign="top" width="50%"></td>
+</tr>
+<tr>
 <td colspan="2">
 
 ### :robot: AI Experiments :robot:
@@ -179,7 +189,9 @@ Extract design systems from WordPress themes using deterministic parsing and AI 
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/talking-head#readme">Talking Head</a>**
+**<a href="https://github.com/soderlind/talking-head#readme">Talking Head</a>** ⭐ 3
+
+Talking Head lets you write multi-speaker conversations in the WordPress block editor, then generate podcast-quality audio using AI text-to-speech. Each speaker ("head") gets their own voice, and the plugin stitches the segments together into a single audio file with configurable silence gaps.
 
 </td>
 </tr>
@@ -225,7 +237,7 @@ Network-wide CSS and theme.json overrides for WordPress Multisite. Enforce brand
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/super-admin-all-sites-menu#readme">Super Admin All Sites Menu</a>**
+**<a href="https://github.com/soderlind/super-admin-all-sites-menu#readme">Super Admin All Sites Menu</a>** ⭐ 34
 
 <p>For the super admin, replace WP Admin Bar My Sites menu with an All Sites menu.</p><p>Also available on <a href="https://wordpress.org/plugins/super-admin-all-sites-menu/" target="_blank">WordPress.org</a>.</p>
 
