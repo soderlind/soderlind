@@ -42,6 +42,11 @@
 				"url": "https://github.com/soderlind/vmfa-ai-ability",
 				"title": "AI Ability",
 				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/vmfa-search",
+				"title": "Search",
+				"description": ""
 			}
 		]
 	},
