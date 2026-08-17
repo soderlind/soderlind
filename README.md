@@ -19,7 +19,7 @@ I build and maintain popular open source WordPress plugins including [WP Loupe](
 
 Repos below are my WordPress plugins hosted here at GitHub. Easy to install. [Plugin updates are handled automatically](https://github.com/soderlind/wordpress-plugin-github-updater?tab=readme-ov-file#wordpress-plugin-github-updater) via GitHub. No need to manually download and install updates.
 
-<img align="center" alt="Virtual Media Folders - WordPress plugin for media library organization" src="banner-1544x500.png" />
+<a href="https://wordpress.org/plugins/virtual-media-folders/" border="0"><img align="center" alt="Virtual Media Folders - WordPress plugin for media library organization" src="banner-1544x500.png" /></a>
 <!-- plugins starts -->
 
 <table>
