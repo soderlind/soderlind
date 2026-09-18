@@ -315,7 +315,7 @@ Adds a rich text editor (TinyMCE) to the Gravity Forms HTML field content settin
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/loupe-search#readme">Loupe Search</a>** ⭐ 3
+**<a href="https://github.com/soderlind/loupe-search#readme">Loupe Search</a>** ⭐ 4
 
 <p>Fast, typo-tolerant WordPress search backed by a dedicated index, with a developer REST API and native WordPress Abilities integration.</p><p>Also available on <a href="https://wordpress.org/plugins/loupe-search/" target="_blank">WordPress.org</a>.</p>
 
