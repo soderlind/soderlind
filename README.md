@@ -150,7 +150,7 @@ Generate alt text for images using AI. Supports multiple AI providers including 
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/ai-provider-for-jev#readme">AI Provider for JEV</a>**
+**<a href="https://github.com/soderlind/ai-provider-for-jev#readme">AI Provider for JEV</a>** ⭐ 1
 
 Connect WordPress to TypeSafe's Jev System One model for structured decisions (choice, score, noul).
 
