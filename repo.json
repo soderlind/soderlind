@@ -220,6 +220,11 @@
 				"url": "https://github.com/soderlind/kjeks",
 				"title": "Kjeks - Cookie Consent",
 				"description": "<p>Cookie consent management for WordPress (single site or Multisite): per-site tracker inventories, prior blocking of non-essential technologies, and an accessible consent banner.</p><p>More information at <a href=\"https://kjeks.soderlind.no/\" target=\"_blank\">kjeks.soderlind.no</a>.</p>"
+			},
+			{
+				"url": "https://github.com/soderlind/jev-comment-triage",
+				"title": "JEV Comment Triage",
+				"description": ""
 			}
 		]
 	}
