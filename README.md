@@ -318,11 +318,20 @@ Adds a rich text editor (TinyMCE) to the Gravity Forms HTML field content settin
 <tr>
 <td valign="top" width="50%">
 
+**<a href="https://github.com/soderlind/jev-comment-triage#readme">JEV Comment Triage</a>**
+
+Async Jev-powered WordPress comment triage: background spam, scam/phishing, and toxicity moderation that keeps comment submission fast.
+
+</td>
+<td valign="top" width="50%">
+
 **<a href="https://github.com/soderlind/kjeks#readme">Kjeks - Cookie Consent</a>** ⭐ 1
 
 <p>Cookie consent management for WordPress (single site or Multisite): per-site tracker inventories, prior blocking of non-essential technologies, and an accessible consent banner.</p><p>More information at <a href="https://kjeks.soderlind.no/" target="_blank">kjeks.soderlind.no</a>.</p>
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/loupe-search#readme">Loupe Search</a>** ⭐ 4
@@ -330,8 +339,6 @@ Adds a rich text editor (TinyMCE) to the Gravity Forms HTML field content settin
 <p>Fast, typo-tolerant WordPress search backed by a dedicated index, with a developer REST API and native WordPress Abilities integration.</p><p>Also available on <a href="https://wordpress.org/plugins/loupe-search/" target="_blank">WordPress.org</a>.</p>
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/passwp-posts#readme">PassWP - Posts</a>** ⭐ 1
@@ -339,6 +346,8 @@ Adds a rich text editor (TinyMCE) to the Gravity Forms HTML field content settin
 A simple password protection plugin for WordPress—no usernames, no accounts, just one shared password. Share the password with those who need access and they're in. Perfect for situations where you need quick, hassle-free access control without user management.
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/ps-hyphenate#readme">PS Hyphenate</a>** ⭐ 2
@@ -346,8 +355,6 @@ A simple password protection plugin for WordPress—no usernames, no accounts, j
 WordPress plugin that improves text wrapping for long compound words in languages like German, Norwegian, Swedish, and Dutch.
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/push-notifications-for-trigv#readme">Push Notifications for Trigv</a>** ⭐ 3
@@ -355,6 +362,8 @@ WordPress plugin that improves text wrapping for long compound words in language
 Turns WordPress events into Trigv push notifications: posts, comments, failed logins, updates, new users, or your own custom events.
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/read-offline#readme">Read Offline</a>** ⭐ 33
@@ -362,8 +371,6 @@ Turns WordPress events into Trigv push notifications: posts, comments, failed lo
 Read Offline allows you to download posts and pages. You can download the post as PDF, ePub and markdown
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/redis-queue#readme">Redis Queue</a>** ⭐ 3
@@ -371,6 +378,8 @@ Read Offline allows you to download posts and pages. You can download the post a
 Robust Redis-backed background job processing for WordPress. Provides prioritized, delayed, and retryable jobs with an admin UI, REST API, token-based auth (scopes + rate limiting), and extensibility for custom job types.
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/tec-sort-by-end-date#readme">TEC Sort by End Date</a>**
@@ -378,8 +387,6 @@ Robust Redis-backed background job processing for WordPress. Provides prioritize
 Sort The Events Calendar events by end date instead of start date.
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/wp-loupe-admin-search#readme">WP Loupe - Admin Search Add-On</a>** ⭐ 4
@@ -387,6 +394,8 @@ Sort The Events Calendar events by end date instead of start date.
 A faster, smarter search experience for the WordPress admin. This add-on replaces the default admin search with WP Loupe-powered typo-tolerant, relevance-ranked results.
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/wp-portable-text#readme">WP Portable Text</a>** ⭐ 8
@@ -394,6 +403,7 @@ A faster, smarter search experience for the WordPress admin. This add-on replace
 A WordPress plugin that replaces the Gutenberg block editor with a Portable Text editor. Content is stored as structured JSON in post_content and rendered to HTML via PHP on the front end.
 
 </td>
+<td valign="top" width="50%"></td>
 </tr>
 </table>
 
