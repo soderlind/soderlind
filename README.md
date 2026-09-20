@@ -150,7 +150,7 @@ Generate alt text for images using AI. Supports multiple AI providers including 
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/ai-provider-for-jev#readme">AI Provider for JEV</a>** ⭐ 2
+**<a href="https://github.com/soderlind/ai-provider-for-jev#readme">AI Provider for JEV</a>** ⭐ 3
 
 Connect WordPress to TypeSafe's Jev System One model for structured decisions (choice, score, noul).
 
@@ -318,7 +318,7 @@ Adds a rich text editor (TinyMCE) to the Gravity Forms HTML field content settin
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/jev-comment-triage#readme">JEV Comment Triage</a>**
+**<a href="https://github.com/soderlind/jev-comment-triage#readme">JEV Comment Triage</a>** ⭐ 1
 
 Async Jev-powered WordPress comment triage: background spam, scam/phishing, and toxicity moderation that keeps comment submission fast.
 
