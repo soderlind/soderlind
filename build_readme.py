@@ -125,7 +125,7 @@ def get_monthly_stats(username=USERNAME, months=12):
 		alias = "m{}_{:02d}".format(start.year, start.month)
 		node = user.get(alias) or {}
 		stats.append({
-			"label": start.strftime("%b %Y"),
+			"label": start.strftime("%b '%y"),
 			"commits": node.get("totalCommitContributions", 0),
 			"repos": node.get("totalRepositoriesWithContributedCommits", 0),
 		})
