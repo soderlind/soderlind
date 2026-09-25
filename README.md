@@ -409,6 +409,33 @@ A WordPress plugin that replaces the Gutenberg block editor with a Portable Text
 
 <!-- plugins ends -->
 
+## GitHub Activity
+
+Commits and repositories contributed to, per month (last 12 months).
+
+<!-- stats starts -->
+
+```mermaid
+xychart-beta
+    title "Commits per month"
+    x-axis ["Oct 2025", "Nov 2025", "Dec 2025", "Jan 2026", "Feb 2026", "Mar 2026", "Apr 2026", "May 2026", "Jun 2026", "Jul 2026", "Aug 2026", "Sep 2026"]
+    y-axis "Commits" 0 --> 415
+    bar [209, 249, 336, 415, 321, 351, 282, 142, 129, 308, 300, 66]
+    line [209, 249, 336, 415, 321, 351, 282, 142, 129, 308, 300, 66]
+```
+
+```mermaid
+xychart-beta
+    title "Repositories contributed to per month"
+    x-axis ["Oct 2025", "Nov 2025", "Dec 2025", "Jan 2026", "Feb 2026", "Mar 2026", "Apr 2026", "May 2026", "Jun 2026", "Jul 2026", "Aug 2026", "Sep 2026"]
+    y-axis "Repos" 0 --> 34
+    bar [15, 8, 8, 16, 19, 28, 27, 19, 13, 29, 34, 10]
+```
+
+_Last 12 months: 3108 commits. Source: GitHub GraphQL `contributionsCollection`._
+
+<!-- stats ends -->
+
 ## WordPress & GitHub Copilot
 
 I made the [WordPress Development — Copilot Instructions](https://github.com/github/awesome-copilot/blob/main/instructions/wordpress.instructions.md) (please improve them) at [Awesome GitHub Copilot Customizations](https://github.com/github/awesome-copilot). You can install them by clicking: <br/> [![Install in VS Code](https://img.shields.io/badge/VS_Code-Install-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://aka.ms/awesome-copilot/install/instructions?url=vscode%3Achat-instructions%2Finstall%3Furl%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Fgithub%2Fawesome-copilot%2Fmain%2Finstructions%2Fwordpress.instructions.md) [![Install in VS Code Insiders](https://img.shields.io/badge/VS_Code_Insiders-Install-24bfa5?style=flat-square&logo=visualstudiocode&logoColor=white)](https://aka.ms/awesome-copilot/install/instructions?url=vscode-insiders%3Achat-instructions%2Finstall%3Furl%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2Fgithub%2Fawesome-copilot%2Fmain%2Finstructions%2Fwordpress.instructions.md) 
