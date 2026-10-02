@@ -150,7 +150,7 @@ Generate alt text for images using AI. Supports multiple AI providers including 
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/ai-provider-for-jev#readme">AI Provider for JEV</a>** ⭐ 4
+**<a href="https://github.com/soderlind/ai-provider-for-jev#readme">AI Provider for JEV</a>** ⭐ 5
 
 Connect WordPress to TypeSafe's Jev System One model for structured decisions (choice, score, noul).
 
@@ -318,7 +318,7 @@ Adds a rich text editor (TinyMCE) to the Gravity Forms HTML field content settin
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/jev-comment-triage#readme">JEV Comment Triage</a>** ⭐ 2
+**<a href="https://github.com/soderlind/jev-comment-triage#readme">JEV Comment Triage</a>** ⭐ 3
 
 Async Jev-powered WordPress comment triage: background spam, scam/phishing, and toxicity moderation that keeps comment submission fast.
 
@@ -420,8 +420,8 @@ xychart-beta
     title "Commits per month"
     x-axis ["Nov '25", "Dec '25", "Jan '26", "Feb '26", "Mar '26", "Apr '26", "May '26", "Jun '26", "Jul '26", "Aug '26", "Sep '26", "Oct '26"]
     y-axis "Commits" 0 --> 415
-    bar [249, 336, 415, 321, 351, 282, 142, 129, 308, 300, 86, 0]
-    line [249, 336, 415, 321, 351, 282, 142, 129, 308, 300, 86, 0]
+    bar [249, 336, 415, 321, 351, 282, 142, 129, 308, 300, 86, 2]
+    line [249, 336, 415, 321, 351, 282, 142, 129, 308, 300, 86, 2]
 ```
 
 ```mermaid
@@ -429,10 +429,10 @@ xychart-beta
     title "Repositories contributed to per month"
     x-axis ["Nov '25", "Dec '25", "Jan '26", "Feb '26", "Mar '26", "Apr '26", "May '26", "Jun '26", "Jul '26", "Aug '26", "Sep '26", "Oct '26"]
     y-axis "Repos" 0 --> 34
-    bar [8, 8, 16, 19, 28, 27, 19, 13, 29, 34, 10, 0]
+    bar [8, 8, 16, 19, 28, 27, 19, 13, 29, 34, 10, 1]
 ```
 
-_Last 12 months: 2919 commits. Source: GitHub GraphQL `contributionsCollection`._
+_Last 12 months: 2921 commits. Source: GitHub GraphQL `contributionsCollection`._
 
 <!-- stats ends -->
 
