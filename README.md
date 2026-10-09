@@ -420,8 +420,8 @@ xychart-beta
     title "Commits per month"
     x-axis ["Nov '25", "Dec '25", "Jan '26", "Feb '26", "Mar '26", "Apr '26", "May '26", "Jun '26", "Jul '26", "Aug '26", "Sep '26", "Oct '26"]
     y-axis "Commits" 0 --> 415
-    bar [249, 336, 415, 321, 351, 282, 142, 129, 308, 300, 86, 3]
-    line [249, 336, 415, 321, 351, 282, 142, 129, 308, 300, 86, 3]
+    bar [249, 336, 415, 321, 351, 282, 142, 129, 308, 300, 86, 23]
+    line [249, 336, 415, 321, 351, 282, 142, 129, 308, 300, 86, 23]
 ```
 
 ```mermaid
@@ -429,10 +429,10 @@ xychart-beta
     title "Repositories contributed to per month"
     x-axis ["Nov '25", "Dec '25", "Jan '26", "Feb '26", "Mar '26", "Apr '26", "May '26", "Jun '26", "Jul '26", "Aug '26", "Sep '26", "Oct '26"]
     y-axis "Repos" 0 --> 34
-    bar [8, 8, 16, 19, 28, 27, 19, 13, 29, 34, 10, 1]
+    bar [8, 8, 16, 19, 28, 27, 19, 13, 29, 34, 10, 4]
 ```
 
-_Last 12 months: 2922 commits. Source: GitHub GraphQL `contributionsCollection`._
+_Last 12 months: 2942 commits. Source: GitHub GraphQL `contributionsCollection`._
 
 <!-- stats ends -->
 
