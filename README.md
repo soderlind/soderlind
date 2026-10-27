@@ -413,28 +413,6 @@ A WordPress plugin that replaces the Gutenberg block editor with a Portable Text
 
 Commits and repositories contributed to, per month (last 12 months).
 
-<!-- stats starts -->
-
-```mermaid
-xychart-beta
-    title "Commits per month"
-    x-axis ["Nov '25", "Dec '25", "Jan '26", "Feb '26", "Mar '26", "Apr '26", "May '26", "Jun '26", "Jul '26", "Aug '26", "Sep '26", "Oct '26"]
-    y-axis "Commits" 0 --> 415
-    bar [249, 336, 415, 321, 351, 282, 142, 129, 308, 300, 86, 74]
-    line [249, 336, 415, 321, 351, 282, 142, 129, 308, 300, 86, 74]
-```
-
-```mermaid
-xychart-beta
-    title "Repositories contributed to per month"
-    x-axis ["Nov '25", "Dec '25", "Jan '26", "Feb '26", "Mar '26", "Apr '26", "May '26", "Jun '26", "Jul '26", "Aug '26", "Sep '26", "Oct '26"]
-    y-axis "Repos" 0 --> 34
-    bar [8, 8, 16, 19, 28, 27, 19, 13, 29, 34, 10, 15]
-```
-
-_Last 12 months: 2993 commits. Source: GitHub GraphQL `contributionsCollection`._
-
-<!-- stats ends -->
 
 ## WordPress & GitHub Copilot
 
