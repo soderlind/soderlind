@@ -334,14 +334,14 @@ Async Jev-powered WordPress comment triage: background spam, scam/phishing, and 
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/loupe-search#readme">Loupe Search</a>** ⭐ 4
+**<a href="https://github.com/soderlind/loupe-search#readme">Loupe Search</a>** ⭐ 5
 
 <p>Fast, typo-tolerant WordPress search backed by a dedicated index, with a developer REST API and native WordPress Abilities integration.</p><p>Also available on <a href="https://wordpress.org/plugins/loupe-search/" target="_blank">WordPress.org</a>.</p>
 
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/loupe-search-block#readme">Loupe Search Block</a>**
+**<a href="https://github.com/soderlind/loupe-search-block#readme">Loupe Search Block</a>** ⭐ 1
 
 Search block for Loupe Search: live search-as-you-type, post type filter, category/tag facets and sorting.
 
