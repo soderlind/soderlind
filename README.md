@@ -440,12 +440,18 @@ You can also install a specific skill directly with `npx skills add soderlind/sk
 
 | Skill | Purpose |
 | --- | --- |
-| [`wp-cli-local`](https://skills.sh/soderlind/skills/wp-cli-local) | Run WP-CLI commands against Local by Flywheel sites on macOS. |
-| [`wp-pcp-local`](https://skills.sh/soderlind/skills/wp-pcp-local) | Run the WordPress Plugin Check (PCP) against Local by Flywheel sites on macOS. |
-| [`prepare-wordpress`](https://skills.sh/soderlind/skills/prepare-wordpress) | Scaffold or update a WordPress project with dev tooling, coding standards, testing, and i18n support. |
+| [`wp-prepare`](https://skills.sh/soderlind/skills/wp-prepare) | Scaffold or update a WordPress project with dev tooling, coding standards, testing, and i18n support. |
+| [`wp-ability-auth`](https://skills.sh/soderlind/skills/wp-ability-auth) | Audit or implement two-tier authorization for WordPress abilities and REST routes, catching IDOR gaps and inconsistent 403 contracts. |
 | [`wp-bump`](https://skills.sh/soderlind/skills/wp-bump) | Bump a WordPress plugin version and update related release metadata. |
-| [`browser-native`](https://skills.sh/soderlind/skills/browser-native) | Audit JavaScript dependencies and identify packages replaceable by modern browser/runtime native APIs. |
+| [`wp-cli-local`](https://skills.sh/soderlind/skills/wp-cli-local) | Run WP-CLI commands against Local by Flywheel sites on macOS. |
+| [`wp-mutate`](https://skills.sh/soderlind/skills/wp-mutate) | Run mutation testing on WordPress PHP and JavaScript to find weak tests, then triage surviving mutants. |
+| [`wp-org-review`](https://skills.sh/soderlind/skills/wp-org-review) | Prepare a plugin for the WordPress.org Directory review, fixing findings the reviewer catches beyond Plugin Check/PHPCS. |
+| [`wp-pcp-local`](https://skills.sh/soderlind/skills/wp-pcp-local) | Run the WordPress Plugin Check (PCP) against Local by Flywheel sites on macOS. |
+| [`browser-native`](https://skills.sh/soderlind/skills/browser-native) | Audit JavaScript dependencies and identify packages replaceable by modern browser/runtime native APIs, with Baseline status and confidence. |
 | [`add-apim-api`](https://skills.sh/soderlind/skills/add-apim-api) | Scaffold a new API in Azure API Management with Bicep infrastructure. |
+| [`document-architecture`](https://skills.sh/soderlind/skills/document-architecture) | Create, improve, or audit repository architecture and concept documentation. |
+| [`pre-launch-security-audit`](https://skills.sh/soderlind/skills/pre-launch-security-audit) | Run an evidence-backed security and abuse-resistance review before an application launch. |
+| [`bump`](https://skills.sh/soderlind/skills/bump) | Bump a project's version across every detected manifest, update the changelog from commit history, and run the project's own build and test gates. |
 
 ## VS Code Extensions
 
