@@ -309,7 +309,7 @@ A lightweight WordPress plugin that grants the Editor role access to manage site
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/gf-html-area-editor#readme">Gravity Forms HTML Area Editor</a>** ⭐ 2
+**<a href="https://github.com/soderlind/gf-html-area-editor#readme">Gravity Forms HTML Area Editor</a>** ⭐ 3
 
 Adds a rich text editor (TinyMCE) to the Gravity Forms HTML field content setting, replacing the default plain textarea.
 
