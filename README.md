@@ -189,7 +189,7 @@ A modern, accessible polling block that lets visitors vote on questions about yo
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/ps-design-system#readme">PS Design System</a>**
+**<a href="https://github.com/soderlind/ps-design-system#readme">PS Design System</a>** ⭐ 1
 
 Extract design systems from WordPress themes using deterministic parsing and AI synthesis.
 
