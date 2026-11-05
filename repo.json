@@ -230,6 +230,11 @@
 				"url": "https://github.com/soderlind/jev-comment-triage",
 				"title": "JEV Comment Triage",
 				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/tachyon-r2",
+				"title": "Tachyon R2",
+				"description": ""
 			}
 		]
 	}
