@@ -238,13 +238,20 @@ Multisite Exporter is a WordPress plugin that allows you to export content from 
 </td>
 <td valign="top" width="50%">
 
+**<a href="https://github.com/soderlind/network-ai-connector#readme">Network AI Connector</a>**
+
+Manage supported AI connections and provider credentials centrally across a WordPress multisite network.
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
 **<a href="https://github.com/soderlind/network-style-override#readme">Network Style Override</a>**
 
 Network-wide CSS and theme.json overrides for WordPress Multisite. Enforce brand consistency across all subsites from a single admin panel.
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/super-admin-all-sites-menu#readme">Super Admin All Sites Menu</a>** ⭐ 34
@@ -252,6 +259,8 @@ Network-wide CSS and theme.json overrides for WordPress Multisite. Enforce brand
 <p>For the super admin, replace WP Admin Bar My Sites menu with an All Sites menu.</p><p>Also available on <a href="https://wordpress.org/plugins/super-admin-all-sites-menu/" target="_blank">WordPress.org</a>.</p>
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/super-admin-switch-to-admin#readme">Super Admin Switch To Admin</a>** ⭐ 7
@@ -259,6 +268,7 @@ Network-wide CSS and theme.json overrides for WordPress Multisite. Enforce brand
 If you are logged in as a super admin, this User Switching companion allows you to switch to a regular admin account on the current site.
 
 </td>
+<td valign="top" width="50%"></td>
 </tr>
 <tr>
 <td colspan="2">
