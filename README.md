@@ -399,13 +399,20 @@ Robust Redis-backed background job processing for WordPress. Provides prioritize
 </td>
 <td valign="top" width="50%">
 
+**<a href="https://github.com/soderlind/tachyon-edge-images#readme">Tachyon Edge Images</a>**
+
+Compatible replacement for tachyon-plugin: rewrites WordPress image URLs to a Tachyon server, with bug fixes.
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
 **<a href="https://github.com/soderlind/tachyon-r2#readme">Tachyon R2</a>**
 
 Store WordPress images in Cloudflare R2 for the Tachyon Edge Worker
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/tec-sort-by-end-date#readme">TEC Sort by End Date</a>**
@@ -413,6 +420,8 @@ Store WordPress images in Cloudflare R2 for the Tachyon Edge Worker
 Sort The Events Calendar events by end date instead of start date.
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/wp-loupe-admin-search#readme">WP Loupe - Admin Search Add-On</a>** ⭐ 4
@@ -420,8 +429,6 @@ Sort The Events Calendar events by end date instead of start date.
 A faster, smarter search experience for the WordPress admin. This add-on replaces the default admin search with WP Loupe-powered typo-tolerant, relevance-ranked results.
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/wp-portable-text#readme">WP Portable Text</a>** ⭐ 8
@@ -429,7 +436,6 @@ A faster, smarter search experience for the WordPress admin. This add-on replace
 A WordPress plugin that replaces the Gutenberg block editor with a Portable Text editor. Content is stored as structured JSON in post_content and rendered to HTML via PHP on the front end.
 
 </td>
-<td valign="top" width="50%"></td>
 </tr>
 </table>
 
