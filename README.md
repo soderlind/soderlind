@@ -166,6 +166,14 @@ Route AI requests to different provider configurations based on capability. Conf
 <tr>
 <td valign="top" width="50%">
 
+**<a href="https://github.com/soderlind/ai-translator-for-polylang#readme">AI Translator for Polylang</a>**
+
+</td>
+<td valign="top" width="50%"></td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
 **<a href="https://github.com/soderlind/ai-valve#readme">AI Valve</a>** ⭐ 19
 
 Control, meter, and permission-gate AI usage from plugins that connect through the WordPress 7 AI connector.
