@@ -166,12 +166,11 @@ Route AI requests to different provider configurations based on capability. Conf
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/ai-translator-for-polylang#readme">AI Translator for Polylang</a>**
+**<a href="https://github.com/soderlind/ai-translator-for-polylang#readme">AI Translator for Polylang</a>** ⭐ 1
+
+Click Polylang's Add a translation (+) to create a linked draft translated by the WordPress AI Client in the background.
 
 </td>
-<td valign="top" width="50%"></td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/ai-valve#readme">AI Valve</a>** ⭐ 19
@@ -179,6 +178,8 @@ Route AI requests to different provider configurations based on capability. Conf
 Control, meter, and permission-gate AI usage from plugins that connect through the WordPress 7 AI connector.
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/content-poll#readme">Content Poll</a>** ⭐ 2
@@ -186,8 +187,6 @@ Control, meter, and permission-gate AI usage from plugins that connect through t
 A modern, accessible polling block that lets visitors vote on questions about your content. Generate the poll using AI. Supports multiple AI providers including OpenAI, Claude, Gemini, Ollama, Azure OpenAI, and Grok.
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/llms-md#readme">LLMS MD</a>**
@@ -195,6 +194,8 @@ A modern, accessible polling block that lets visitors vote on questions about yo
 <p>Publish an AI-generated /llms.md on your WordPress site so AI assistants and LLM tools can understand what your site is about.</p><p>Also available on <a href="https://wordpress.org/plugins/llms-md/" target="_blank">WordPress.org</a>.</p>
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/ps-design-system#readme">PS Design System</a>** ⭐ 1
@@ -202,8 +203,6 @@ A modern, accessible polling block that lets visitors vote on questions about yo
 Extract design systems from WordPress themes using deterministic parsing and AI synthesis.
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/talking-head#readme">Talking Head</a>** ⭐ 2
@@ -211,7 +210,6 @@ Extract design systems from WordPress themes using deterministic parsing and AI 
 Talking Head lets you write multi-speaker conversations in the WordPress block editor, then generate podcast-quality audio using AI text-to-speech. Each speaker ("head") gets their own voice, and the plugin stitches the segments together into a single audio file with configurable silence gaps.
 
 </td>
-<td valign="top" width="50%"></td>
 </tr>
 <tr>
 <td colspan="2">
