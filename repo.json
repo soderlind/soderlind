@@ -51,6 +51,33 @@
 		]
 	},
 	{
+		"url": "https://github.com/soderlind/loupe-search",
+		"title": "Loupe Search",
+		"description": "<p>Fast, typo-tolerant WordPress search backed by a dedicated index, with a developer REST API and native WordPress Abilities integration.</p><p>Also available on <a href=\"https://wordpress.org/plugins/loupe-search/\" target=\"_blank\">WordPress.org</a>.</p>",
+		"children": [
+			{
+				"url": "https://github.com/soderlind/loupe-cross-site-search",
+				"title": "Loupe Cross-Site Search",
+				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/loupe-search-block",
+				"title": "Loupe Search Block",
+				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/loupe-semantic-search",
+				"title": "Loupe Semantic Search",
+				"description": ""
+			},
+			{
+				"url": "https://github.com/soderlind/wp-loupe-admin-search",
+				"title": "WP Loupe - Admin Search Add-On",
+				"description": ""
+			}
+		]
+	},
+	{
 		"title": ":robot: AI Experiments :robot:",
 		"description": "Some are in early beta, while others are production ready, and all explore how AI can be used in WordPress.",
 		"children": [
@@ -144,11 +171,6 @@
 				"url": "https://github.com/soderlind/network-style-override",
 				"title": "Network Style Override",
 				"description": ""
-			},
-			{
-				"url": "https://github.com/soderlind/loupe-cross-site-search",
-				"title": "Loupe Cross-Site Search",
-				"description": ""
 			}
 		]
 	},
@@ -158,21 +180,6 @@
 		"children": [
 			{
 				"url": "https://github.com/soderlind/read-offline",
-				"description": ""
-			},
-			{
-				"url": "https://github.com/soderlind/loupe-search",
-				"title": "Loupe Search",
-				"description": "<p>Fast, typo-tolerant WordPress search backed by a dedicated index, with a developer REST API and native WordPress Abilities integration.</p><p>Also available on <a href=\"https://wordpress.org/plugins/loupe-search/\" target=\"_blank\">WordPress.org</a>.</p>"
-			},
-			{
-				"url": "https://github.com/soderlind/loupe-search-block",
-				"title": "Loupe Search Block",
-				"description": ""
-			},
-			{
-				"url": "https://github.com/soderlind/wp-loupe-admin-search",
-				"title": "WP Loupe - Admin Search Add-On",
 				"description": ""
 			},
 			{

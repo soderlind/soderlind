@@ -109,6 +109,47 @@ Fast, typo-tolerant search for the WordPress Media Library
 <tr>
 <td colspan="2">
 
+### <a href="https://github.com/soderlind/loupe-search#readme">Loupe Search</a> ⭐ 5
+
+<p>Fast, typo-tolerant WordPress search backed by a dedicated index, with a developer REST API and native WordPress Abilities integration.</p><p>Also available on <a href="https://wordpress.org/plugins/loupe-search/" target="_blank">WordPress.org</a>.</p>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**<a href="https://github.com/soderlind/loupe-cross-site-search#readme">Loupe Cross-Site Search</a>** ⭐ 1
+
+Cross-site search for WordPress multisite, built as an add-on to Loupe Search.
+
+</td>
+<td valign="top" width="50%">
+
+**<a href="https://github.com/soderlind/loupe-search-block#readme">Loupe Search Block</a>** ⭐ 1
+
+Search block for Loupe Search: live search-as-you-type, post type filter, category/tag facets and sorting.
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**<a href="https://github.com/soderlind/loupe-semantic-search#readme">Loupe Semantic Search</a>**
+
+Semantic retrieval and hybrid search for Loupe Search, using embeddings from WordPress 7 AI Connectors.
+
+</td>
+<td valign="top" width="50%">
+
+**<a href="https://github.com/soderlind/wp-loupe-admin-search#readme">WP Loupe - Admin Search Add-On</a>** ⭐ 4
+
+A faster, smarter search experience for the WordPress admin. This add-on replaces the default admin search with WP Loupe-powered typo-tolerant, relevance-ranked results.
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
 ### :robot: AI Experiments :robot:
 
 Some are in early beta, while others are production ready, and all explore how AI can be used in WordPress.
@@ -228,20 +269,13 @@ Run wp-cron on all public sites in a multisite network
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/loupe-cross-site-search#readme">Loupe Cross-Site Search</a>** ⭐ 1
-
-Cross-site search for WordPress multisite, built as an add-on to Loupe Search.
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
 **<a href="https://github.com/soderlind/multisite-exporter#readme">Multisite Exporter</a>** ⭐ 7
 
 Multisite Exporter is a WordPress plugin that allows you to export content from all subsites in a WordPress multisite installation. The plugin generates WordPress XML (WXR) files by running the WordPress exporter on each subsite in the background using the Action Scheduler library, making it efficient even for large multisite networks.
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/network-ai-connector#readme">Network AI Connector</a>**
@@ -249,8 +283,6 @@ Multisite Exporter is a WordPress plugin that allows you to export content from 
 Manage supported AI connections and provider credentials centrally across a WordPress multisite network.
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/network-style-override#readme">Network Style Override</a>**
@@ -258,6 +290,8 @@ Manage supported AI connections and provider credentials centrally across a Word
 Network-wide CSS and theme.json overrides for WordPress Multisite. Enforce brand consistency across all subsites from a single admin panel.
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/super-admin-all-sites-menu#readme">Super Admin All Sites Menu</a>** ⭐ 34
@@ -265,8 +299,6 @@ Network-wide CSS and theme.json overrides for WordPress Multisite. Enforce brand
 <p>For the super admin, replace WP Admin Bar My Sites menu with an All Sites menu.</p><p>Also available on <a href="https://wordpress.org/plugins/super-admin-all-sites-menu/" target="_blank">WordPress.org</a>.</p>
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
 **<a href="https://github.com/soderlind/super-admin-switch-to-admin#readme">Super Admin Switch To Admin</a>** ⭐ 7
@@ -274,7 +306,6 @@ Network-wide CSS and theme.json overrides for WordPress Multisite. Enforce brand
 If you are logged in as a super admin, this User Switching companion allows you to switch to a regular admin account on the current site.
 
 </td>
-<td valign="top" width="50%"></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -350,22 +381,6 @@ Async Jev-powered WordPress comment triage: background spam, scam/phishing, and 
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/loupe-search#readme">Loupe Search</a>** ⭐ 5
-
-<p>Fast, typo-tolerant WordPress search backed by a dedicated index, with a developer REST API and native WordPress Abilities integration.</p><p>Also available on <a href="https://wordpress.org/plugins/loupe-search/" target="_blank">WordPress.org</a>.</p>
-
-</td>
-<td valign="top" width="50%">
-
-**<a href="https://github.com/soderlind/loupe-search-block#readme">Loupe Search Block</a>** ⭐ 1
-
-Search block for Loupe Search: live search-as-you-type, post type filter, category/tag facets and sorting.
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
 **<a href="https://github.com/soderlind/passwp-posts#readme">PassWP - Posts</a>** ⭐ 1
 
 A simple password protection plugin for WordPress—no usernames, no accounts, just one shared password. Share the password with those who need access and they're in. Perfect for situations where you need quick, hassle-free access control without user management.
@@ -430,18 +445,12 @@ Sort The Events Calendar events by end date instead of start date.
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/wp-loupe-admin-search#readme">WP Loupe - Admin Search Add-On</a>** ⭐ 4
-
-A faster, smarter search experience for the WordPress admin. This add-on replaces the default admin search with WP Loupe-powered typo-tolerant, relevance-ranked results.
-
-</td>
-<td valign="top" width="50%">
-
 **<a href="https://github.com/soderlind/wp-portable-text#readme">WP Portable Text</a>** ⭐ 8
 
 A WordPress plugin that replaces the Gutenberg block editor with a Portable Text editor. Content is stored as structured JSON in post_content and rendered to HTML via PHP on the front end.
 
 </td>
+<td valign="top" width="50%"></td>
 </tr>
 </table>
 
