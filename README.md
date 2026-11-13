@@ -134,7 +134,7 @@ Search block for Loupe Search: live search-as-you-type, post type filter, catego
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/loupe-semantic-search#readme">Loupe Semantic Search</a>**
+**<a href="https://github.com/soderlind/loupe-semantic-search#readme">Loupe Semantic Search</a>** ⭐ 1
 
 Semantic retrieval and hybrid search for Loupe Search, using embeddings from WordPress 7 AI Connectors.
 
