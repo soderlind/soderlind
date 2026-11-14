@@ -109,7 +109,7 @@ Fast, typo-tolerant search for the WordPress Media Library
 <tr>
 <td colspan="2">
 
-### <a href="https://github.com/soderlind/loupe-search#readme">Loupe Search</a> ⭐ 5
+### <a href="https://github.com/soderlind/loupe-search#readme">Loupe Search</a> ⭐ 6
 
 <p>Fast, typo-tolerant WordPress search backed by a dedicated index, with a developer REST API and native WordPress Abilities integration.</p><p>Also available on <a href="https://wordpress.org/plugins/loupe-search/" target="_blank">WordPress.org</a>.</p>
 
@@ -125,7 +125,7 @@ Cross-site search for WordPress multisite, built as an add-on to Loupe Search.
 </td>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/loupe-search-block#readme">Loupe Search Block</a>** ⭐ 1
+**<a href="https://github.com/soderlind/loupe-search-block#readme">Loupe Search Block</a>** ⭐ 2
 
 Search block for Loupe Search: live search-as-you-type, post type filter, category/tag facets and sorting.
 
