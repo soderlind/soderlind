@@ -40,6 +40,7 @@ The file is a **JSON array of groups**. Each group becomes a section heading in 
 | `url`         | **Yes**  | Full GitHub URL (e.g. `"https://github.com/soderlind/wp-loupe"`).                                                   |
 | `title`       | No       | Display name. If omitted, derived from the repo name: hyphens → spaces → Title Case (`wp-loupe` → `"Wp Loupe"`).    |
 | `description` | No       | Short description. If omitted or `""`, the repo description is fetched from the GitHub API automatically.           |
+| `featured`    | No       | Set to `true` to place this child before the alphabetically sorted entries in its group.                            |
 
 ### Minimal Example
 
@@ -70,7 +71,7 @@ This produces:
 | **plugin-one**          | Title auto-generated as "Plugin One", description from GitHub |
 | **Plugin Two**          | Uses the custom title and description                         |
 
-Children are **sorted alphabetically** by title and laid out in a **two-column** grid.
+Children are **sorted alphabetically** by title and laid out in a **two-column** grid. Children with `"featured": true` appear first, with featured children also sorted alphabetically.
 
 ### Group with its own Repo URL
 

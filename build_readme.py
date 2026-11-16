@@ -205,7 +205,13 @@ def build_markdown(plugins):
 		
 		# Children in two columns (sorted alphabetically by title)
 		children = parent.get("children", [])
-		children = sorted(children, key=lambda c: get_title_from_repo(c["url"], c.get("title")).lower())
+		children = sorted(
+			children,
+			key=lambda c: (
+				not c.get("featured", False),
+				get_title_from_repo(c["url"], c.get("title")).lower(),
+			),
+		)
 		for i in range(0, len(children), 2):
 			md_parts.append("<tr>")
 			

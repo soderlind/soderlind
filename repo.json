@@ -61,6 +61,12 @@
 				"description": ""
 			},
 			{
+				"url": "https://github.com/soderlind/loupe-search-addons",
+				"title": "Loupe Search Add-ons",
+				"featured": true,
+				"description": ""
+			},
+			{
 				"url": "https://github.com/soderlind/loupe-search-block",
 				"title": "Loupe Search Block",
 				"description": ""
@@ -120,8 +126,8 @@
 				"description": ""
 			},
 			{
-				"url": "https://github.com/soderlind/ai-translator-for-polylang",
-				"title": "AI Translator for Polylang",
+				"url": "https://github.com/soderlind/translate-with-ai-for-polylang",
+				"title": "Translate with AI for Polylang",
 				"description": ""
 			},
 			{
