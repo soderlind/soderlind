@@ -207,9 +207,7 @@ Route AI requests to different provider configurations based on capability. Conf
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/ai-translator-for-polylang#readme">AI Translator for Polylang</a>** ⭐ 1
-
-Click Polylang's Add a translation (+) to create a linked draft translated by the WordPress AI Client in the background.
+**<a href="https://github.com/soderlind/ai-translator-for-polylang#readme">AI Translator for Polylang</a>**
 
 </td>
 <td valign="top" width="50%">
