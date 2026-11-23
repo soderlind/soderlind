@@ -109,7 +109,7 @@ Fast, typo-tolerant search for the WordPress Media Library
 <tr>
 <td colspan="2">
 
-### <a href="https://github.com/soderlind/loupe-search#readme">Loupe Search</a> ⭐ 6
+### <a href="https://github.com/soderlind/loupe-search#readme">Loupe Search</a> ⭐ 7
 
 <p>Fast, typo-tolerant WordPress search backed by a dedicated index, with a developer REST API and native WordPress Abilities integration.</p><p>Also available on <a href="https://wordpress.org/plugins/loupe-search/" target="_blank">WordPress.org</a>.</p>
 
