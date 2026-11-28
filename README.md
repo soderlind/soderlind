@@ -304,7 +304,7 @@ Network-wide CSS and theme.json overrides for WordPress Multisite. Enforce brand
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/super-admin-all-sites-menu#readme">Super Admin All Sites Menu</a>** ⭐ 34
+**<a href="https://github.com/soderlind/super-admin-all-sites-menu#readme">Super Admin All Sites Menu</a>** ⭐ 35
 
 <p>For the super admin, replace WP Admin Bar My Sites menu with an All Sites menu.</p><p>Also available on <a href="https://wordpress.org/plugins/super-admin-all-sites-menu/" target="_blank">WordPress.org</a>.</p>
 
@@ -375,9 +375,9 @@ Adds a rich text editor (TinyMCE) to the Gravity Forms HTML field content settin
 <tr>
 <td valign="top" width="50%">
 
-**<a href="https://github.com/soderlind/jev-comment-triage#readme">JEV Comment Triage</a>** ⭐ 3
+**<a href="https://github.com/soderlind/jev-comment-triage#readme">JEV Comment Triage</a>** ⭐ 4
 
-Async Jev-powered WordPress comment triage: background spam, scam/phishing, and toxicity moderation that keeps comment submission fast.
+Async Jev-powered WordPress comment triage: For every comment Jev answers three independent questions in the context of its post: how it relates to the post, whether it is spam, and whether it is abusive.
 
 </td>
 <td valign="top" width="50%">
